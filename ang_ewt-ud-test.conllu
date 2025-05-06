@@ -1,0 +1,2653 @@
+# sent_id = LAWSABT.001.018.001.									
+# text = Gif man mannan wępnum bebyreð, ðær ceas weorð, and man nænig yfel ne gedeð, VI scillingum gebete									
+# text_en = If one man supplies another with weapons when a quarrel is taking place, no injury however being inflicted, he, the lender, shall pay 6 shillings compensation									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	mannan	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+4	wępnum	wǣpen	NOUN	common noun	Case=Dat|Gender=Neut|Number=Plur	5	obl	_	_
+5	bebyreð	beberan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	ðær	ðǣr ‘there’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	9	mark	_	_
+8	ceas	cēast 	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+9	weorð	weorðan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+11	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	17	cc	_	_
+12	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+13	ne	ne ‘not’	PART	particle	Polarity=Neg|Uninflected=Yes	14	nmod	_	SpaceAfter=No
+14	ænig	ǣnig 	DET	determiner	Case=Acc|Gender=Neut|Number=Sing	15	det	_	_
+15	yfel	yfel	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+16	ne	ne ‘not’	PART	particle	Polarity=Neg|Uninflected=Yes	17	advmod	_	_
+17	gedeð	dōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
+18	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+19	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	20	nummod	_	_
+20	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	21	obj	_	_
+21	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+									
+# sent_id = ASCA.YEAR0721.001.001									
+# text = 721. Her Daniel ferde to Rome;									
+# text_en = 721. Here Daniel travelled to Rome.									
+1	721	721	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	Daniel	Daniel	PROPN	proper noun	Case=Nom|Number=Sing	5	nsubj	_	_
+5	ferde	fēran	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	7	case	_	_
+7	Rome	Rōm	PROPN	proper noun	Case=Dat|Number=Sing	5	obl:lmod	_	SpaceAfter=No
+8	;	;	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = ASCA.YEAR0721.001.002									
+# text = and ðy ilcan geare Ine ofslog Cynewulf.									
+# text_en = And the same year Ine killed Cynewulf.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
+2	ðy	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Ins|Gender=Neut|Number=Sing|PronType=DemArt	4	det	_	_
+3	ilcan	ilca 'same'	ADJ	adjective	Case=Dat|Gender=Neut|Number=Sing	4	amod	_	_
+4	geare	gēar 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	6	obl:tmod	_	_
+5	Ine	Ine	PROPN	proper noun	Case=Nom|Number=Sing	6	nsubj	_	_
+6	ofslog	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	Cynewulf	Cynewulf	PROPN	proper noun	Case=Acc|Number=Sing	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+									
+# sent_id = ASCA.YEAR0722.001.001									
+# text = 722. Her Æðelburg cuen towearp Tantun ðe Ine ær timbrede;									
+# text_en = 722. Here Queen Æthelburh threw down Taunton which Ine built earlier;									
+1	722	722	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+4	Æðelburg	Æðelburh	PROPN	proper noun	Case=Nom|Number=Sing	5	flat	_	_
+5	cuen	cwēn 	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	towearp	tōweorpan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	Tantun	Tantun	PROPN	proper noun	Case=Acc|Number=Sing	6	obj	_	_
+8	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	11	obj	_	_
+9	Ine	Ine	PROPN	proper noun	Case=Nom|Number=Sing	11	nsubj	_	_
+10	ær	ǣr ‘before that’	ADV	adverb	Uninflected=Yes	11	advmod	_	_
+11	timbrede	timbran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	SpaceAfter=No
+12	;	;	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = ASCA.YEAR0722.001.002									
+# text = and Aldbryht wræccea gewat on Suðrige and on Suð Seaxe;									
+# text_en = and the exile Ealdberht departed into Surrey									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+2	Aldbryht	Aldberht	PROPN	proper noun	Case=Nom|Number=Sing	3	flat	_	_
+3	wræccea	wræcca	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	gewat	wītan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+6	Suðrige	Suðrege	PROPN	proper noun	Case=Acc|Number=Sing	4	obl:lmod	_	_
+7	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	10	cc	_	_
+8	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	10	case	_	_
+9	Suð	sūð ‘south’	ADJ	adjective	Case=Acc|Number=Plur	10	amod	_	_
+10	Seaxe	Seaxan	ADJ	proper adjective	Case=Acc|Number=Plur	6	conj	_	SpaceAfter=No
+11	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0722.001.003									
+# text = and Ine gefeaht wið Suð Seaxum.									
+# text_en = and Ine fought against the South Saxons.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	Ine	Ine	PROPN	proper noun	Case=Nom|Number=Sing	3	nsubj	_	_
+3	gefeaht	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	wið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+5	Suð	sūð ‘south’	ADJ	adjective	Case=Dat|Number=Plur	6	amod	_	_
+6	Seaxum	Seaxan	ADJ	proper adjective	Case=Dat|Number=Plur	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+									
+# sent_id = ASCA.YEAR0725.001.001									
+# text = 725. Her Wihtred Cantwara cyning forðferde. ðæs cyn is beforan.									
+# text_en = 725. Here Wihtred, king of the inhabitants of Kent, whose ancestry is above passed away;									
+1	725	725	NUM	numeral (cardinal)	Uninflected=Yes	7	dep	_	_
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	SpaceAfter=No
+3	Her	hēr	ADV	adverb	Uninflected=Yes	7	advmod	_	_
+4	Wihtred	Wihtred	PROPN	proper noun	Case=Nom|Number=Sing	6	flat	_	_
+5	Cantwara	Cantware	NOUN	common noun	Case=Gen|Number=Plur	6	nmod	_	_
+6	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	ðæs	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Gen|Number=Sing|PronType=Rel	9	nmod	_	_
+9	cyn	cynn 	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+10	is	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	beforan	beforan ‘before’ (PREP)	ADP	adposition	Uninflected=Yes	6	acl:relcl	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = ASCA.YEAR0725.001.002									
+# text = and Eadberht feng to Centrice.									
+# text_en = and Eadberht succeeded to the kingdom of Kent.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	Eadberht	Eadberht	PROPN	proper noun	Case=Nom|Number=Sing	3	nsubj	_	_
+3	feng	fōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	5	case	_	_
+5	Centrice	Centrīce	PROPN	proper noun	Case=Dat|Number=Sing	3	obl:arg	_	SpaceAfter=No
+6	.	.	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+									
+# sent_id = ASCA.YEAR0725.001.003									
+# text = and Ine feaht wið Suð Seaxan, and ðær ofslog Aldbryht.									
+# text_en = And Ine fought against the South Saxons, and there killed Ealdberht.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	Ine	Ine	PROPN	proper noun	Case=Nom|Number=Sing	3	nsubj	_	_
+3	feaht	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	wið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+5	Suð	sūð ‘south’	ADJ	adjective	Case=Acc|Number=Plur	6	amod	_	_
+6	Seaxan	Seaxan	ADJ	proper adjective	Case=Acc|Number=Plur	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	10	cc	_	_
+9	ðær	ðǣr ‘there’	ADV	adverb	Uninflected=Yes	10	advmod	_	_
+10	ofslog	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+11	Aldbryht	Aldberht	PROPN	proper noun	Case=Acc|Number=Sing	10	obj	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = ASCA.YEAR0728.001.001									
+# text = 728. Her Ine ferde to Rome. and ðær his feorh gesealde and feng Æðelheard to Wesseaxna rice and heold xiiii gear.									
+# text_en = 728. Here Ine travelled to Rome and there gave up his life and Æthelheard succeeded to the kingdom of Wessex and held it 14 years.									
+1	728	728	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	Ine	Ine	PROPN	proper noun	Case=Nom|Number=Sing	5	nsubj	_	_
+5	ferde	fēran	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	7	case	_	_
+7	Rome	Rōm	PROPN	proper noun	Case=Dat|Number=Sing	5	obl:lmod	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+9	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	13	cc	_	_
+10	ðær	ðǣr ‘there’	ADV	adverb	Uninflected=Yes	13	advmod	_	_
+11	his	his (POSS)	PRON	pronoun	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	feorh	feorh 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+13	gesealde	sellan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+14	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	15	cc	_	_
+15	feng	fōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+16	Æðelheard	Æðelheard	PROPN	proper noun	Case=Nom|Number=Sing	15	nsubj	_	_
+17	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	19	case	_	_
+18	Wesseaxna	West-Seaxe	ADJ	proper adjective	Case=Gen|Number=Plur	19	nmod	_	_
+19	rice	rīce	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	15	obl:arg	_	_
+20	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	21	cc	_	_
+21	heold	healdan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	_
+22	xiiii	xiiii	NUM	numeral (cardinal)	Uninflected=Yes	23	nummod	_	_
+23	gear	gēar 	NOUN	common noun	Case=Acc|Gender=Neut|Number=Plur	21	obl:tmod	_	SpaceAfter=No
+24	.	.	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
+									
+# sent_id = ASCA.YEAR0728.001.002									
+# text = and ðy geare gefuhton Æðelheard and Oswald se æðeling;									
+# text_en = And that year Æthelheard and the ætheling Oswald fought;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+2	ðy	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Ins|Gender=Neut|Number=Sing|PronType=DemArt	3	det	_	_
+3	geare	gēar 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	4	obl:tmod	_	_
+4	gefuhton	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+5	Æðelheard	Æðelheard	PROPN	proper noun	Case=Nom|Number=Sing	4	nsubj	_	_
+6	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
+7	Oswald	Oswald	PROPN	proper noun	Case=Nom|Number=Sing	9	flat	_	_
+8	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	9	det	_	_
+9	æðeling	æðeling	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+10	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0728.001.003									
+# text = and se Oswald was Æðelbalding, Æðelbald Cynebalding, Cynebald Cuðwining, Cuðwine Ceaulining.									
+# text_en = and that Oswald was Æthelbald's offspring, Æthelbald Cynebald's offspring, Cynebald Cuthwine's oftspring, Cuthwine Ceawlin's offspring.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
+2	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
+3	Oswald	Oswald	PROPN	proper noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	was	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	Æðelbalding	Æðelbalding	ADJ	adjective	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+7	Æðelbald	Æðelbald	PROPN	proper noun	Case=Nom|Number=Sing	8	nsubj	_	_
+8	Cynebalding	Cynebalding	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+10	Cynebald	Cynebald	PROPN	proper noun	Case=Nom|Number=Sing	11	nsubj	_	_
+11	Cuðwining	Cuðwining	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
+12	,	,	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
+13	Cuðwine	Cvðwine	PROPN	proper noun	Case=Nom|Number=Sing	14	nsubj	_	_
+14	Ceaulining	Ceawlining	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
+15	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
+									
+# sent_id = ASCA.YEAR0729.001.001									
+# text = 729. Her cometa se steorra hiene oðiewde, and Sanctus Ecgbryht forðferde;									
+# text_en = 729. Here the star comet showed itself; and St Egbert passed away.									
+1	729	729	NUM	numeral (cardinal)	Uninflected=Yes	8	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	8	advmod	_	_
+4	cometa	comēta 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	flat	_	_
+5	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	6	det	_	_
+6	steorra	steorra	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+7	hiene	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	obj	_	_
+8	oðiewde	oðīewan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+10	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	13	cc	_	_
+11	Sanctus	sanctus/sancte/sancta	ADJ	adjective	Case=Nom|Number=Sing	12	amod	_	_
+12	Ecgbryht	Ecgbryht	PROPN	proper noun	Case=Nom|Number=Sing	13	nsubj	_	_
+13	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	SpaceAfter=No
+14	;	;	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+									
+# sent_id = ASCA.YEAR0730.001.001									
+# text = 730. Her Oswald se æðeling forðferde.									
+# text_en = 730. Here the ætheling Oswald passed away.									
+1	730	730	NUM	numeral (cardinal)	Uninflected=Yes	7	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	7	advmod	_	_
+4	Oswald	Oswald	PROPN	proper noun	Case=Nom|Number=Sing	6	flat	_	_
+5	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	6	det	_	_
+6	æðeling	æðeling	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = ASCA.YEAR0731.001.001									
+# text = 731. Her was ofslægen Osric Norðanhymbra cyning, and feng Ceoluulf to ðam rice, and heold viii gear.									
+# text_en = 731. Here Osric, king of Northumbria, was killed, and Ceolwulf succeeded to the kingdom and held it 8 years.									
+1	731	731	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	was	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	ofslægen	ofslēan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	0	root	_	_
+6	Osric	Osric	PROPN	proper noun	Case=Nom|Number=Sing	8	flat	_	_
+7	Norðanhymbra	Norðanhymbre	ADJ	proper adjectiv e	Case=Gen|Number=Plur	8	nmod	_	_
+8	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+10	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	11	cc	_	_
+11	feng	fōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+12	Ceoluulf	Ceolwulf	PROPN	proper noun	Case=Nom|Number=Sing	11	nsubj	_	_
+13	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	15	case	_	_
+14	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Neut|Number=Sing|PronType=DemArt	15	det	_	_
+15	rice	rīce	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	11	obl:arg	_	SpaceAfter=No
+16	,	,	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
+17	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	18	cc	_	_
+18	heold	healdan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
+19	viii	viii	NUM	numeral (cardinal)	Uninflected=Yes	20	nummod	_	_
+20	gear	gēar 	NOUN	common noun	Case=Acc|Gender=Neut|Number=Plur	18	obl:tmod	_	SpaceAfter=No
+21	.	.	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
+									
+# sent_id = ASCA.YEAR0731.002.001									
+# text = and se Ceolwulf wæs Cuðaing, Cuða Cuðwining, Cuðwine Leodwalding. Leodwald Ecgwalding, Ecgwald Aldhelming, Aldhelm Ocging, Ocga Iding, Ida Eopping;									
+# text_en = And that Ceolwulf was Cutha's offspring, Cutha Cuthwine's offspring, Cuthwine Leodwald's offspring, Leodwald Ecgwald's offspring, Ecgwald Aldhelm's offspring, Aldhelm Ocga's offspring, Ocga Ida's offspring, Ida Eoppa's offspring.'									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
+2	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
+3	Ceolwulf	Ceolwulf	PROPN	proper noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	Cuðaing	Cuðing	ADJ	adjective	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+7	Cuða	Cuða	PROPN	proper noun	Case=Nom|Number=Sing	8	nsubj	_	_
+8	Cuðwining	Cuðwining	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+10	Cuðwine	Cvðwine	PROPN	proper noun	Case=Nom|Number=Sing	11	nsubj	_	_
+11	Leodwalding	Leodwalding	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
+13	Leodwald	Leodwald	PROPN	proper noun	Case=Nom|Number=Sing	14	nsubj	_	_
+14	Ecgwalding	Ecgwalding 	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
+15	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+16	Ecgwald	Ecgwald	PROPN	proper noun	Case=Nom|Number=Sing	17	nsubj	_	_
+17	Aldhelming	Aldhelming	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
+18	,	,	PUNCT	punctuation	Uninflected=Yes	20	punct	_	_
+19	Aldhelm	Aldhelm	PROPN	proper noun	Case=Nom|Number=Sing	20	nsubj	_	_
+20	Ocging	Ocging	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
+21	,	,	PUNCT	punctuation	Uninflected=Yes	23	punct	_	_
+22	Ocga	Ocga 	PROPN	proper noun	Case=Nom|Number=Sing	23	nsubj	_	_
+23	Iding	Iding	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
+24	,	,	PUNCT	punctuation	Uninflected=Yes	26	punct	_	_
+25	Ida	Ida	PROPN	proper noun	Case=Nom|Number=Sing	26	nsubj	_	_
+26	Eopping	Eopping	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
+27	,	,	PUNCT	punctuation	Uninflected=Yes	26	punct	_	_
+									
+# sent_id = ASCA.YEAR0731.002.002									
+# text = and Beorhtwald ærcebiscep gefor;									
+# text_en =  And Archbishop Berhtwald departed,									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+2	Beorhtwald	Beorhtwald	PROPN	proper noun	Case=Nom|Number=Sing	3	flat	_	_
+3	ærcebiscep	arcebiscop	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	gefor	faran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0731.002.003									
+# text = and ðy ilcan geare Tatwine wæs gehalgod to ærcebiscep.									
+# text_en = and the same year Tatwine was consecrated as archbishop.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
+2	ðy	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Ins|Gender=Neut|Number=Sing|PronType=DemArt	4	det	_	_
+3	ilcan	ilca 'same'	ADJ	adjective	Case=Dat|Gender=Neut|Number=Sing	4	amod	_	_
+4	geare	gēar 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	7	obl:tmod	_	_
+5	Tatwine	Tatwine	PROPN	proper noun	Case=Nom|Number=Sing	7	nsubj:pass	_	_
+6	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	gehalgod	hālgian(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	0	root	_	_
+8	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	9	case	_	_
+9	ærcebiscep	arcebiscop	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = ASCA.YEAR0733.001.001									
+# text = 733. Her Æðelbald geeode Sumurtun; and sunne aðiestrode.									
+# text_en = 733. Here Æthelbald captured Somerton; and the sun grew dark.									
+1	733	733	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	Æðelbald	Æðelbald	PROPN	proper noun	Case=Nom|Number=Sing	5	nsubj	_	_
+5	geeode	gegangan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Sumurtun	Sumortun	PROPN	proper noun	Case=Acc|Number=Sing	5	obj	_	SpaceAfter=No
+7	;	;	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	10	cc	_	_
+9	sunne	sunne	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+10	aðiestrode	āðēostrian	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = ASCA.YEAR0734.001.001									
+# text = 734. Her wæs se mona swelce he wære mid blode begoten;									
+# text_en = 734. Here the moon was as if it were suffused with blood;									
+1	734	734	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	wæs	bēon/wesan/sēon ‘to be’	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	6	det	_	_
+6	mona	mōna	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+7	swelce	swilce ‘just as’	ADV	adverb	Uninflected=Yes	12	mark	_	_
+8	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj:pass	_	_
+9	wære	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Sub|Number=Sing|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
+10	mid	mid ‘with’ (PREP)	ADP	adposition	Uninflected=Yes	11	case	_	_
+11	blode	blōd 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	12	obl	_	_
+12	begoten	begēotan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	4	advcl	_	SpaceAfter=No
+13	;	;	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
+									
+# sent_id = ASCA.YEAR0734.001.002									
+# text = and ferdon forð Tatwine and Bieda.									
+# text_en = and Tatwine and Bede passed away.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	2	cc	_	_
+2	ferdon	fēran	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+3	forð	forð ‘forth, forwards’	ADV	adverb	Uninflected=Yes	2	advmod	_	_
+4	Tatwine	Tatwine	PROPN	proper noun	Case=Nom|Number=Sing	2	nsubj	_	_
+5	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
+6	Bieda	Bieda	PROPN	proper noun	Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	punctuation	Uninflected=Yes	2	punct	_	_
+									
+# sent_id = ASCA.YEAR0736.001.001									
+# text = 736. Her Noðhelm ærcebiscep onfeng pallium from Romana biscep.									
+# text_en = 736. Here Archbishop Nothhelm obtained the pallium from the bishop of the Romans.									
+1	736	736	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+4	Noðhelm	Noðhelm	PROPN	proper noun	Case=Nom|Number=Sing	5	flat	_	_
+5	ærcebiscep	arcebiscop	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	onfeng	onfōn	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	pallium	pallium	X	foreign word	Case=Acc|Foreign=Yes|Gender=Masc|Number=Sing	6	obj	_	_
+8	from	fram ‘from, by; since’ (PREP)	ADP	adposition	Uninflected=Yes	10	case	_	_
+9	Romana	Romane 	ADJ	proper adjective	Case=Gen|Number=Plur	10	nmod	_	_
+10	biscep	bisceop 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+									
+# sent_id = ASCA.YEAR0737.001.001									
+# text = 737. Her Forðhere biscep and Friðogið cuen ferdun to Rome.									
+# text_en = 737. Here Bishop Forthhere and Queen Frithugyth travelled to Rome.									
+1	737	737	NUM	numeral (cardinal)	Uninflected=Yes	9	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	9	advmod	_	_
+4	Forðhere	Forðhere	PROPN	proper noun	Case=Nom|Number=Sing	5	flat	_	_
+5	biscep	bisceop 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+6	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	8	cc	_	_
+7	Friðogið	Friðogið	PROPN	proper noun	Case=Nom|Number=Sing	8	flat	_	_
+8	cuen	cwēn 	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+9	ferdun	fēran	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+10	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	11	case	_	_
+11	Rome	Rōm	PROPN	proper noun	Case=Dat|Number=Sing	9	obl:lmod	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = ASCA.YEAR0738.001.001									
+# text = 738. Her Eadbryht Eating, Eata Leodwalding, feng to Norðanhymbra rice. and heold xxi wintra.									
+# text_en = 738. Here Eadberht Eata's offspring - Eata Leodwald's offspring - succeeded to the Northumbrian kingdom, and held it 21 years.									
+1	738	738	NUM	numeral (cardinal)	Uninflected=Yes	10	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	10	advmod	_	_
+4	Eadbryht	Eadbriht	PROPN	proper noun	Case=Nom|Number=Sing	5	flat	_	_
+5	Eating	Eating	ADJ	adjective	Case=Nom|Number=Sing	10	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+7	Eata	Eata	PROPN	proper noun	Case=Nom|Number=Sing	8	nsubj	_	_
+8	Leodwalding	Leodwalding	ADJ	adjective	Case=Nom|Number=Sing	5	appos	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+10	feng	fōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	13	case	_	_
+12	Norðanhymbra	Norðanhymbre	ADJ	proper adjective	Case=Gen|Number=Plur	13	nmod	_	_
+13	rice	rīce	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	10	obl:arg	_	SpaceAfter=No
+14	.	.	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+15	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	16	cc	_	_
+16	heold	healdan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+17	xxi	xxi	NUM	numeral (cardinal)	Uninflected=Yes	18	nummod	_	_
+18	wintra	winter	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	16	obl:tmod	_	SpaceAfter=No
+19	.	.	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+									
+# sent_id = ASCA.YEAR0738.001.002									
+# text = and his broðor wæs Ecgbryht Eating ærcebiscep,									
+# text_en = And his brother was Archbishop Egbert, Eata's offspring;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
+2	his	his (POSS)	PRON	pronoun	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:pos	_	_
+3	broðor	brōðor(ge) 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+5	Ecgbryht	Ecgbryht	PROPN	proper noun	Case=Nom|Number=Sing	7	flat	_	_
+6	Eating	Eating	ADJ	adjective	Case=Nom|Number=Sing	7	appos	_	_
+7	ærcebiscep	arcebiscop	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = ASCA.YEAR0738.001.003									
+# text = and hie restað begen on Eoforwicceastre on anum portice.									
+# text_en = and they both rest in York city in the one side-chapel.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	restað	restan	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	begen	bēgen 	ADJ	adjective	Case=Nom|Number=Plur	2	amod	_	_
+5	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+6	Eoforwicceastre	Eoforwīcceaster	PROPN	proper noun	Case=Dat|Number=Sing	3	obl:lmod	_	_
+7	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	9	case	_	_
+8	anum	ān ‘one; each’ (NUM)	NUM	numeral (cardinal)	Case=Dat|Gender=Masc|Number=Sing	9	nummod	_	_
+9	portice	portic	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	3	obl:lmod	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+									
+# sent_id = ASCA.YEAR0741.001.001									
+# text = 741. Her Æðelheard cyning forðferde, and feng Cuðræd to Wesseaxna rice, and heold xvi wintra, and heardlice gewon wið Æðelbald cyning;									
+# text_en = 741. Here King Æthelheard passed away; and Cuthred succeeded to the kingdom of Wessex and held it 16 years, and boldly made war against King Æthelbald.									
+1	741	741	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+4	Æðelheard	Æðelheard	PROPN	proper noun	Case=Nom|Number=Sing	5	flat	_	_
+5	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	9	cc	_	_
+9	feng	fōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+10	Cuðræd	Cuðred	PROPN	proper noun	Case=Nom|Number=Sing	9	nsubj	_	_
+11	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	13	case	_	_
+12	Wesseaxna	West-Seaxe	ADJ	proper adjective	Case=Gen|Number=Plur	13	nmod	_	_
+13	rice	rīce	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	9	obl:arg	_	SpaceAfter=No
+14	,	,	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+15	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	16	cc	_	_
+16	heold	healdan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
+17	xvi	xvi	NUM	numeral (cardinal)	Uninflected=Yes	18	nummod	_	_
+18	wintra	winter	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	16	obl:tmod	_	SpaceAfter=No
+19	,	,	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
+20	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	22	cc	_	_
+21	heardlice	heardlīce	ADV	adverb	Uninflected=Yes	22	advmod	_	_
+22	gewon	winnan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	9	conj	_	_
+23	wið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	25	case	_	_
+24	Æðelbald	Æðelbald	PROPN	proper noun	Case=Acc|Number=Sing	25	flat	_	_
+25	cyning	cyning 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+26	;	;	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
+									
+# sent_id = ASCA.YEAR0741.001.002									
+# text = and Cuðbryht wæs to ærcebiscep gehalgod, and Dun biscep to Hrofesceastre.									
+# text_en = And Cuthbert was consecrated as archbishop, and Dunn bishop for Rochester.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
+2	Cuðbryht	Cuðbriht	PROPN	proper noun	Case=Nom|Number=Sing	6	nsubj:pass	_	_
+3	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+4	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	5	case	_	_
+5	ærcebiscep	arcebiscop	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+6	gehalgod	hālgian(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	10	cc	_	_
+9	Dun	Dun	PROPN	proper noun	Case=Nom|Number=Sing	10	orphan	_	_
+10	biscep	bisceop 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	conj	_	_
+11	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	12	case	_	_
+12	Hrofesceastre	Hrofesceaster	PROPN	proper noun	Case=Dat|Number=Sing	10	orphan	_	SpaceAfter=No
+13	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = ASCA.YEAR0743.001.001									
+# text = 743. Her Æðelbald and Cuðræd fuhton wið Walas.									
+# text_en = 743. Here Æthelbald and Cuthred fought against the Welsh.									
+1	743	743	NUM	numeral (cardinal)	Uninflected=Yes	7	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	7	advmod	_	_
+4	Æðelbald	Æðelbald	PROPN	proper noun	Case=Nom|Number=Sing	7	nsubj	_	_
+5	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
+6	Cuðræd	Cuðred	PROPN	proper noun	Case=Nom|Number=Sing	4	conj	_	_
+7	fuhton	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+8	wið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	9	case	_	_
+9	Walas	Wēalas	ADJ	proper adjective	Case=Acc|Number=Plur	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = ASCA.YEAR0744.001.001									
+# text = 744. Her Danihel gesæt on Wintanceastre, and Hunferð feng to biscepdome.									
+# text_en = 744. Here Daniel retired in Winchester, and Hunferth succeeded to the bishopric.									
+1	744	744	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	Danihel	Daniel	PROPN	proper noun	Case=Nom|Number=Sing	5	nsubj	_	_
+5	gesæt	sittan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	7	case	_	_
+7	Wintanceastre	Wintanceaster	PROPN	proper noun	Case=Dat|Number=Sing	5	obl:lmod	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+9	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	11	cc	_	_
+10	Hunferð	Hunferð	PROPN	proper noun	Case=Nom|Number=Sing	11	nsubj	_	_
+11	feng	fōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+12	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	13	case	_	_
+13	biscepdome	bisceopdōm 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	11	obl:arg	_	SpaceAfter=No
+14	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = ASCA.YEAR0745.001.001									
+# text = 745. Her Danihel forðferde,									
+# text_en = 745. Here Daniel passed away;									
+1	745	745	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	Danihel	Daniel	PROPN	proper noun	Case=Nom|Number=Sing	5	nsubj	_	_
+5	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = ASCA.YEAR0745.001.002									
+# text = ða was xliii wintra agan siððan he onfeng biscepdome.									
+# text_en = 43 years had then passed since he succeeded to the bishopric.									
+1	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+2	was	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+3	xliii	xliii	NUM	numeral (cardinal)	Uninflected=Yes	4	nummod	_	_
+4	wintra	winter	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	5	nsubj:pass	_	_
+5	agan	āgān	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	0	root	_	_
+6	siððan	siððan ‘since’	SCONJ	SCONJ	Uninflected=Yes	8	mark	_	_
+7	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	onfeng	onfōn	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
+9	biscepdome	bisceopdōm 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = ASCA.YEAR0746.001.001									
+# text = 746. Her mon slog Selred cyning.									
+# text_en = 746. Here they killed King Selred.									
+1	746	746	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	mon	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	slog	slēan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Selred	Selred	PROPN	proper noun	Case=Acc|Number=Sing	7	flat	_	_
+7	cyning	cyning 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = ASCA.YEAR0748.001.001									
+# text = 748. Her wæs ofslægen Cynric Wesseaxna æðeling, and Eadbryht Cantwara cyning forðferde. and Æthelbyrht Wihtredes sunu cinges feng to ðam rice.									
+# text_en = 748. Here Cynric, ætheling of Wessex, was killed, and Eadberht, king of the inhabitants of Kent, passed away, and Æthelberht, son of King Wihtred, succeeded to the kingdom.									
+1	748	748	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	ofslægen	ofslēan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	0	root	_	_
+6	Cynric	Cynrīc	PROPN	proper noun	Case=Nom|Number=Sing	8	flat	_	_
+7	Wesseaxna	West-Seaxe	ADJ	proper adjective	Case=Gen|Number=Plur	8	nmod	_	_
+8	æðeling	æðeling	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
+10	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	14	cc	_	_
+11	Eadbryht	Eadbriht	PROPN	proper noun	Case=Nom|Number=Sing	13	flat	_	_
+12	Cantwara	Cantware	NOUN	common noun	Case=Gen|Number=Plur	13	nmod	_	_
+13	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+14	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	SpaceAfter=No
+15	.	.	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
+16	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	21	cc	_	_
+17	Æthelbyrht	Æðelbryht	PROPN	proper noun	Case=Nom|Number=Sing	19	nsubj	_	_
+18	Wihtredes	Wihtred	PROPN	proper noun	Case=Gen|Number=Sing	20	flat	_	_
+19	sunu	sunu	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
+20	cinges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
+21	feng	fōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+22	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	24	case	_	_
+23	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Neut|Number=Sing|PronType=DemArt	24	det	_	_
+24	rice	rīce	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	21	obl:arg	_	SpaceAfter=No
+25	.	.	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
+									
+# sent_id = ASCA.YEAR0750.001.001									
+# text = 750. Her Cuðred cyning gefeaht uuið Æðelhun ðone ofermedan aldormonn.									
+# text_en = 750. Here King Cuthred fought against Æthelhun, the arrogant ealdorman.									
+1	750	750	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+4	Cuðred	Cuðred	PROPN	proper noun	Case=Nom|Number=Sing	5	flat	_	_
+5	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	gefeaht	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	uuið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	11	case	_	_
+8	Æðelhun	Æðelhun	PROPN	proper noun	Case=Acc|Number=Sing	11	flat	_	_
+9	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	11	det	_	_
+10	ofermedan	ofermēde ‘proud’	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	11	amod	_	_
+11	aldormonn	ealdormann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+									
+# sent_id = ASCA.YEAR0752.001.001									
+# text = 752. Her Cuðred gefeaht ðy xii geare his rices æt Beorgfeorda wið Æðelbald.									
+# text_en = 752. Here, in the 12th year of his rule, Cuthred fought against Æthelbald at Beorgford.									
+1	752	752	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	Cuðred	Cuðred	PROPN	proper noun	Case=Nom|Number=Sing	5	nsubj	_	_
+5	gefeaht	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	ðy	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Ins|Gender=Neut|Number=Sing|PronType=DemArt	8	case	_	_
+7	xii	xii	ADJ	adjective	Uninflected=Yes	8	amod	_	_
+8	geare	gēar 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	5	obl:tmod	_	_
+9	his	his (POSS)	PRON	pronoun	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	rices	rīce	NOUN	common noun	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	12	case	_	_
+12	Beorgfeorda	Beorgford	PROPN	proper noun	Case=Dat|Number=Sing	5	obl:lmod	_	_
+13	wið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	14	case	_	_
+14	Æðelbald	Æðelbald	PROPN	proper noun	Case=Acc|Number=Sing	5	obl	_	SpaceAfter=No
+15	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = ASCA.YEAR0753.001.001									
+# text = 753. Her Cuðred feaht wið Walas.									
+# text_en = 753. Here Cuthred fought against the Welsh.									
+1	753	753	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	Cuðred	Cuðred	PROPN	proper noun	Case=Nom|Number=Sing	5	nsubj	_	_
+5	feaht	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	wið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	7	case	_	_
+7	Walas	Wēalas	ADJ	proper adjective	Case=Acc|Number=Plur	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = ASCA.YEAR0754.001.001									
+# text = 754. Her Cuðred forðferde, and Cyneheard onfeng biscepdome æfter Hunferðe on Wintanceastre;									
+# text_en = 754. Here Cuthred passed away; and Cyneheard succeeded to the bishopric in Winchester after Hunferth;									
+1	754	754	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	Cuðred	Cuðred	PROPN	proper noun	Case=Nom|Number=Sing	5	nsubj	_	_
+5	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+7	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	9	cc	_	_
+8	Cyneheard	Cyneheard	PROPN	proper noun	Case=Nom|Number=Sing	9	nsubj	_	_
+9	onfeng	onfōn	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+10	biscepdome	bisceopdōm 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	9	obj	_	_
+11	æfter	æfter ‘after’ (PREP)	ADP	adposition	Uninflected=Yes	12	case	_	_
+12	Hunferðe	Hunferð	PROPN	proper noun	Case=Dat|Number=Sing	9	obl:tmod	_	_
+13	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	14	case	_	_
+14	Wintanceastre	Wintanceaster	PROPN	proper noun	Case=Dat|Number=Sing	9	obl:lmod	_	SpaceAfter=No
+15	;	;	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = ASCA.YEAR0754.001.002									
+# text = and Cantwara burg forbærn ðy geare, and Sigebryht feng to Wesseaxna rice, and heold an gear.									
+# text_en = and that year Canterbury burned down, and Sigeberht succeeded to the kingdom of Wessex and held it one year.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+2	Cantwara	Cantware	NOUN	common noun	Case=Gen|Number=Plur	3	nmod	_	_
+3	burg	burg 	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	forbærn	forbærnan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ðy	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Ins|Gender=Neut|Number=Sing|PronType=DemArt	6	det	_	_
+6	geare	gēar 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	4	obl:tmod	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	10	cc	_	_
+9	Sigebryht	Sigeberht	PROPN	proper noun	Case=Nom|Number=Sing	10	nsubj	_	_
+10	feng	fōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+11	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	13	case	_	_
+12	Wesseaxna	West-Seaxe	ADJ	proper adjective	Case=Gen|Number=Plur	13	nmod	_	_
+13	rice	rīce	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	10	obl:arg	_	SpaceAfter=No
+14	,	,	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+15	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	16	cc	_	_
+16	heold	healdan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+17	an	ān ‘one; each’ (NUM)	NUM	numeral (cardinal)	Case=Acc|Gender=Neut|Number=Sing	18	nummod	_	_
+18	gear	gēar 	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	16	obl:tmod	_	SpaceAfter=No
+19	.	.	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.001.001									
+# text = 755. Her Cynewulf benam Sigebryht his rices and West Seaxna wiotan for unryhtum dædum, buton Hamtunscire;									
+# text_en = 755. Here Cynewulf and the councillors of Wessex deprived Sigeberht of his kingdom because of unlawful actions- except for Hampshire;									
+1	755	755	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	Cynewulf	Cynewulf	PROPN	proper noun	Case=Nom|Number=Sing	5	nsubj	_	_
+5	benam	beniman	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Sigebryht	Sigeberht	PROPN	proper noun	Case=Acc|Number=Sing	5	iobj	_	_
+7	his	his (POSS)	PRON	pronoun	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	rices	rīce	NOUN	common noun	Case=Gen|Gender=Neut|Number=Sing	5	obj	_	_
+9	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	12	cc	_	_
+10	West	west ‘westerly’	ADJ	adjective	Case=Gen|Number=Plur	11	amod	_	_
+11	Seaxna	Seaxan	ADJ	proper adjective	Case=Gen|Number=Plur	12	nmod	_	_
+12	wiotan	wita(ge)	NOUN	common noun	Case=Nom|Gender=Masc|Number=Plur	4	conj	_	_
+13	for	for ‘before’ (PREP)	ADP	adposition	Uninflected=Yes	15	case	_	_
+14	unryhtum	unriht ‘wrong’	ADJ	adjective	Case=Dat|Gender=Fem|Number=Plur	15	amod	_	_
+15	dædum	dǣd 	NOUN	common noun	Case=Dat|Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
+16	,	,	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
+17	buton	būtan ‘out of’ (PREP)	ADP	adposition	Uninflected=Yes	18	case	_	_
+18	Hamtunscire	Hāmtūnscir	NOUN	common noun	Case=Dat|Number=Sing	5	obl	_	SpaceAfter=No
+19	;	;	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.001.002									
+# text = and he hæfde ða oð he ofslog ðone aldormon ðe him lengest wunode;									
+# text_en = and he had that until he killed the ealdorman who stayed with him longest.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	hæfde	habban(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ða	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Acc|Gender=Fem|Number=Sing|PronType=DemArt	3	obj	_	_
+5	oð	oð 'until' (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
+6	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	ofslog	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+8	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	9	det	_	_
+9	aldormon	ealdormann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+10	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	13	nsubj	_	_
+11	him	he (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
+12	lengest	leng ‘longer’	ADV	adverb	Degree=Sup|Uninflected=Yes	13	advmod	_	_
+13	wunode	wunian ‘to dwell; to inhabit; to abide; to remain’	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
+14	;	;	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.010.001									
+# text = and hie cuædon ðæt tæt ilce hiera geferum geboden wære, ðe ær mid ðam cyninge wærun;									
+# text_en = And they said that the same had been offered to their companions who were with the king earlier;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	cuædon	cweðan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ðæt	ðæt ‘that, so that, in order that’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	9	mark	_	_
+5	tæt	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Neut|Number=Sing|PronType=DemArt	6	det	_	_
+6	ilce	ilca 'same'	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing|PronType=DemArt	9	nsubj:pass	_	_
+7	hiera	hira (POSS)	PRON	pronoun	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	geferum	gefēra 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	9	iobj	_	_
+9	geboden	bēodan(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	3	ccomp	_	_
+10	wære	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Sub|Number=Sing|Tense=Past|VerbForm=Fin	9	aux:pass	_	SpaceAfter=No
+11	,	,	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+12	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	16	nsubj	_	_
+13	ær	ǣr ‘before that’	ADV	adverb	Uninflected=Yes	16	advmod	_	_
+14	mid	mid ‘with’ (PREP)	ADP	adposition	Uninflected=Yes	16	case	_	_
+15	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Masc|Number=Sing|PronType=DemArt	16	det	_	_
+16	cyninge	cyning 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	8	acl:relc	_	_
+17	wærun	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	16	cop	_	SpaceAfter=No
+18	;	;	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.010.002									
+# text = ða cuædon hie ðæt hie hie ðæs ne onmunden ðon ma ðe eowre geferan ðe mid ðam cyninge ofslægene wærun.									
+# text_en = then they said they themselves did not pay attention to this 'any more than your companions who were killed with the king'.									
+1	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	2	advmod	_	_
+2	cuædon	cweðan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+3	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+4	ðæt	ðæt ‘that, so that, in order that’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	9	mark	_	_
+5	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+6	hie	hīe (PRON)	PRON	pronoun	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	5	nmod	_	_
+7	ðæs	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Gen|Number=Sing|PronType=DemArt	9	obj	_	_
+8	ne	ne ‘not’	PART	particle	Polarity=Neg|Uninflected=Yes	9	advmod	_	_
+9	onmunden	onmunan	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+10	ðon	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Ins|Number=Sing|PronType=DemArt	9	obl	_	_
+11	ma	micel ‘greatly’	ADV	adverb	Degree=Cmp|Uninflected=Yes	9	advmod	_	_
+12	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	14	case	_	_
+13	eowre	ēower (POSS)	PRON	pronoun	Case=Nom|Number=Plur|Person=2|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	geferan	gefēra 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Plur	11	obl	_	_
+15	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	19	nsubj:pass	_	_
+16	mid	mid ‘with’ (PREP)	ADP	adposition	Uninflected=Yes	18	case	_	_
+17	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Masc|Number=Sing|PronType=DemArt	18	det	_	_
+18	cyninge	cyning 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	19	obl	_	_
+19	ofslægene	ofslēan	VERB	main-verb	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part	14	acl:relcl	_	_
+20	wærun	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	19	aux:pass	_	SpaceAfter=No
+21	.	.	PUNCT	punctuation	Uninflected=Yes	19	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.011.001									
+# text = and hie ða ymb ða gatu feohtende wæron oððæt hie ðærinne fulgon, and ðone æðeling ofslogon, and ða men ðe him mid wærun alle butan anum, se wæs ðæs aldormonnes godsunu,									
+# text_en = And they were fighting around the gates until they forced their way in and killed the ætheling and the men who were with him, all except for one who was the ealdorman's godson,									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
+2	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+3	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	7	advmod	_	_
+4	ymb	ymbe ‘around’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+5	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Neut|Number=Plur|PronType=DemArt	6	det	_	_
+6	gatu	geat 	NOUN	common noun	Case=Acc|Gender=Neut|Number=Plur	7	obl:lmod	_	_
+7	feohtende	feohtan(ge)	VERB	main-verb	Tense=Pres|Uninflected=Yes|VerbForm=Part	0	root	_	_
+8	wæron	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	7	aux	_	_
+9	oððæt	oððæt (CONJ)	SCONJ	SCONJ	Uninflected=Yes	12	mark	_	_
+10	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+11	ðærinne	ðǣrinne	ADV	adverb	Uninflected=Yes	12	advmod	_	_
+12	fulgon	fēolan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+14	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	17	cc	_	_
+15	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	16	det	_	_
+16	æðeling	æðeling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+17	ofslogon	ofslēan	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	12	conj	_	SpaceAfter=No
+18	,	,	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
+19	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	21	cc	_	_
+20	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Plur|PronType=DemArt	21	det	_	_
+21	men	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	17	conj	_	_
+22	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	23	nsubj	_	_
+23	him	he (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	acl:relcl	_	_
+24	mid	mid ‘with’ (PREP)	ADP	adposition	Uninflected=Yes	23	case	_	_
+25	wærun	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	23	cop	_	_
+26	alle	eall ‘all, every, entire’	ADJ	adjective	Case=Acc|Gender=Masc|Number=Plur	21	amod	_	_
+27	butan	būtan ‘out of’ (PREP)	ADP	adposition	Uninflected=Yes	28	case	_	_
+28	anum	ān ‘one; each’ (NUM)	NUM	numeral (cardinal)	Case=Dat|Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
+29	,	,	PUNCT	punctuation	Uninflected=Yes	34	punct	_	_
+30	se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	34	nsubj	_	_
+31	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	cop	_	_
+32	ðæs	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Gender=Masc|Number=Sing|PronType=DemArt	33	det	_	_
+33	aldormonnes	ealdormann	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	_
+34	godsunu	godsunu 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	28	acl:relcl	_	SpaceAfter=No
+35	,	,	PUNCT	punctuation	Uninflected=Yes	34	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.011.002									
+# text = and he his feorh generede and ðeah he wæs oft gewundad.									
+# text_en = and he saved his life, although he was often wounded.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
+2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+3	his	his (POSS)	PRON	pronoun	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	feorh	feorh 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+5	generede	nerian(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	11	cc	_	_
+7	ðeah	ðēah ‘though’ 	ADV	adverb	Uninflected=Yes	11	advmod	_	_
+8	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+9	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
+10	oft	oft	ADV	adverb	Uninflected=Yes	11	advmod	_	_
+11	gewundad	wundian(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	5	conj	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.012.001									
+# text = and se Cynewulf ricsode xxxi wintra. and his lic lið æt Wintanceastre, and ðæs æðelinges æt Ascanmynster,									
+# text_en = And that Cynewulf ruled 31 years, and his body lies at Winchester, and the ætheling's at Axminster;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+2	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
+3	Cynewulf	Cynewulf	PROPN	proper noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ricsode	rīcsian	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	xxxi	xxxi	NUM	numeral (cardinal)	Uninflected=Yes	6	nummod	_	_
+6	wintra	winter	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	4	obl:tmod	_	SpaceAfter=No
+7	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	11	cc	_	_
+9	his	his (POSS)	PRON	pronoun	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	lic	līc	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+11	lið	licgan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	13	case	_	_
+13	Wintanceastre	Wintanceaster	PROPN	proper noun	Case=Dat|Number=Sing	11	obl:lmod	_	SpaceAfter=No
+14	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+15	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	17	cc	_	_
+16	ðæs	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Gender=Masc|Number=Sing|PronType=DemArt	17	det	_	_
+17	æðelinges	æðeling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	11	conj	_	_
+18	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	19	case	_	_
+19	Ascanmynster	Acsanmynster	PROPN	proper noun	Case=Acc|Number=Sing	17	orphan	_	SpaceAfter=No
+20	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.012.002									
+# text = and hiera ryhtfæderencyn gæð to Cerdice;									
+# text_en = and their direct paternal ancestry goes back to Cerdic.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+2	hiera	hira (POSS)	PRON	pronoun	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	ryhtfæderencyn	rihtfædrencynn	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	gæð	gān(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+6	Cerdice	Cerdic	PROPN	proper noun	Case=Dat|Number=Sing	4	obl	_	SpaceAfter=No
+7	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.012.003									
+# text = and ðy ilcan geare mon ofslog Æðelbald Miercna cyning on Seccandune, and his lic lið on Hreopadune;									
+# text_en = And the same year Æthelbald, king of Mercia, was killed at Seckington, and his body lies in Repton.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
+2	ðy	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Ins|Gender=Neut|Number=Sing|PronType=DemArt	4	det	_	_
+3	ilcan	ilca 'same'	ADJ	adjective	Case=Dat|Gender=Neut|Number=Sing	4	amod	_	_
+4	geare	gēar 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	6	obl:tmod	_	_
+5	mon	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	ofslog	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	Æðelbald	Æðelbald	PROPN	proper noun	Case=Acc|Number=Sing	9	flat	_	_
+8	Miercna	Mierce	ADJ	proper adjective	Case=Gen|Number=Plur	9	nmod	_	_
+9	cyning	cyning 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+10	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	11	case	_	_
+11	Seccandune	Secandun	PROPN	proper noun	Case=Dat|Number=Sing	6	obl:lmod	_	SpaceAfter=No
+12	,	,	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+13	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	16	cc	_	_
+14	his	his (POSS)	PRON	pronoun	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	lic	līc	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+16	lið	licgan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+17	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	18	case	_	_
+18	Hreopadune	Hreopadūn	PROPN	proper noun	Case=Dat|Number=Sing	16	obl:lmod	_	SpaceAfter=No
+19	;	;	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.013.001									
+# text = and Beornræd feng to rice, and lytle hwile heold and ungefealice;									
+# text_en = And Beornred succeeded to the kingdom, and held it a little while and unhappily;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	Beornræd	Beornred	PROPN	proper noun	Case=Nom|Number=Sing	3	nsubj	_	_
+3	feng	fōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	5	case	_	_
+5	rice	rīce	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	3	obl:arg	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+7	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	10	cc	_	_
+8	lytle	lȳtel ‘little’	ADJ	adjective	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
+9	hwile	hwīl	NOUN	common noun	Case=Acc|Gender=Fem|Number=Sing	10	obl:tmod	_	_
+10	heold	healdan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+11	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	12	cc	_	_
+12	ungefealice	ungefēalīce	ADV	adverb	Uninflected=Yes	10	conj	_	SpaceAfter=No
+13	;	;	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.013.002									
+# text = and ðy ilcan geare Offa feng to rice, and heold xxxviiii wintra.									
+# text_en = and the same year Offa succeeded to the kingdom and held it 39 years;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
+2	ðy	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Ins|Gender=Neut|Number=Sing|PronType=DemArt	4	det	_	_
+3	ilcan	ilca 'same'	ADJ	adjective	Case=Dat|Gender=Neut|Number=Sing	4	amod	_	_
+4	geare	gēar 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	6	obl:tmod	_	_
+5	Offa	Offa	PROPN	proper noun	Case=Nom|Number=Sing	6	nsubj	_	_
+6	feng	fōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	8	case	_	_
+8	rice	rīce	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	6	obl:arg	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+10	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	11	cc	_	_
+11	heold	healdan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+12	xxxviiii	xxxviiii	NUM	numeral (cardinal)	Uninflected=Yes	13	nummod	_	_
+13	wintra	winter	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	11	obl:tmod	_	SpaceAfter=No
+14	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.014.001									
+# text = and his sunu Egfer heold xli daga and c daga.									
+# text_en = and his son Ecgfrith held it 14r days.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
+2	his	his (POSS)	PRON	pronoun	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	sunu	sunu	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	Egfer	Ecgfrið	PROPN	proper noun	Case=Nom|Number=Sing	3	flat	_	_
+5	heold	healdan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	xli	xli	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	daga	dæg 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	5	obl:tmod	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	10	cc	_	_
+9	c	c	NUM	numeral (cardinal)	Uninflected=Yes	10	nummod	_	_
+10	daga	dæg 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.014.002									
+# text = Se Offa wæs Đincgferðing, Đincgferð Eanwulfing, Eanwulf Osmoding, Osmod Eawing, Eawa Pybing, Pybba Creoding, Creoda Cynewalding, Cynewald Cnebing, Cnebba Iceling, Icel Eomæring, Eomær Angelðowing, Angelðeow Offing, Offa Wærmunding, Wærmund Wyhtlæging, Wihtlæg Wodening.									
+# text_en = That Offa was Thingfrith's, offspring, Thingfrith Eanwulf's offspring, Eanwulf Osmod's offspring, Osmod Eawa's offspring, Eawa Pybba's offspring, Pybba Creoda's offspring, Creoda Cynewald's offspring, Cynewald Cnebba's offspring, Cnebba lcel's offspring, Icel Earner's offspring, Earner Angeltheow's offspring, Angeltheow Offa's offspring, Offa Wermund's offspring, Wermund Wihtlæg's offspring, Wihtlæg Woden's offspring.									
+1	Se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	2	det	_	_
+2	Offa	Offa	PROPN	proper noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+4	Đincgferðing	Đincgferðing	ADJ	adjective	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+6	Đincgferð	Ðincgferð	PROPN	proper noun	Case=Nom|Number=Sing	8	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+8	Eanwulfing	Eanwulfing	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+10	Eanwulf	Eanwulf	PROPN	proper noun	Case=Nom|Number=Sing	11	nsubj	_	_
+11	Osmoding	Osmoding 	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+12	,	,	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
+13	Osmod	Osmod	PROPN	proper noun	Case=Nom|Number=Sing	14	nsubj	_	_
+14	Eawing	Ēawing	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+15	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+16	Eawa	Eawa	PROPN	proper noun	Case=Nom|Number=Sing	17	nsubj	_	_
+17	Pybing	Pybbing 	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+18	,	,	PUNCT	punctuation	Uninflected=Yes	20	punct	_	_
+19	Pybba	Pybba	PROPN	proper noun	Case=Nom|Number=Sing	20	nsubj	_	_
+20	Creoding	Creoding	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+21	,	,	PUNCT	punctuation	Uninflected=Yes	23	punct	_	_
+22	Creoda	Creoda	PROPN	proper noun	Case=Nom|Number=Sing	23	nsubj	_	_
+23	Cynewalding	Cynewalding	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+24	,	,	PUNCT	punctuation	Uninflected=Yes	26	punct	_	_
+25	Cynewald	Cynebald	PROPN	proper noun	Case=Nom|Number=Sing	26	nsubj	_	_
+26	Cnebing	Cnebbing	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+27	,	,	PUNCT	punctuation	Uninflected=Yes	29	punct	_	_
+28	Cnebba	Cnebba	PROPN	proper noun	Case=Nom|Number=Sing	29	nsubj	_	_
+29	Iceling	Iceling	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+30	,	,	PUNCT	punctuation	Uninflected=Yes	32	punct	_	_
+31	Icel	Icel	PROPN	proper noun	Case=Nom|Number=Sing	32	nsubj	_	_
+32	Eomæring	Ēomǣring	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+33	,	,	PUNCT	punctuation	Uninflected=Yes	35	punct	_	_
+34	Eomær	Eomer	PROPN	proper noun	Case=Nom|Number=Sing	35	nsubj	_	_
+35	Angelðowing	Angelðeowing 	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+36	,	,	PUNCT	punctuation	Uninflected=Yes	38	punct	_	_
+37	Angelðeow	Angelðeow	PROPN	proper noun	Case=Nom|Number=Sing	38	nsubj	_	_
+38	Offing	Offing 	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+39	,	,	PUNCT	punctuation	Uninflected=Yes	41	punct	_	_
+40	Offa	Offa	PROPN	proper noun	Case=Nom|Number=Sing	41	nsubj	_	_
+41	Wærmunding	Wærmunding 	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+42	,	,	PUNCT	punctuation	Uninflected=Yes	44	punct	_	_
+43	Wærmund	Wærmund	PROPN	proper noun	Case=Nom|Number=Sing	44	nsubj	_	_
+44	Wyhtlæging	Wyhtlæging	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+45	,	,	PUNCT	punctuation	Uninflected=Yes	47	punct	_	_
+46	Wihtlæg	Wihtlæg	PROPN	proper noun	Case=Nom|Number=Sing	47	nsubj	_	_
+47	Wodening	Wōdening	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
+48	.	.	PUNCT	punctuation	Uninflected=Yes	47	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.002.001									
+# text = and hiene ða Cynewulf on Andred adræfde, and he ðær wunade oð ðæt hiene an swan ofstang æt Pryfetes flodan;									
+# text_en = And Cynewulf then drove him away into The Weald, and he stayed there until a herdsman stabbed him by the stream at Privett -									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
+2	hiene	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+3	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	7	advmod	_	_
+4	Cynewulf	Cynewulf	PROPN	proper noun	Case=Nom|Number=Sing	7	nsubj	_	_
+5	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+6	Andred	Andred	PROPN	proper noun	Case=Acc|Number=Sing	7	obl:lmod	_	_
+7	adræfde	ādrǣfan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
+9	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	12	cc	_	_
+10	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	ðær	ðǣr ‘there’	ADV	adverb	Uninflected=Yes	12	advmod	_	_
+12	wunade	wunian ‘to dwell; to inhabit; to abide; to remain’	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+13	oð	oð 'until' (CONJ)	SCONJ	SCONJ	Uninflected=Yes	18	mark	_	_
+14	ðæt	ðæt ‘that, so that, in order that’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	13	fixed	_	_
+15	hiene	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+16	an	ān ‘one; each’ (NUM)	NUM	numeral (cardinal)	Case=Nom|Gender=Masc|Number=Sing	17	det	_	_
+17	swan	swan	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+18	ofstang	ofstingan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	advcl	_	_
+19	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	21	case	_	_
+20	Pryfetes	Pryftesfloda	PROPN	proper noun	Case=Gen|Number=Sing	21	nmod	_	_
+21	flodan	flōd 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+22	;	;	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.002.002									
+# text = and he wræc ðone aldor mon Cumbran;									
+# text_en = and he avenged the ealdorman Cumbra.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	wræc	wrecan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	6	det	_	_
+5	aldor	ealdor ‘elder; ancestors; chief’	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	_
+6	mon	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+7	Cumbran	Cumbra	PROPN	proper noun	Case=Acc|Number=Sing	6	flat	_	SpaceAfter=No
+8	;	;	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.003.001									
+# text = and se Cynewulf oft miclum gefeohtum feaht uuið Bretwalum;									
+# text_en = And that Cynewulf often fought great battles against the Britons;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
+2	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
+3	Cynewulf	Cynewulf	PROPN	proper noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	oft	oft	ADV	adverb	Uninflected=Yes	7	advmod	_	_
+5	miclum	micel ‘great’	ADJ	adjective	Case=Dat|Gender=Neut|Number=Plur	6	amod	_	_
+6	gefeohtum	feoht(ge) 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Plur	7	obj	_	_
+7	feaht	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	uuið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	9	case	_	_
+9	Bretwalum	Bryttas	ADJ	proper adjective	Case=Dat|Number=Plur	7	obl	_	SpaceAfter=No
+10	;	;	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.003.002									
+# text = and ymb xxxi wintra ðæs ðe he rice hæfde, he wolde adræfan anne æðeling se was Cyneheard haten,									
+# text_en = and 31 years after he took the kingdom, he wanted to drive out a certain ætheling who was called Cyneheard;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	12	cc	_	_
+2	ymb	ymbe ‘around’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
+3	xxxi	xxxi	NUM	numeral (cardinal)	Uninflected=Yes	4	nummod	_	_
+4	wintra	winter	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	12	obl:tmod	_	_
+5	ðæs	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Gen|Number=Sing|PronType=DemArt	9	mark	_	_
+6	ðe	ðe ‘when’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	fixed	_	_
+7	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	rice	rīce	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+9	hæfde	habban(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	SpaceAfter=No
+10	,	,	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+11	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	wolde	willan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	adræfan	ādrǣfan	ADV	adverb	Uninflected=Yes	12	xcomp	_	_
+14	anne	ān ‘one; each’ (NUM)	DET	determiner	Case=Acc|Gender=Masc|Number=Sing	15	det	_	_
+15	æðeling	æðeling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+16	se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	19	nsubj:pass	_	_
+17	was	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux:pass	_	_
+18	Cyneheard	Cyneheard	PROPN	proper noun	Case=Nom|Number=Sing	19	xcomp	_	_
+19	haten	hātan(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	15	acl:relcl	_	SpaceAfter=No
+20	,	,	PUNCT	punctuation	Uninflected=Yes	19	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.003.003									
+# text = and se Cyneheard wæs ðæs Sigebryhtes broður;									
+# text_en = and that Cyneheard was that Sigeberht's brother.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
+2	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
+3	Cyneheard	Cyneheard	PROPN	proper noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+5	ðæs	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Number=Sing|PronType=DemArt	6	det	_	_
+6	Sigebryhtes	Sigeberht	PROPN	proper noun	Case=Gen|Number=Sing	7	nmod	_	_
+7	broður	brōðor(ge) 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	;	;	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.004.001									
+# text = and ða geascode he ðone cyning lytle werode on wifcyððe on Merantune, and hine ðær berad, and ðone bur utan beeode ær hine ða men onfunden ðe mid ðam kyninge wærun;									
+# text_en = And then he learned that the king, with a small troop, was in the company of a woman at Merton; and he rode after him there, and surrounded the chamber before the men who were with the king became aware of him.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	3	advmod	_	_
+3	geascode	āscian(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	6	det	_	_
+6	cyning	cyning 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+7	lytle	lȳtel ‘little’	ADJ	adjective	Case=Dat|Gender=Neut|Number=Sing	8	amod	_	_
+8	werode	werod ‘throng, company, band, multitude; host, army, troop, legion’	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	_
+9	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	10	case	_	_
+10	wifcyððe	wīfcȳððu	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
+11	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	12	case	_	_
+12	Merantune	Merantun	PROPN	proper noun	Case=Dat|Number=Sing	3	obl:lmod	_	SpaceAfter=No
+13	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+14	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	17	cc	_	_
+15	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+16	ðær	ðǣr ‘there’	ADV	adverb	Uninflected=Yes	17	advmod	_	_
+17	berad	beran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	SpaceAfter=No
+18	,	,	PUNCT	punctuation	Uninflected=Yes	23	punct	_	_
+19	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	23	cc	_	_
+20	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	21	det	_	_
+21	bur	būr bower, apartment, chamber; storehouse, cottage, dwelling’	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
+22	utan	ūtan	ADV	adverb	Uninflected=Yes	23	advmod	_	_
+23	beeode	begān	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+24	ær	ǣr ‘before’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	28	mark	_	_
+25	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	obj	_	_
+26	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Plur|PronType=DemArt	27	det	_	_
+27	men	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Plur	28	nsubj	_	_
+28	onfunden	onfindan	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	23	advcl	_	_
+29	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	32	nsubj	_	_
+30	mid	mid ‘with’ (PREP)	ADP	adposition	Uninflected=Yes	32	case	_	_
+31	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Masc|Number=Sing|PronType=DemArt	32	det	_	_
+32	kyninge	cyning 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	27	acl:relcl	_	_
+33	wærun	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	32	cop	_	SpaceAfter=No
+34	;	;	PUNCT	punctuation	Uninflected=Yes	32	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.005.001									
+# text = and ða ongeat se cyning ðæt, and he on ða duru eode, and ða unheanlice hine werede, oð he on ðone æðeling locude, and ða utræsde on hine, and hine miclum gewundode.									
+# text_en = And then the king perceived this, and he went to the door and then defended himself in no disgraceful way until he caught sight of the ætheling, and then, rushed out on him and greatly wounded him;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	3	advmod	_	_
+3	ongeat	ongietan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	5	det	_	_
+5	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	ðæt	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing|PronType=DemArt	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	13	cc	_	_
+9	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+10	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	12	case	_	_
+11	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Fem|Number=Sing|PronType=DemArt	12	det	_	_
+12	duru	duru	NOUN	common noun	Case=Acc|Gender=Fem|Number=Sing	13	obl:lmod	_	_
+13	eode	gān(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	SpaceAfter=No
+14	,	,	PUNCT	punctuation	Uninflected=Yes	19	punct	_	_
+15	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	19	cc	_	_
+16	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	19	advmod	_	_
+17	unheanlice	unhēanlīce	ADV	adverb	Uninflected=Yes	19	advmod	_	_
+18	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	19	obj	_	_
+19	werede	werian(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	SpaceAfter=No
+20	,	,	PUNCT	punctuation	Uninflected=Yes	19	punct	_	_
+21	oð	oð 'until' (CONJ)	SCONJ	SCONJ	Uninflected=Yes	26	mark	_	_
+22	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	_
+23	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	25	case	_	_
+24	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	25	det	_	_
+25	æðeling	æðeling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	26	obl	_	_
+26	locude	lōcian(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	advcl	_	SpaceAfter=No
+27	,	,	PUNCT	punctuation	Uninflected=Yes	30	punct	_	_
+28	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	30	cc	_	_
+29	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	30	advmod	_	_
+30	utræsde	ūtrǣsan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+31	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	32	case	_	_
+32	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obl	_	SpaceAfter=No
+33	,	,	PUNCT	punctuation	Uninflected=Yes	37	punct	_	_
+34	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	37	cc	_	_
+35	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	obj	_	_
+36	miclum	miclum	ADV	adverb	Uninflected=Yes	37	advmod	_	_
+37	gewundode	wundian(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	SpaceAfter=No
+38	.	.	PUNCT	punctuation	Uninflected=Yes	37	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.005.002									
+# text = and hie alle on ðone Cyning wærun feohtende oð ðæt hie hine ofslægenne hæfdon;									
+# text_en = and they were all fighting against the king until they had killed him.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	8	cc	_	_
+2	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+3	alle	eall ‘all, every, entire’	DET	determiner	Case=Nom|Number=Plur	2	det	_	_
+4	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+5	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	6	det	_	_
+6	Cyning	cyning 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+7	wærun	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	8	aux	_	_
+8	feohtende	feohtan(ge)	VERB	main-verb	Tense=Pres|Uninflected=Yes|VerbForm=Part	0	root	_	_
+9	oð	oð 'until' (CONJ)	SCONJ	SCONJ	Uninflected=Yes	13	mark	_	_
+10	ðæt	ðæt ‘that, so that, in order that’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	9	fixed	_	_
+11	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+12	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	ofslægenne	ofslēan	VERB	main-verb	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+14	hæfdon	habban(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	13	aux	_	SpaceAfter=No
+15	;	;	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.006.001									
+# text = and ða on ðæs wifes gebærum onfundon ðæs cyninges ðegnas ða unstilnesse, and ða ðider urnon swa hwelc swa ðonne gearo wearð and radost;									
+# text_en = And then from the woman's cries the king's thegns became aware of the disturbance, and whoever then was ready and quickest ran there;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
+2	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	7	advmod	_	_
+3	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+4	ðæs	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Gender=Neut|Number=Sing|PronType=DemArt	5	det	_	_
+5	wifes	wīf	NOUN	common noun	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+6	gebærum	gebǣre 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Plur	7	obl	_	_
+7	onfundon	onfindan	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+8	ðæs	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Gender=Masc|Number=Sing|PronType=DemArt	9	det	_	_
+9	cyninges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+10	ðegnas	ðegn	NOUN	common noun	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+11	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Fem|Number=Sing|PronType=DemArt	12	det	_	_
+12	unstilnesse	unstillnes	NOUN	common noun	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+13	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+14	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	17	cc	_	_
+15	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	17	advmod	_	_
+16	ðider	ðider 	ADV	adverb	Uninflected=Yes	17	advmod	_	_
+17	urnon	iernan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	7	conj	_	_
+18	swa	swā ‘so, the same’ (PRON)	PRON	pronoun	Uninflected=Yes	22	nsubj	_	_
+19	hwelc	hwilc ‘which’ (PRON)	PRON	pronoun	Case=Nom|Number=Sing|PronType=Ind	18	fixed	_	_
+20	swa	swā ‘so, the same’ (PRON)	PRON	pronoun	Uninflected=Yes	18	fixed	_	_
+21	ðonne	ðonne ‘then’	ADV	adverb	Uninflected=Yes	22	advmod	_	_
+22	gearo	gearo	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	17	csubj	_	_
+23	wearð	weorðan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	_
+24	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	25	cc	_	_
+25	radost	hraðe	ADJ	adjective	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	22	conj	_	SpaceAfter=No
+26	;	;	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.007.001									
+# text = Ac hie simle feohtende wæran oð hie alle lægon butan anum Bryttiscum gisle,									
+# text_en = but they were fighting continuously until they all lay dead except for one British hostage,									
+1	Ac	ac (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+2	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+3	simle	simble	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	feohtende	feohtan(ge)	VERB	main-verb	Tense=Pres|Uninflected=Yes|VerbForm=Part	0	root	_	_
+5	wæran	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	4	aux	_	_
+6	oð	oð 'until' (CONJ)	SCONJ	SCONJ	Uninflected=Yes	9	mark	_	_
+7	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+8	alle	eall ‘all, every, entire’	DET	determiner	Case=Nom|Number=Plur	7	det	_	_
+9	lægon	licgan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	4	advcl	_	_
+10	butan	būtan ‘out of’ (PREP)	ADP	adposition	Uninflected=Yes	13	case	_	_
+11	anum	ān ‘one; each’ (NUM)	NUM	numeral (cardinal)	Case=Dat|Gender=Masc|Number=Sing	13	nummod	_	_
+12	Bryttiscum	Bryttisc	ADJ	adjective	Case=Dat|Gender=Masc|Number=Sing	13	amod	_	_
+13	gisle	gīsl 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+14	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.007.002									
+# text = and se swiðe gewundad wæs.									
+# text_en = and he was very wounded.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+2	se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	4	nsubj	_	_
+3	swiðe	swīðe	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	gewundad	wundian(ge)	ADJ	adjective	Tense=Past|Uninflected=Yes|VerbForm=Part	0	root	_	_
+5	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	SpaceAfter=No
+6	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.008.001									
+# text = Đa on morgenne gehierdun ðæt ðæs cyninges ðegnas ðe him beæftan wærun ðæt se cyning ofslægen wæs, ða ridon hie ðider, and his aldormon Osric, and Wiferð his ðegn, and ða men ðe he beæftan him læfde ær, and ðone æðeling on ðære byrig metton ðær se cyning ofslægen læg, and ða gatu him to belocen hæfdon and ða ðær to eodon;									
+# text_en = When in the morning the king's thegns whom he had left behind heard that the king was killed, they rode there - and his ealdorman Osric and Wigfrith his thegn and the men whom he left behind earlier- and found the ætheling in the stronghold where the king lay killed, and they had locked the gates against them; and then they went there.									
+1	Đa	ðā ‘then’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	3	case	_	_
+3	morgenne	morgen	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	4	obl:tmod	_	_
+4	gehierdun	hīeran(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	20	advcl	_	_
+5	ðæt	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing|PronType=DemArt	4	obj	_	_
+6	ðæs	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Gender=Masc|Number=Sing|PronType=DemArt	7	det	_	_
+7	cyninges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	ðegnas	ðegn	NOUN	common noun	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+9	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	10	nsubj	_	_
+10	him	he (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	acl:relcl	_	_
+11	beæftan	beæftan ‘afterwards’ (PREP)	ADP	adposition	Uninflected=Yes	10	case	_	_
+12	wærun	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	10	cop	_	_
+13	ðæt	ðæt ‘that, so that, in order that’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	16	mark	_	_
+14	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	15	det	_	_
+15	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	16	nsubj:pass	_	_
+16	ofslægen	ofslēan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	4	ccomp	_	_
+17	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux:pass	_	SpaceAfter=No
+18	,	,	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+19	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	20	advmod	_	_
+20	ridon	rīdan	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+21	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
+22	ðider	ðider 	ADV	adverb	Uninflected=Yes	20	advmod	_	SpaceAfter=No
+23	,	,	PUNCT	punctuation	Uninflected=Yes	26	punct	_	_
+24	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	26	cc	_	_
+25	his	his (POSS)	PRON	pronoun	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det:poss	_	_
+26	aldormon	ealdormann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	21	conj	_	_
+27	Osric	Osric	PROPN	proper noun	Case=Nom|Number=Sing	26	flat	_	SpaceAfter=No
+28	,	,	PUNCT	punctuation	Uninflected=Yes	32	punct	_	_
+29	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	32	cc	_	_
+30	Wiferð	Wiferð	PROPN	proper noun	Case=Nom|Number=Sing	32	flat	_	_
+31	his	his (POSS)	PRON	pronoun	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	det:poss	_	_
+32	ðegn	ðegn	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	21	conj	_	SpaceAfter=No
+33	,	,	PUNCT	punctuation	Uninflected=Yes	36	punct	_	_
+34	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	36	cc	_	_
+35	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Plur|PronType=DemArt	36	det	_	_
+36	men	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Plur	21	conj	_	_
+37	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	41	obj	_	_
+38	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	_
+39	beæftan	beæftan ‘afterwards’ (PREP)	ADP	adposition	Uninflected=Yes	40	case	_	_
+40	him	he (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	41	obl:lmod	_	_
+41	læfde	lǣfan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	acl:relcl	_	_
+42	ær	ǣr ‘before that’	ADV	adverb	Uninflected=Yes	41	advmod	_	SpaceAfter=No
+43	,	,	PUNCT	punctuation	Uninflected=Yes	50	punct	_	_
+44	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	50	cc	_	_
+45	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	46	det	_	_
+46	æðeling	æðeling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	50	obj	_	_
+47	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	49	case	_	_
+48	ðære	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Fem|Number=Sing|PronType=DemArt	49	det	_	_
+49	byrig	burg 	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	50	obl:lmod	_	_
+50	metton	mētan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	20	conj	_	_
+51	ðær	ðǣr ‘there’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	55	advmod	_	_
+52	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	53	det	_	_
+53	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	55	nsubj	_	_
+54	ofslægen	ofslēan	ADJ	adjective	Tense=Past|Uninflected=Yes|VerbForm=Part	55	xcomp	_	_
+55	læg	licgan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	49	acl	_	SpaceAfter=No
+56	,	,	PUNCT	punctuation	Uninflected=Yes	62	punct	_	_
+57	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	62	cc	_	_
+58	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Neut|Number=Plur|PronType=DemArt	59	det	_	_
+59	gatu	geat 	NOUN	common noun	Case=Acc|Gender=Neut|Number=Plur	62	obj	_	_
+60	him	hīe (PRON)	PRON	pronoun	Case=Dat|Number=Plur|Person=3|PronType=Prs	62	obl	_	_
+61	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	60	case	_	_
+62	belocen	belūcan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	20	conj	_	_
+63	hæfdon	habban(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	62	aux	_	_
+64	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	68	cc	_	_
+65	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	68	advmod	_	_
+66	ðær	ðǣr ‘there’	ADV	adverb	Uninflected=Yes	68	advmod	_	_
+67	to	tō ‘to, intotō ‘besides’’ (PREP)	ADV	adverb	Uninflected=Yes	68	advmod	_	_
+68	eodon	gān(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	20	conj	_	SpaceAfter=No
+69	;	;	PUNCT	punctuation	Uninflected=Yes	68	punct	_	_
+									
+# sent_id = ASCA.YEAR0755.009.003									
+# text = and ða budon hie hiera mægum ðæt hie gesunde from eodon;									
+# text_en = and then they offered their relatives that they might go away unharmed.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	3	advmod	_	_
+3	budon	bēodan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+4	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5	hiera	hira (POSS)	PRON	pronoun	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	mægum	mǣg(ge) ‘male kinsman, parent; compatriot’	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	3	obj	_	_
+7	ðæt	ðæt ‘that, so that, in order that’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	11	mark	_	_
+8	hie	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+9	gesunde	gesund	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	11	xcomp	_	_
+10	from	fram ‘from, by; since’ (PREP)	ADV	adverb	Uninflected=Yes	11	advmod	_	_
+11	eodon	gān(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	3	advcl	_	SpaceAfter=No
+12	;	;	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = ASCA.YEAR0758.001.001									
+# text = 758. Her Cuðbryht arcebiscep forðferde.									
+# text_en = 758. Here Archbishop Cuthbert passed away.									
+1	758	758	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+4	Cuðbryht	Cuðbriht	PROPN	proper noun	Case=Nom|Number=Sing	5	flat	_	_
+5	arcebiscep	arcebiscop	NOUN	common noun	Case=Nom|Number=Sing	6	nsubj	_	_
+6	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+									
+# sent_id = ASCA.YEAR0759.001.001									
+# text = 759. Her Bregowine wæs to ercebiscep gehadod to Sancte Michaeles tide.									
+# text_en = 759. Here Bregowine was ordained as archbishop at Michaelmas.									
+1	759	759	NUM	numeral (cardinal)	Uninflected=Yes	8	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	8	advmod	_	_
+4	Bregowine	Bregowine	PROPN	proper noun	Case=Nom|Number=Sing	8	nsubj:pass	_	_
+5	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
+6	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	7	case	_	_
+7	ercebiscep	arcebiscop	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+8	gehadod	hādian(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	0	root	_	_
+9	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	12	case	_	_
+10	Sancte	sanctus/sancte/sancta	ADJ	adjective	Case=Gen|Number=Sing	11	amod	_	_
+11	Michaeles	Michael	PROPN	proper noun	Case=Gen|Number=Sing	12	nmod	_	_
+12	tide	tīd	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	8	obl:lmod	_	SpaceAfter=No
+13	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = ASCA.YEAR0760.001.001									
+# text = 760. Her Æðelbryht Cantwara cyning forðferde.									
+# text_en = 760. Here Æthelberht, king of the inhabitants of Kent, passed away;									
+1	760	760	NUM	numeral (cardinal)	Uninflected=Yes	7	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	7	advmod	_	_
+4	Æðelbryht	Æðelbryht	PROPN	proper noun	Case=Nom|Number=Sing	6	flat	_	_
+5	Cantwara	Cantware	NOUN	common noun	Case=Gen|Number=Plur	6	nmod	_	_
+6	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = ASCA.YEAR0761.001.001									
+# text = 761. Her wæs se mycla winter.									
+# text_en = 761. Here was the big winter.									
+1	761	761	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	wæs	bēon/wesan/sēon ‘to be’	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	7	det	_	_
+6	mycla	micel ‘great’	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
+7	winter	winter	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0763.001.001									
+# text = 763. Her Ianbryht wæs gehadod to ærcebiscep on ðone feowertegan dæg ofer midne winter.									
+# text_en = 763. Here Jænberht was ordained as archbishop on the fortieth day after midwinter.									
+1	763	763	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+4	Ianbryht	Ianberht	PROPN	proper noun	Case=Nom|Number=Sing	6	nsubj:pass	_	_
+5	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	gehadod	hādian(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	0	root	_	_
+7	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	8	case	_	_
+8	ærcebiscep	arcebiscop	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+9	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	12	case	_	_
+10	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	12	det	_	_
+11	feowertegan	fēowertēoða (NUM)	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	12	amod	_	_
+12	dæg	dæg 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obl:tmod	_	_
+13	ofer	ofer ‘over’ (PREP)	ADP	adposition	Uninflected=Yes	15	case	_	_
+14	midne	midd ‘mid’	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	15	amod	_	_
+15	winter	winter	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obl:tmod	_	SpaceAfter=No
+16	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+									
+# sent_id = ASCA.YEAR0764.001.001									
+# text = 764. Her Iaenbryht ærcebiscep onfeng pallium.									
+# text_en = 764. Here Archbishop Jænberht obtained the pallium.									
+1	764	764	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+4	Iaenbryht	Ianberht	PROPN	proper noun	Case=Nom|Number=Sing	5	flat	_	_
+5	ærcebiscep	arcebiscop	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	onfeng	onfōn	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	pallium	pallium	X	foreign word	Case=Acc|Foreign=Yes|Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+									
+# sent_id = ASCA.YEAR0768.001.001									
+# text = 768. Her forðferde Eadberht Eating cing.									
+# text_en = 768. Here Eadberht, Eata's offspring, passed away.									
+1	768	768	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	Eadberht	Eadberht	PROPN	proper noun	Case=Nom|Number=Sing	7	flat	_	_
+6	Eating	Eating	ADJ	adjective	Case=Nom|Number=Sing	7	appos	_	_
+7	cing	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0772.001.001									
+# text = 772. Her Milred biscep forðferde.									
+# text_en = 772. Here Bishop Milred passed away.									
+1	772	772	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+4	Milred	Mildred	PROPN	proper noun	Case=Nom|Number=Sing	5	flat	_	_
+5	biscep	bisceop 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+									
+# sent_id = ASCA.YEAR0773.001.001									
+# text = 773. Her oðiewde read Cristes mæl on hefenum æfter sunnan setlgonge;									
+# text_en = 773. Here a red sign of Christ appeared in the heavens after the sun's setting.									
+1	773	773	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	oðiewde	oðīewan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	read	rēad	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	7	amod	_	_
+6	Cristes	Crīst	PROPN	proper noun	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+7	mæl	mǣl ‘time, occasion; meal’	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+8	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	9	case	_	_
+9	hefenum	heofon	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	4	obl:lmod	_	_
+10	æfter	æfter ‘after’ (PREP)	ADP	adposition	Uninflected=Yes	12	case	_	_
+11	sunnan	sunne	NOUN	common noun	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+12	setlgonge	setlgang	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	4	obl:tmod	_	SpaceAfter=No
+13	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0773.001.002									
+# text = and ðy geare gefuhton Mierce and Cantware æt Ottanforda;									
+# text_en = And that year the Mercians and the inhabitants of Kent fought at Otford;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+2	ðy	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Ins|Gender=Neut|Number=Sing|PronType=DemArt	3	det	_	_
+3	geare	gēar 	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	4	obl:tmod	_	_
+4	gefuhton	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+5	Mierce	Mierce	ADJ	proper adjective	Case=Nom|Number=Plur	4	nsubj	_	_
+6	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
+7	Cantware	Cantware	NOUN	common noun	Case=Nom|Number=Plur	5	conj	_	_
+8	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	9	case	_	_
+9	Ottanforda	Ottanford	PROPN	proper noun	Case=Dat|Number=Sing	4	obl:lmod	_	SpaceAfter=No
+10	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0773.001.003									
+# text = and wunderleca nædran wæron gesewene on Suð Seaxna londe.									
+# text_en = and snakes were seen extraordinarily in the land of the South Saxons.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
+2	wunderleca	wundorlic	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	_
+3	nædran	nǣdre	NOUN	common noun	Case=Nom|Gender=Fem|Number=Plur	5	nsubj:pass	_	_
+4	wæron	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	gesewene	sēon(ge) ‘to see’	VERB	main-verb	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	9	case	_	_
+7	Suð	sūð ‘south’	ADJ	adjective	Case=Gen|Number=Plur	8	amod	_	_
+8	Seaxna	Seaxan	ADJ	proper adjective	Case=Gen|Number=Plur	9	nmod	_	_
+9	londe	land	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	5	obl:lmod	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = ASCA.YEAR0777.001.001									
+# text = 777. Her Cynewulf and Offa gefuhton ymb Benesingtun and Offa nam ðone tuun.									
+# text_en = 777. Here Cynewulf and Offa fought around Benson, and Offa took the settlement.									
+1	777	777	NUM	numeral (cardinal)	Uninflected=Yes	7	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	7	advmod	_	_
+4	Cynewulf	Cynewulf	PROPN	proper noun	Case=Nom|Number=Sing	7	nsubj	_	_
+5	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
+6	Offa	Offa	PROPN	proper noun	Case=Nom|Number=Sing	4	conj	_	_
+7	gefuhton	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+8	ymb	ymbe ‘around’ (PREP)	ADP	adposition	Uninflected=Yes	9	case	_	_
+9	Benesingtun	Bensingtūn	PROPN	proper noun	Case=Acc|Number=Sing	7	obl:lmod	_	_
+10	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	12	cc	_	_
+11	Offa	Offa	PROPN	proper noun	Case=Nom|Number=Sing	12	nsubj	_	_
+12	nam	niman(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+13	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	14	det	_	_
+14	tuun	tūn	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
+									
+# sent_id = ASCA.YEAR0780.001.001									
+# text = 780. Her Ald Seaxe and Francan gefuhtun.									
+# text_en = 780. Here the Old Saxons and the Franks fought.									
+1	780	780	NUM	numeral (cardinal)	Uninflected=Yes	8	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	8	advmod	_	_
+4	Ald	eald	ADJ	adjective	Case=Nom|Number=Plur	5	amod	_	_
+5	Seaxe	Seaxan	ADJ	proper adjective	Case=Nom|Number=Plur	8	nsubj	_	_
+6	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
+7	Francan	Francan 	ADJ	proper adjective	Case=Nom|Number=Plur	5	conj	_	_
+8	gefuhtun	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = ASCA.YEAR0784.001.001									
+# text = 784. Her Cyneheard ofslog Cynewulf cyning, and he ðær wearð ofslægen,									
+# text_en = 784. Here Cyneheard killed King Cynewulf, and he was killed there and 84 men with him;									
+1	784	784	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	Cyneheard	Cyneheard	PROPN	proper noun	Case=Nom|Number=Sing	5	nsubj	_	_
+5	ofslog	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Cynewulf	Cynewulf	PROPN	proper noun	Case=Acc|Number=Sing	7	flat	_	_
+7	cyning	cyning 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+9	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	13	cc	_	_
+10	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj:pass	_	_
+11	ðær	ðǣr ‘there’	ADV	adverb	Uninflected=Yes	13	advmod	_	_
+12	wearð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
+13	ofslægen	ofslēan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	5	conj	_	SpaceAfter=No
+14	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+15	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	17	cc	_	_
+16	lxxxiiii	lxxxiiii	NUM	numeral (cardinal)	Uninflected=Yes	17	nummod	_	_
+17	monna	mann	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	13	conj	_	_
+18	mid	mid ‘with’ (PREP)	ADP	adposition	Uninflected=Yes	19	case	_	_
+19	him	he (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	orphan	_	SpaceAfter=No
+20	;	;	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+									
+# sent_id = ASCA.YEAR0784.001.002									
+# text = and ða onfeng Beorhtric Wesseaxna rices, and he ricsode xvi gear, and his lic lið æt Werham, and his ryhtfædrencyn gæð to Cerdice.									
+# text_en = and then Beorhtric succeeded to the kingdom of Wessex, and he ruled 16 years,and his body lies at Wareham; and his direct paternal ancestry goes back to Cerdic.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
+2	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	3	advmod	_	_
+3	onfeng	onfōn	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	Beorhtric	Beorhtric	PROPN	proper noun	Case=Nom|Number=Sing	3	nsubj	_	_
+5	Wesseaxna	West-Seaxe	ADJ	proper adjective	Case=Gen|Number=Plur	6	nmod	_	_
+6	rices	rīce	NOUN	common noun	Case=Gen|Gender=Neut|Number=Sing	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	10	cc	_	_
+9	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	ricsode	rīcsian	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+11	xvi	xvi	NUM	numeral (cardinal)	Uninflected=Yes	12	nummod	_	_
+12	gear	gēar 	NOUN	common noun	Case=Acc|Gender=Neut|Number=Plur	10	obl:tmod	_	SpaceAfter=No
+13	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+14	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	17	cc	_	_
+15	his	his (POSS)	PRON	pronoun	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	lic	līc	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	_
+17	lið	licgan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+18	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	19	case	_	_
+19	Werham	Werham	PROPN	proper noun	Case=Dat|Number=Sing	17	obl:lmod	_	SpaceAfter=No
+20	,	,	PUNCT	punctuation	Uninflected=Yes	24	punct	_	_
+21	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	24	cc	_	_
+22	his	his (POSS)	PRON	pronoun	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	ryhtfædrencyn	rihtfædrencynn	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	24	nsubj	_	_
+24	gæð	gān(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+25	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	26	case	_	_
+26	Cerdice	Cerdic	PROPN	proper noun	Case=Dat|Number=Sing	24	obl:tmod	_	SpaceAfter=No
+27	.	.	PUNCT	punctuation	Uninflected=Yes	24	punct	_	_
+									
+# sent_id = ASCA.YEAR0784.001.003									
+# text = To ðysan timan rixode Ealhmund cing innon Cent.									
+# text_en = At this time King Ealhmund ruled in Kent.									
+1	To	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	3	case	_	_
+2	ðysan	ðes-ðēos-ðis (DEM)	DET	demonstrative	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	timan	tīma	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	4	obl:tmod	_	_
+4	rixode	rīcsian	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	Ealhmund	Ealhmund	PROPN	proper noun	Case=Nom|Number=Sing	6	flat	_	_
+6	cing	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+7	innon	innan ‘from within’ (PREP)	ADP	adposition	Uninflected=Yes	8	case	_	_
+8	Cent	Cent	PROPN	proper noun	Case=Acc|Number=Sing	4	obl:lmod	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0785.001.001									
+# text = 785. Her wæs geflitfullic senoð æt Cealchyðe, and Iaenbryht ærcebiscep forlet sumne dæl his biscepdomes, and from Offan kyninge Hygebryht wæs gecoren, and Ecgferð to cyninge gehalgod.									
+# text_en = 785. Here there was a contentious synod at Chelsea, and Archbishop Jænberht relinquished some part of his bishopric, and Hygeberht was chosen by King Offa and Ecgfrith consecrated as king.									
+1	785	785	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	wæs	bēon/wesan/sēon ‘to be’	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	geflitfullic	flitfullic(ge)	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
+6	senoð	sinoð	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+7	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	8	case	_	_
+8	Cealchyðe	Cealchȳð	PROPN	proper noun	Case=Dat|Number=Sing	4	obl:lmod	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+10	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	13	cc	_	_
+11	Iaenbryht	Ianberht	PROPN	proper noun	Case=Nom|Number=Sing	12	flat	_	_
+12	ærcebiscep	arcebiscop	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	forlet	forlǣtan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+14	sumne	dǣl 	DET	determiner	Case=Acc|Gender=Masc|Number=Sing	15	det	_	_
+15	dæl	dǣl 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+16	his	his (POSS)	PRON	pronoun	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	biscepdomes	bisceopdōm 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	punctuation	Uninflected=Yes	25	punct	_	_
+19	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	25	cc	_	_
+20	from	fram ‘from, by; since’ (PREP)	ADP	adposition	Uninflected=Yes	22	case	_	_
+21	Offan	Offa	PROPN	proper noun	Case=Dat|Number=Sing	22	flat	_	_
+22	kyninge	cyning 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	25	obl:agent	_	_
+23	Hygebryht	Hygeberht	PROPN	proper noun	Case=Nom|Number=Sing	25	nsubj:pass	_	_
+24	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	_	_
+25	gecoren	cēosan(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	4	conj	_	SpaceAfter=No
+26	,	,	PUNCT	punctuation	Uninflected=Yes	31	punct	_	_
+27	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	31	cc	_	_
+28	Ecgferð	Ecgferð	PROPN	proper noun	Case=Nom|Number=Sing	31	nsubj	_	_
+29	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	30	case	_	_
+30	cyninge	cyning 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	31	obl	_	_
+31	gehalgod	hālgian(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	4	conj	_	SpaceAfter=No
+32	.	.	PUNCT	punctuation	Uninflected=Yes	31	punct	_	_
+									
+# sent_id = ASCA.YEAR0787.001.001									
+# text = 787. Her nom Beorhtric cyning Offan dohtor Eadburge;									
+# text_en = 787. Here Beorhtnc took King Offa's daughter Eadburh.									
+1	787	787	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
+2	.	.	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
+3	Her	hēr	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	nom	niman(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	Beorhtric	Beorhtric	PROPN	proper noun	Case=Nom|Number=Sing	6	flat	_	_
+6	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+7	Offan	Offa	PROPN	proper noun	Case=Gen|Number=Sing	8	nmod	_	_
+8	dohtor	dohtor	NOUN	common noun	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+9	Eadburge	Eadburge	PROPN	proper noun	Case=Acc|Number=Sing	8	flat	_	SpaceAfter=No
+10	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0787.001.002									
+# text = and on his dagum cuomon ærest iii scipu,									
+# text_en = And in his days there came for the first time 3 ships;									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
+2	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
+3	his	his (POSS)	PRON	pronoun	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	dagum	dæg 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	5	obl:tmod	_	_
+5	cuomon	cuman(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+6	ærest	ǣr ‘before that’	ADV	adverb	Degree=Sup|Uninflected=Yes	5	advmod	_	_
+7	iii	iii	NUM	numeral (cardinal)	Uninflected=Yes	8	nummod	_	_
+8	scipu	scip	NOUN	common noun	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = ASCA.YEAR0787.001.004									
+# text = and hiene mon ofslog; Đæt wæron ða ærestan scipu Deniscra monna ðe Angelcynnes lond gesohton.									
+# text_en = and they killed him.									
+1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+2	hiene	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	mon	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ofslog	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+									
+# sent_id = ASCA.YEAR0787.001.005									
+# text = Đæt wæron ða ærestan scipu Deniscra monna ðe Angelcynnes lond gesohton.									
+# text_en = Those were the first ships of the Danish men which sought out the land of the English race.									
+1	Đæt	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing|PronType=DemArt	5	nsubj	_	_
+2	wæron	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	5	cop	_	_
+3	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Neut|Number=Plur|PronType=DemArt	5	det	_	_
+4	ærestan	ǣr ‘early’	ADJ	adjective	Case=Nom|Degree=Sup|Gender=Neut|Number=Plur	5	amod	_	_
+5	scipu	scip	NOUN	common noun	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+6	Deniscra	Denisc	ADJ	adjective	Case=Gen|Gender=Masc|Number=Plur	7	amod	_	_
+7	monna	mann	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	11	nsubj	_	_
+9	Angelcynnes	Angelcynn	PROPN	proper noun	Case=Gen|Number=Sing	10	nmod	_	_
+10	lond	land	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+11	gesohton	sēcan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = LAWSABT.00.001.001.									
+# text = Ðis syndon ða domas, ðe Æðelbirht cyning asette on Agustinus dæge.									
+# text_en = These are the decrees which King Æthelberht established in the lifetime of Augustine.									
+1	Ðis	ðes-ðēos-ðis (DEM)	DET	demonstrative	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	syndon	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Plur|PronType=DemArt	4	det	_	_
+4	domas	dōm	NOUN	common noun	Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+6	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	9	obj	_	_
+7	Æðelbirht	Æðelberht	PROPN	proper noun	Case=Nom|Number=Sing	8	flat	_	_
+8	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	asette	āsettan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
+10	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	12	case	_	_
+11	Agustinus	Augustinus	PROPN	proper noun	Case=Gen|Number=Sing	12	nmod	_	_
+12	dæge	dæg 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	9	obl:tmod	_	SpaceAfter=No
+13	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.001.001.									
+# text = Godes feoh and ciricean XIIgylde. Biscopes feoh XIgylde. Preostes feoh IXgylde. Diacones feoh VIgylde. Cleroces feoh IIIgylde. Ciricfrið IIgylde. Mæthlfrið IIgylde.									
+# text_en = Theft of God's property and the Church's shall be compensated twelve fold; a bishop's property eleven fold; a priest's property nine fold; a deacon's property six fold; a clerk's property three fold. Breach of the peace shall be compensated doubly when it affects a church or a meeting place.									
+1	Godes	God	PROPN	proper noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+2	feoh	feoh	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+4	ciricean	cirice 	NOUN	common noun	Case=Gen|Gender=Fem|Number=Sing	2	conj	_	_
+5	XIIgylde	_	X	foreign word	Foreign=Yes	2	orphan	_	SpaceAfter=No
+6	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+7	Biscopes	bisceop 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	feoh	feoh	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+9	XIgylde	_	X	foreign word	Foreign=Yes	2	list	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+11	Preostes	prēost	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+12	feoh	feoh	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+13	IXgylde	_	X	foreign word	Foreign=Yes	2	list	_	SpaceAfter=No
+14	.	.	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+15	Diacones	dīacon	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+16	feoh	feoh	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	_
+17	VIgylde	_	X	foreign word	Foreign=Yes	2	list	_	SpaceAfter=No
+18	.	.	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
+19	Cleroces	cleric 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+20	feoh	feoh	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+21	IIIgylde	_	X	foreign word	Foreign=Yes	2	list	_	SpaceAfter=No
+22	.	.	PUNCT	punctuation	Uninflected=Yes	24	punct	_	_
+23	Ciricfrið	ciricfrið 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+24	IIgylde	_	X	foreign word	Foreign=Yes	2	list	_	SpaceAfter=No
+25	.	.	PUNCT	punctuation	Uninflected=Yes	27	punct	_	_
+26	Mæthlfrið	mæðelfrið	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+27	IIgylde	_	X	foreign word	Foreign=Yes	2	list	_	SpaceAfter=No
+28	.	.	PUNCT	punctuation	Uninflected=Yes	27	punct	_	_
+									
+# sent_id = LAWSABT.001.002.001.									
+# text = Gif cyning his leode to him gehateð, and heom mon ðær yfel gedo, IIbote and cyninge L scillinga.									
+# text_en = If the king calls his lieges to him, and anyone molests them there, he shall pay double compensation, and 50 shillings to the king.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
+2	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	his	his (POSS)	PRON	pronoun	Case=Acc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	leode	lēode	NOUN	common noun	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	_
+5	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+6	him	he (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+7	gehateð	hātan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	orphan	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
+9	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	14	cc	_	_
+10	heom	hīe (PRON)	PRON	pronoun	Case=Dat|Number=Plur|Person=3|PronType=Prs	14	obl	_	_
+11	mon	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+12	ðær	ðǣr ‘there’	ADV	adverb	Uninflected=Yes	14	advmod	_	_
+13	yfel	yfel	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+14	gedo	dōn(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	7	conj	_	SpaceAfter=No
+15	,	,	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
+16	IIbote	_	X	foreign word	Foreign=Yes	0	root	_	_
+17	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	20	cc	_	_
+18	cyninge	cyning 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	20	orphan	_	_
+19	L	lēode	NUM	numeral (cardinal)	Uninflected=Yes	20	nummod	_	_
+20	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	16	conj	_	SpaceAfter=No
+21	.	.	PUNCT	punctuation	Uninflected=Yes	20	punct	_	_
+									
+# sent_id = LAWSABT.001.003.001.									
+# text = Gif cyning æt mannes ham drincæð, and ðær man lyswæs hwæt gedo, twibote gebete.									
+# text_en = If the king is feasting at anyone's house, and any sort of offence is committed there, twofold compensation shall be paid.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
+2	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	5	case	_	_
+4	mannes	mann	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+5	ham	ham	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	6	obl:lmod	_	_
+6	drincæð	drincan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	13	cc	_	_
+9	ðær	ðǣr ‘there’	ADV	adverb	Uninflected=Yes	13	advmod	_	_
+10	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+11	lyswæs	lysu	NOUN	common noun	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+12	hwæt	hwā-hwæt (PRON)	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	_
+13	gedo	dōn(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	6	conj	_	SpaceAfter=No
+14	,	,	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
+15	twibote	twibōte	ADV	adverb	Uninflected=Yes	16	advmod	_	_
+16	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
+									
+# sent_id = LAWSABT.001.004.001.									
+# text = Gif frigman cyninge stele, IXgylde forgylde.									
+# text_en = If a freeman robs the king, he shall pay back a nine fold amount.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	frigman	frēomann 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	cyninge	cyning 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	4	obj	_	_
+4	stele	stelan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	IXgylde	_	X	foreign word	Foreign=Yes	7	advmod	_	_
+7	forgylde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = LAWSABT.001.005.001.									
+# text = Gif in cyninges tune man mannan ofslea, L scillinga gebete.									
+# text_en = If one man slays another on the king's premises, he shall pay 50 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
+2	in	in (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
+3	cyninges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	tune	tūn	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	mannan	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+7	ofslea	ofslēan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+9	L	L	NUM	numeral (cardinal)	Uninflected=Yes	10	nummod	_	_
+10	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	11	obj	_	_
+11	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = LAWSABT.001.006.001.									
+# text = Gif man frigne mannan ofsleahð, cyninge L scillinga to drihtinbeage.									
+# text_en = If a man slays a free man, he shall pay 50 shillings to the king for infraction of his seignorial rights.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	frigne	frēo ‘free’	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	4	amod	_	_
+4	mannan	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+5	ofsleahð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	orphan	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	cyninge	cyning 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	9	orphan	_	_
+8	L	L	NUM	numeral (cardinal)	Uninflected=Yes	9	nummod	_	_
+9	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+10	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	11	case	_	_
+11	drihtinbeage	dryhtenbēag	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	9	orphan	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.007.001.									
+# text = Gif cyninges ambihtsmið oððe laadrincmannan ofslehð, meduman leodgelde forgelde.									
+# text_en = If he slays a smith in the king's service, or a Messenger belonging to the king, he shall pay an ordinary wergeld.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
+2	cyninges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+3	ambihtsmið	ambihtsmið	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+4	oððe	oððe (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
+5	laadrincmannan	lādrincman	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	_
+6	ofslehð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+8	meduman	medeme	ADJ	adjective	Case=Acc|Gender=Neut|Number=Sing	9	amod	_	_
+9	leodgelde	lēodgeld	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+10	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = LAWSABT.001.008.001.									
+# text = Cyninges mundbyrd: L scillinga.									
+# text_en = The king's mundbyrd shall be 50 shillings.									
+1	Cyninges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+2	mundbyrd	mundbyrd	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+3	:	:	PUNCT	punctuation	Uninflected=Yes	2	punct	_	_
+4	L	L	NUM	numeral (cardinal)	Uninflected=Yes	5	nummod	_	_
+5	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = LAWSABT.001.009.001.									
+# text = Gif frigman freum stelð, III gebete, and cyning age ðæt wite and ealle ða æhtan.									
+# text_en = If a freeman robs a freeman, he shall pay a threefold compensation, and the king shall take the fine, or all the man's goods.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	frigman	frēomann 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	freum	frēo ‘free’	ADJ	adjective	Case=Dat|Gender=Masc|Number=Sing	4	obj	_	_
+4	stelð	stelan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	III	III	NUM	numeral (cardinal)	Uninflected=Yes	7	advmod	_	_
+7	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+9	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	11	cc	_	_
+10	cyning	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	age	āgan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	ðæt	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Neut|Number=Sing|PronType=DemArt	13	det	_	_
+13	wite	wīte	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+14	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	17	cc	_	_
+15	ealle	eall ‘all, every, entire’	DET	determiner	Case=Acc|Gender=Fem|Number=Plur	17	det	_	_
+16	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Fem|Number=Plur|PronType=DemArt	17	det	_	_
+17	æhtan	ǣht	NOUN	common noun	Case=Acc|Gender=Fem|Number=Plur	13	conj	_	SpaceAfter=No
+18	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = LAWSABT.001.010.001.									
+# text = Gif man wið cyninges mægdenman geligeð, L scillinga gebete.									
+# text_en = If a man lies with a maiden belonging to the king, he shall pay 50 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	wið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	5	case	_	_
+4	cyninges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+5	mægdenman	mægdenmann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+6	geligeð	licgan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+8	L	L	NUM	numeral (cardinal)	Uninflected=Yes	9	nummod	_	_
+9	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	10	obj	_	_
+10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = LAWSABT.001.011.001.									
+# text = Gif hio grindende ðeowa sio, XXV scillinga gebete.									
+# text_en = If she is a grinding slave, he shall pay 25 shillings compensation. Third class: 12 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	hio	hēo (PRON)	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	grindende	grindan(ge)	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	4	amod	_	_
+4	ðeowa	ðēow	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	9	advcl	_	_
+5	sio	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+7	XXV	XXV	NUM	numeral (cardinal)	Uninflected=Yes	8	nummod	_	_
+8	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	9	obj	_	_
+9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.012.001.									
+# text = Cyninges fedesl XX scillinga forgelde.									
+# text_en = 20 shillings shall be paid for killing a fedesl belonging to the king.									
+1	Cyninges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+2	fedesl	fēdels 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+3	XX	XX	NUM	numeral (cardinal)	Uninflected=Yes	4	nummod	_	_
+4	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	5	obj	_	_
+5	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = LAWSABT.001.013.001.									
+# text = Gif on eorles tune man mannan ofslæhð, XII scillinga gebete.									
+# text_en = If one man slays another on the premises of a nobleman, he shall pay 12 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
+2	on	on ‘on, upon’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
+3	eorles	eorl 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	tune	tūn	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+5	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	mannan	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+7	ofslæhð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+9	XII	XII	NUM	numeral (cardinal)	Uninflected=Yes	10	nummod	_	_
+10	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	11	obj	_	_
+11	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = LAWSABT.001.014.001.									
+# text = Gif wið eorles birele man geligeð, XII scillinga gebete.									
+# text_en = If a man lies with a nobleman's serving maid, he shall pay 12 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
+2	wið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
+3	eorles	eorl 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	birele	byrele 	NOUN	common noun	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+5	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	geligeð	licgan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+8	XII	XII	NUM	numeral (cardinal)	Uninflected=Yes	9	nummod	_	_
+9	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	10	obj	_	_
+10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = LAWSABT.001.015.001.									
+# text = Ceorles mundbyrd: VI scillingas.									
+# text_en = A commoner's mundbyrd shall be 6 shillings.									
+1	Ceorles	ceorl 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+2	mundbyrd	mundbyrd	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+3	:	:	PUNCT	punctuation	Uninflected=Yes	2	punct	_	_
+4	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	5	nummod	_	_
+5	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = LAWSABT.001.016.001.									
+# text = Gif wið ceorles birelan man geligeð, VI scillingum gebete; aet ðære oðere ðeowan L scætta; aet ðare ðriddan XXX scætta.									
+# text_en = If a man lies with a commoner's serving maid, he shall pay 6 shillings compensation; with a slave of the second class, 50 sceattas; if with one of the third class, 30 sceattas.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
+2	wið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
+3	ceorles	ceorl 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	birelan	byrele 	NOUN	common noun	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+5	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	geligeð	licgan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+8	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	9	nummod	_	_
+9	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	10	obj	_	_
+10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	;	;	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
+12	aet	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	15	case	_	_
+13	ðære	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Number=Sing|PronType=DemArt	14	det	_	_
+14	oðere	ōðer	PRON	pronoun	Case=Gen|Number=Sing	15	nmod	_	_
+15	ðeowan	ðēowe	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	17	orphan	_	_
+16	L	L	NUM	numeral (cardinal)	Uninflected=Yes	17	nummod	_	_
+17	scætta	sceatt	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	10	list	_	SpaceAfter=No
+18	;	;	PUNCT	punctuation	Uninflected=Yes	23	punct	_	_
+19	aet	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	21	case	_	_
+20	ðare	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Number=Sing|PronType=DemArt	21	det	_	_
+21	ðriddan	ðriddan (NUM)	NUM	numeral (cardinal)	Case=Gen|Number=Sing	23	orphan	_	_
+22	XXX	XXX	NUM	numeral (cardinal)	Uninflected=Yes	23	nummod	_	_
+23	scætta	sceatt	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	10	list	_	SpaceAfter=No
+24	.	.	PUNCT	punctuation	Uninflected=Yes	23	punct	_	_
+									
+# sent_id = LAWSABT.001.017.001.									
+# text = Gif man in mannes tun ærest geirneð, VI scillingum gebete;									
+# text_en = If a man is the first to make entry into another man's premises, he shall pay 6 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	case	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	in	in (PREP)	ADP	adposition	Uninflected=Yes	5	case	_	_
+4	mannes	mann	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+5	tun	tūn	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+6	ærest	ǣr ‘before that’	ADV	adverb	Degree=Sup|Uninflected=Yes	7	advmod	_	_
+7	geirneð	iernan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+9	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	10	nummod	_	_
+10	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	11	obj	_	_
+11	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	;	;	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = LAWSABT.001.017.002.									
+# text = se ðe æfter irneð: III scillingas, siððan gehwylc scilling									
+# text_en = He who comes next shall pay 3 shillings compensation; and afterwards each one hall pay a shilling.									
+1	se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	7	orphan	_	_
+2	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	4	nsubj	_	_
+3	æfter	æfter ‘after’	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	irneð	iernan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
+5	:	:	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	III	III	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+9	siððan	siððan ‘since’	ADV	adverb	Uninflected=Yes	11	advmod	_	_
+10	gehwylc	gehwilc (PRON)	PRON	pronoun	Case=Nom|Number=Sing|PronType=Ind	11	orphan	_	_
+11	scilling	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	7	parataxis	_	_
+									
+# sent_id = LAWSABT.001.019.001.									
+# text = Gif wegreaf sy gedon, VI scillingum gebete.									
+# text_en = If highway robbery is perpetrated with the aid of those weapons, the lender shall pay 6 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	wegreaf	wegrēaf	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+3	sy	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	gedon	dōn(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.020.001.									
+# text = Gif man ðone man ofslæhð, XX scillingum gebete.									
+# text_en = If the man is slain, the lender of the weapons shall pay 20 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	4	det	_	_
+4	man	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+5	ofslæhð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	XX	XX	NUM	numeral (cardinal)	Uninflected=Yes	8	nummod	_	_
+8	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	9	obj	_	_
+9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.021.001.									
+# text = Gif man mannan ofslæhð, medume leodgeld C scillinga gebete.									
+# text_en = If one man slays another, the ordinary wergeld to be paid as compensation shall be 100 shillings.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	mannan	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	ofslæhð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	medume	medeme	ADJ	adjective	Case=Acc|Gender=Neut|Number=Sing	7	amod	_	_
+7	leodgeld	lēodgeld	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+8	C	C	NUM	numeral (cardinal)	Uninflected=Yes	9	nummod	_	_
+9	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = LAWSABT.001.022.001.									
+# text = Gif man mannan ofslæhð, æt openum græfe XX scillinga forgelde and in XL nihta ealne leod forgelde.									
+# text_en = If one man slays another, he shall pay 20 shillings before the grave is closed, and the whole of the wergeld within 40 days.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	mannan	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	ofslæhð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	8	case	_	_
+7	openum	open	ADJ	adjective	Case=Dat|Gender=Neut|Number=Sing	8	amod	_	_
+8	græfe	græf cave, grave, trench’	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	11	obl	_	_
+9	XX	XX	NUM	numeral (cardinal)	Uninflected=Yes	10	nummod	_	_
+10	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	11	obj	_	_
+11	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	18	cc	_	_
+13	in	in (PREP)	ADP	adposition	Uninflected=Yes	15	case	_	_
+14	XL	XL	NUM	numeral (cardinal)	Uninflected=Yes	15	nummod	_	_
+15	nihta	niht	NOUN	common noun	Case=Acc|Gender=Fem|Number=Plur	18	obl:tmod	_	_
+16	ealne	eall ‘all, every, entire’	DET	determiner	Case=Acc|Gender=Masc|Number=Sing	17	det	_	_
+17	leod	lēod ‘man; wergeld for manslaughter’	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	_
+18	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	11	conj	_	SpaceAfter=No
+19	.	.	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
+									
+# sent_id = LAWSABT.001.023.001.									
+# text = Gif bana of lande gewiteð, ða magas healfne leod forgelden.									
+# text_en = If a homicide departs from the country, his relatives shall pay half the wergeld.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
+2	bana	bana ‘killer, slayer, murderer; the devil’	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	of	of ‘of, from, out of’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
+4	lande	land	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	5	obl:lmod	_	_
+5	gewiteð	wītan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Plur|PronType=DemArt	8	det	_	_
+8	magas	mǣg(ge) ‘male kinsman, parent; compatriot’	NOUN	common noun	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+9	healfne	healf ‘half’	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	_
+10	leod	lēod ‘man; wergeld for manslaughter’	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+11	forgelden	forgieldan	VERB	main-verb	Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = LAWSABT.001.024.001.									
+# text = Gif man frigne man gebindeð, XX scillinga gebete.									
+# text_en = If a man lays bonds on a freeman, he shall pay 20 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	frigne	frēo ‘free’	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	4	amod	_	_
+4	man	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+5	gebindeð	bindan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	XX	XX	NUM	numeral (cardinal)	Uninflected=Yes	8	nummod	_	_
+8	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	9	obj	_	_
+9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.025.001.									
+# text = Gif man ceorlæs hlafætan ofslæhð, VI scillingum gebete.									
+# text_en = If a man slays the dependant of a commoner, he shall pay the commoner 6 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	ceorlæs	ceorl 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	hlafætan	hlāfǣta	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+5	ofslæhð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	8	nummod	_	_
+8	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	9	obj	_	_
+9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.026.001.									
+# text = Gif læt ofslæhð, ðone selestan LXXX scillingum forgelde;									
+# text_en = If he slays a læt of the best class, he shall pay 80 shillings;									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	læt	læt	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+3	ofslæhð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+5	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	2	det	_	_
+6	selestan	sēl ‘good’	ADJ	adjective	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	2	amod	_	_
+7	LXXX	LXXX	NUM	numeral (cardinal)	Uninflected=Yes	8	nummod	_	_
+8	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	9	obj	_	_
+9	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	;	;	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.026.002.									
+# text = gif ðane oðerne ofslæhð, LX scillingum forgelde;									
+# text_en = if he slays one of the second class, he shall pay 60 shillings;									
+1	gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	ðane	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
+3	oðerne	ōðer	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	ofslæhð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	LX	LX	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+8	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	;	;	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.026.003.									
+# text = ðane ðriddan XL scilling forgelden.									
+# text_en = the third class, he shall pay 40 shillings.									
+1	ðane	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	2	det	_	_
+2	ðriddan	ðriddan (NUM)	NUM	numeral (cardinal)	Case=Acc|Gender=Masc|Number=Sing	5	orphan	_	_
+3	XL	XL	NUM	numeral (cardinal)	Uninflected=Yes	4	nummod	_	_
+4	scilling	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+5	forgelden	forgieldan	VERB	main-verb	Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = LAWSABT.001.027.001.									
+# text = Gif friman edorbrecðe gedeð, VI scillingum gebete.									
+# text_en = If a freeman breaks the fence round another man's enclosure, he shall pay 6 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	friman	frēomann 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	edorbrecðe	eodorbrecð 	NOUN	common noun	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+4	gedeð	dōn(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.028.001.									
+# text = Gif man inne feoh genimeð, se man IIIgelde gebete.									
+# text_en = If any property be seized therein, the man shall pay a three fold compensation									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	inne	inne	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	feoh	feoh	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+5	genimeð	niman(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	8	det	_	_
+8	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+9	IIIgelde	_	X	foreign word	Foreign=Yes	10	advmod	_	_
+10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = LAWSABT.001.029.001.									
+# text = Gif friman edor gegangeð, IIII scillingum gebete.									
+# text_en = If a freeman makes his way into a fenced enclosure, he shall pay 4 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	friman	frēomann 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	edor	edcēlnes 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	gegangeð	gangan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	IIII	IIII	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.030.001.									
+# text = Gif man mannan ofslea, agene scætte and unfacne feo gehwilce gelde.									
+# text_en = If one man slays another, he shall pay the wergeld with his own money and property (i.e. livestock or other goods) which whatever its nature must be free from blemish.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	mannan	mann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	ofslea	ofslēan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	12	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	agene	āgen(ge)	ADJ	adjective	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
+7	scætte	sceatt	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	_
+8	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	10	cc	_	_
+9	unfacne	unfǣcne	ADJ	adjective	Case=Acc|Gender=Neut|Number=Sing	10	amod	_	_
+10	feo	feoh	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	7	conj	_	_
+11	gehwilce	gehwilc (PRON)	PRON	pronoun	Case=Dat|Number=Sing|PronType=Ind	12	iobj	_	_
+12	gelde	gyldan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
+									
+# sent_id = LAWSABT.001.031.001.									
+# text = Gif friman wið fries mannes wif geligeð, his wergelde abicge and oðer wif his agenum scætte begete and ðæm oðrum æt ðam gebrenge.									
+# text_en = If one freeman lies with the wife of another freeman, he shall pay the husband his or her wergeld, and procure a second wife with his own money, and bring her to the other man's home.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
+2	friman	frēomann 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	wið	wið ‘with, by, near’ (PREP)	ADP	adposition	Uninflected=Yes	6	case	_	_
+4	fries	frēo ‘free’	ADJ	adjective	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+5	mannes	mann	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+6	wif	wīf	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
+7	geligeð	licgan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+9	his	his (POSS)	PRON	pronoun	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	wergelde	wergild	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	11	obj	_	_
+11	abicge	ābycgan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	18	cc	_	_
+13	oðer	ōðer	ADJ	adjective	Case=Acc|Gender=Neut|Number=Sing	14	amod	_	_
+14	wif	wīf	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+15	his	his (POSS)	PRON	pronoun	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det:poss	_	_
+16	agenum	āgen(ge)	ADJ	adjective	Case=Dat|Gender=Masc|Number=Sing	17	amod	_	_
+17	scætte	sceatt	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	_
+18	begete	begietan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	11	conj	_	_
+19	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	24	cc	_	_
+20	ðæm	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Masc|Number=Sing|PronType=DemArt	21	det	_	_
+21	oðrum	ōðer	ADJ	adjective	Case=Dat|Gender=Masc|Number=Sing	24	obj	_	_
+22	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	23	case	_	_
+23	ðam	ham	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	24	obl:lmod	_	_
+24	gebrenge	bringan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	11	conj	_	SpaceAfter=No
+25	.	.	PUNCT	punctuation	Uninflected=Yes	24	punct	_	_
+									
+# sent_id = LAWSABT.001.032.001.									
+# text = Gif man rihthamscyld ðurhstinð, mid weorðe forgelde.									
+# text_en = If anyone damages the enclosure of a dwelling, he shall pay according to its value.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	rihthamscyld	rihthāmscyld	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	ðurhstinð	ðurhstingan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	mid	mid ‘with’ (PREP)	ADP	adposition	Uninflected=Yes	7	case	_	_
+7	weorðe	weorð(ge)	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	8	obl	_	_
+8	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.033.001.									
+# text = Gif feaxfang geweorð, L sceatta to bote.									
+# text_en = For seizing a man by the hair, 50 sceattas shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	feaxfang	feaxfang 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	geweorð	weorðan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+5	L	L	NUM	numeral (cardinal)	Uninflected=Yes	6	nummod	_	_
+6	sceatta	sceatt	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+7	to	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	8	case	_	_
+8	bote	bōt 	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	6	orphan	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+									
+# sent_id = LAWSABT.001.034.001.									
+# text = Gif banes blice weorðeð, III scillingum gebete									
+# text_en = If a bone is laid bare, 3 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	banes	bān 	NOUN	common noun	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+3	blice	blice	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	weorðeð	weorðan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	III	III	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.035.001.									
+# text = Gif banes bite weorð, IIII scillingum gebete.									
+# text_en = If a bone is damaged, 4 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	banes	bān 	NOUN	common noun	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+3	bite	bite 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	weorð	weorðan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	IIII	IIII	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.037.001.									
+# text = Gif butu sien, XX scillingum gebete.									
+# text_en = If both are broken, 20 shillings shall be paid as compensation									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	butu	būtu (PRON)	PRON	pronoun	Case=Nom|Number=Plur	3	nsubj	_	_
+3	sien	bēon/wesan/sēon ‘to be’	VERB	main-verb	Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+5	XX	XX	NUM	numeral (cardinal)	Uninflected=Yes	6	nummod	_	_
+6	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	7	obj	_	_
+7	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = LAWSABT.001.038.001.									
+# text = Gif eaxle gelæmed weorðeð, XXX scillinga gebete.									
+# text_en = If a shoulder is disabled, 30 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	eaxle	eaxl 	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
+3	gelæmed	_	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	8	advcl	_	_
+4	weorðeð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+6	XXX	XXX	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.040.001.									
+# text = Gif eare of weorð aslagen, XII scillinga gebete.									
+# text_en = If an ear is struck off, 12 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
+2	eare	ēare 	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+3	of	of ‘off’	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+4	weorð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+5	aslagen	āslēan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	XII	XII	NUM	numeral (cardinal)	Uninflected=Yes	8	nummod	_	_
+8	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	9	obj	_	_
+9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.041.001.									
+# text = Gif eare ðirel weorðeð, III scillinga gebete.									
+# text_en = If an ear is pierced, 3 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	eare	ēare 	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
+3	ðirel	ðyrel ‘pierced’	VERB	main-verb	Case=Nom|Gender=Neut|Number=Sing	8	advcl	_	_
+4	weorðeð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+6	III	III	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.042.001.									
+# text = Gif eare sceard weorðeð, VI scillinga gebete.									
+# text_en = If an ear is lacerated,6 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	eare	ēare 	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
+3	sceard	sceard ‘cut’	VERB	main-verb	Case=Nom|Gender=Neut|Number=Sing	8	advcl	_	_
+4	weorðeð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+6	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.043.001.									
+# text = Gif eage of weorð, L scillinga gebete.									
+# text_en = If an eye is knocked out, 50 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	eage	ēage 	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	of	of ‘off’	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	weorð	weorðan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	L	L	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.044.001.									
+# text = Gif muð oððe eage woh weorðeð, XII scillinga gebete.									
+# text_en = If the mouth or an eye is disfigured, 12 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	case	_	_
+2	muð	mūð	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+3	oððe	oððe (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
+4	eage	ēage 	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	_
+5	woh	wōh ‘bent’	VERB	main-verb	Case=Nom|Number=Sing	10	advcl	_	_
+6	weorðeð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+8	XII	XII	NUM	numeral (cardinal)	Uninflected=Yes	9	nummod	_	_
+9	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	10	obj	_	_
+10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = LAWSABT.001.045.001.									
+# text = Gif nasu ðyrel weorð, VIIII scillingum gebete.									
+# text_en = If the nose is pierced, 9 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	nasu	nosu	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
+3	ðyrel	ðyrel ‘pierced’	VERB	main-verb	Case=Nom|Gender=Fem|Number=Sing	8	advcl	_	_
+4	weorð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+6	VIIII	VIIII	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.046.001.									
+# text = Gif hit sio an hleore, III scillinga gebete.									
+# text_en = If it is one cheek 1, 3 shillings shall he paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
+2	hit	hit (PRON)	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+3	sio	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	an	ān ‘one; each’ (NUM)	NUM	numeral (cardinal)	Case=Nom|Gender=Neut|Number=Sing	5	nummod	_	_
+5	hleore	hlēor	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	III	III	NUM	numeral (cardinal)	Uninflected=Yes	8	nummod	_	_
+8	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	9	obj	_	_
+9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.047.001.									
+# text = Gif butu ðyrele sien, VI scillinga gebete.									
+# text_en = If both are pierced, 6 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	butu	būtu (PRON)	PRON	pronoun	Case=Nom|Number=Plur	3	nsubj	_	_
+3	ðyrele	ðyrel ‘pierced’	ADJ	adjective	Case=Nom|Number=Plur	8	advcl	_	_
+4	sien	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+6	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.048.001.									
+# text = Gif nasu ælcor sceard weorð, gehwylc VI scillinga gebete.									
+# text_en = If the nose is lacerated otherwise than by piercing, 6 shillings shall be paid as compensation, for each laceration.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	nasu	nosu	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+3	ælcor	elcor	ADV	adverb	Uninflected=Yes	4	advmod	_	_
+4	sceard	sceard ‘cut’	VERB	main-verb	Case=Nom|Gender=Fem|Number=Sing	10	advcl	_	_
+5	weorð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+7	gehwylc	gehwilc (PRON)	PRON	pronoun	Case=Nom|Number=Sing|PronType=Ind	10	nsubj	_	_
+8	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	9	nummod	_	_
+9	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	10	obj	_	_
+10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = LAWSABT.001.049.001.									
+# text = Gif ðirel weorð, VI scillinga gebete.									
+# text_en = If it is pierced, 6 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	2	mark	_	_
+2	ðirel	ðyrel ‘pierced’	VERB	main-verb	Case=Nom|Number=Sing	7	advcl	_	_
+3	weorð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	SpaceAfter=No
+4	,	,	PUNCT	punctuation	Uninflected=Yes	2	punct	_	_
+5	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	6	nummod	_	_
+6	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	7	obj	_	_
+7	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = LAWSABT.001.051.001.									
+# text = Æt ðam feower toðum fyrestum, æt gehwylcum VI scillingas;									
+# text_en = For each of the 4 front teeth, 6 shillings;									
+1	Æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
+2	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Masc|Number=Plur|PronType=DemArt	4	det	_	_
+3	feower	fēower (NUM)	NUM	numeral (cardinal)	Case=Dat|Gender=Masc|Number=Plur	4	nummod	_	_
+4	toðum	tōð	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	10	orphan	_	_
+5	fyrestum	fore	ADJ	adjective	Case=Dat|Degree=Sup|Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+7	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	8	case	_	_
+8	gehwylcum	gehwilc (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Plur|PronType=Ind	10	orphan	_	_
+9	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	10	nummod	_	_
+10	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+11	;	;	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = LAWSABT.001.051.002.									
+# text = se toð se ðanne bistandeð: IIII scillingas;									
+# text_en = for each of the teeth which stand next to these, 4 shillings;									
+1	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	2	det	_	_
+2	toð	tōð	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+3	se	self ‘self’ (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	ðanne	ðonne ‘then’	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+5	bistandeð	bestandan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
+6	:	:	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	IIII	IIII	NUM	numeral (cardinal)	Uninflected=Yes	8	nummod	_	_
+8	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.051.003.									
+# text = se ðe ðonne bi ðam standeð: III scillingas;									
+# text_en = then for each tooth which stands next to them, 3 shillings;									
+1	se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	9	nsubj	_	_
+2	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	6	nsubj	_	_
+3	ðonne	ðonne ‘then’	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+4	bi	be (PREP)	ADP	adposition	Uninflected=Yes	5	case	_	_
+5	ðam	self ‘self’ (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Plur	6	obl	_	_
+6	standeð	standan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
+7	:	:	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+8	III	III	NUM	numeral (cardinal)	Uninflected=Yes	9	nummod	_	_
+9	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+10	;	;	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.051.004.									
+# text = ond ðonne siððan gehwylc: scilling.									
+# text_en = and beyond that 1 shilling for each tooth.									
+1	ond	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
+2	ðonne	ðonne ‘then’	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+3	siððan	siððan ‘since’	ADV	adverb	Uninflected=Yes	6	advmod	_	_
+4	gehwylc	gehwā (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	SpaceAfter=No
+5	:	:	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+6	scilling	scilling	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+									
+# sent_id = LAWSABT.001.052.001.									
+# text = Gif spræc awyrd weorð, XII scillingas.									
+# text_en = If the power of speech is injured, 12 shillings.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	spræc	sprǣc	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
+3	awyrd	āwierdan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	7	advcl	_	_
+4	weorð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+6	XII	XII	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = LAWSABT.001.52(1).001.									
+# text = Gif widobane gebroced weorðeð, VI scillinga gebete.									
+# text_en = If a collar bone is injured, 6 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	widobane	wiðobān	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
+3	gebroced	brecan(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	8	advcl	_	_
+4	weorðeð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+6	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.053.001.									
+# text = Se ðe earm ðurhstinð, VI scillingum gebete.									
+# text_en = He who pierces an arm shall pay 6 shillings compensation.									
+1	Se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	8	nsubj	_	_
+2	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	4	nsubj	_	_
+3	earm	earm 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	ðurhstinð	ðurhstingan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.53(1).001.									
+# text = Gif earm forbrocen weorð, VI scillinga gebete.									
+# text_en = If an arm is broken, 6 shillings shall be paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	earm	earm 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+3	forbrocen	forbrecan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	8	advcl	_	_
+4	weorð	weorðan(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+6	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.054.001.									
+# text = Gif ðuman ofaslæhð, XX scillingas.									
+# text_en = If a thumb is struck off, 20 shillings.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
+2	ðuman	ðūma	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	ofaslæhð	ofāslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
+5	XX	XX	NUM	numeral (cardinal)	Uninflected=Yes	6	nummod	_	_
+6	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+									
+# sent_id = LAWSABT.001.54(1).001.									
+# text = Gif ðuman nægl of weorðeð, III scillinga gebete									
+# text_en = If a thumb nail is knocked off, 3 shillings shall he paid as compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
+2	ðuman	ðūma	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+3	nægl	nægl	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	of	of ‘off’	ADV	adverb	Uninflected=Yes	5	advmod	_	_
+5	weorðeð	weorðan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+7	III	III	NUM	numeral (cardinal)	Uninflected=Yes	8	nummod	_	_
+8	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	9	obj	_	_
+9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
+									
+# sent_id = LAWSABT.001.54(2).001.									
+# text = Gif man scytefinger ofslæhð, VIIII scillinga gebete.									
+# text_en = If a man strikes off a forefinger, he shall pay 9 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	scytefinger	scytefinger	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	ofslæhð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
+6	VIIII	VIIII	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+									
+# sent_id = LAWSABT.001.54(3).001.									
+# text = Gif man middelfinger ofaslæhð IIII scillinga gebete.									
+# text_en = If a man strikes off a middle finger, he shall pay 4 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	middelfinger	middelfinger	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	ofaslæhð	ofāslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+5	IIII	IIII	NUM	numeral (cardinal)	Uninflected=Yes	6	nummod	_	_
+6	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	7	obj	_	_
+7	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
+									
+# sent_id = LAWSABT.001.54(4).001.									
+# text = Gif man goldfinger ofaslæhð, VI scillingum gebete									
+# text_en = If a man strikes off a 'ring finger,' he shall pay 6 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	goldfinger	goldfinger 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	ofaslæhð	ofāslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+5	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	SpaceAfter=No
+6	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	7	nummod	_	_
+7	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+									
+# sent_id = LAWSABT.001.54(5).001.									
+# text = Gif man ðone lytlan finger ofslæhð, XI scillinga gebete.									
+# text_en = If a man strikes off a little finger, he shall pay 11 shillings compensation.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	ðone	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	5	det	_	_
+4	lytlan	lȳtel ‘little’	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
+5	finger	finger 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+6	ofslæhð	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+8	XI	XI	NUM	numeral (cardinal)	Uninflected=Yes	9	nummod	_	_
+9	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	10	obj	_	_
+10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
+									
+# sent_id = LAWSABT.001.055.001.									
+# text = Æt ðam neglum gehwylcum scilling.									
+# text_en = For the nails of each of the above-mentioned fingers, 1 shilling.									
+1	Æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	3	case	_	_
+2	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Masc|Number=Plur|PronType=DemArt	3	det	_	_
+3	neglum	nægl	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	5	orphan	_	_
+4	gehwylcum	gehwilc (PRON)	PRON	pronoun	Case=Dat|Number=Plur|PronType=Ind	3	nmod	_	_
+5	scilling	scilling	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = LAWSABT.001.056.001.									
+# text = Æt ðam lærestan wlitewamme III scillingas ond æt ðam maran VI scillinga.									
+# text_en = For the slightest disfigurement, 3 shillings, and for a greater 6 shillings.									
+1	Æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
+2	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Masc|Number=Sing|PronType=DemArt	4	det	_	_
+3	lærestan	lȳtel ‘little’	ADJ	adjective	Case=Dat|Degree=Sup|Gender=Masc|Number=Sing	4	amod	_	_
+4	wlitewamme	wlitewamm	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	6	orphan	_	_
+5	III	III	NUM	numeral (cardinal)	Uninflected=Yes	6	nummod	_	_
+6	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	_
+7	ond	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	12	cc	_	_
+8	æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	10	case	_	_
+9	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Masc|Number=Sing|PronType=DemArt	10	det	_	_
+10	maran	micel ‘great’	ADJ	adjective	Case=Dat|Degree=Cmp|Gender=Masc|Number=Sing	12	orphan	_	_
+11	VI	VI	NUM	numeral (cardinal)	Uninflected=Yes	12	nummod	_	_
+12	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
+									
+# sent_id = LAWSABT.001.057.001.									
+# text = Gif man oðerne mid fyste in naso slæhð, III scillingas.									
+# text_en = If one man strikes another on the nose with his fist, 3 shillings.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	8	mark	_	_
+2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+3	oðerne	ōðer	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+4	mid	mid ‘with’ (PREP)	ADP	adposition	Uninflected=Yes	5	case	_	_
+5	fyste	fȳst 	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	_
+6	in	in (PREP)	ADP	adposition	Uninflected=Yes	7	case	_	_
+7	naso	nosu	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	8	obl:lmod	_	_
+8	slæhð	slēan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	orphan	_	SpaceAfter=No
+9	,	,	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
+10	III	III	NUM	numeral (cardinal)	Uninflected=Yes	11	nummod	_	_
+11	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
+									
+# sent_id = LAWSABT.001.058.001.									
+# text = Gif dynt sie, scilling.									
+# text_en = If it leaves a bruise, 1 shilling.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	2	mark	_	_
+2	dynt	dynt	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	orphan	_	_
+3	sie	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
+4	,	,	PUNCT	punctuation	Uninflected=Yes	2	punct	_	_
+5	scilling	scilling	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
+									
+# sent_id = LAWSABT.001.58(1).001.									
+# text = Gif he heahre handa dyntes onfehð, scillingum forgelde.									
+# text_en = If the blow is received with uplifted hand, a shilling shall be paid.									
+1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
+2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+3	heahre	hēah ‘high’	ADJ	adjective	Case=Dat|Gender=Fem|Number=Sing	4	amod	_	_
+4	handa	hand	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	6	obl:mmod	_	_
+5	dyntes	dynt	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	6	obj	_	_
+6	onfehð	onfōn	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
+8	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	9	obj	_	_
+9	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
