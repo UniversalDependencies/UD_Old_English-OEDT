@@ -1,4 +1,4 @@
-# sent_id = LAWSABT.001.018.001.									
+# sent_id = LAWSABT.001.018.001.
 # text = Gif man mannan wępnum bebyreð, ðær ceas weorð, and man nænig yfel ne gedeð, VI scillingum gebete									
 # text_en = If one man supplies another with weapons when a quarrel is taking place, no injury however being inflicted, he, the lender, shall pay 6 shillings compensation									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -23,7 +23,7 @@
 20	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	21	obj	_	_
 21	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 									
-# sent_id = ASCA.YEAR0721.001.001									
+# sent_id = ASCA.YEAR0721.001.001
 # text = 721. Her Daniel ferde to Rome;									
 # text_en = 721. Here Daniel travelled to Rome.									
 1	721	721	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -35,7 +35,7 @@
 7	Rome	Rōm	PROPN	proper noun	Case=Dat|Number=Sing	5	obl:lmod	_	SpaceAfter=No
 8	;	;	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = ASCA.YEAR0721.001.002									
+# sent_id = ASCA.YEAR0721.001.002
 # text = and ðy ilcan geare Ine ofslog Cynewulf.									
 # text_en = And the same year Ine killed Cynewulf.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
@@ -47,7 +47,7 @@
 7	Cynewulf	Cynewulf	PROPN	proper noun	Case=Acc|Number=Sing	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
-# sent_id = ASCA.YEAR0722.001.001									
+# sent_id = ASCA.YEAR0722.001.001
 # text = 722. Her Æðelburg cuen towearp Tantun ðe Ine ær timbrede;									
 # text_en = 722. Here Queen Æthelburh threw down Taunton which Ine built earlier;									
 1	722	722	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
@@ -63,7 +63,7 @@
 11	timbrede	timbran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	SpaceAfter=No
 12	;	;	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = ASCA.YEAR0722.001.002									
+# sent_id = ASCA.YEAR0722.001.002
 # text = and Aldbryht wræccea gewat on Suðrige and on Suð Seaxe;									
 # text_en = and the exile Ealdberht departed into Surrey									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
@@ -78,7 +78,7 @@
 10	Seaxe	Seaxan	ADJ	proper adjective	Case=Acc|Number=Plur	6	conj	_	SpaceAfter=No
 11	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0722.001.003									
+# sent_id = ASCA.YEAR0722.001.003
 # text = and Ine gefeaht wið Suð Seaxum.									
 # text_en = and Ine fought against the South Saxons.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -89,7 +89,7 @@
 6	Seaxum	Seaxan	ADJ	proper adjective	Case=Dat|Number=Plur	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
 									
-# sent_id = ASCA.YEAR0725.001.001									
+# sent_id = ASCA.YEAR0725.001.001
 # text = 725. Her Wihtred Cantwara cyning forðferde. ðæs cyn is beforan.									
 # text_en = 725. Here Wihtred, king of the inhabitants of Kent, whose ancestry is above passed away;									
 1	725	725	NUM	numeral (cardinal)	Uninflected=Yes	7	dep	_	_
@@ -105,7 +105,7 @@
 11	beforan	beforan ‘before’ (PREP)	ADP	adposition	Uninflected=Yes	6	acl:relcl	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = ASCA.YEAR0725.001.002									
+# sent_id = ASCA.YEAR0725.001.002
 # text = and Eadberht feng to Centrice.									
 # text_en = and Eadberht succeeded to the kingdom of Kent.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -115,7 +115,7 @@
 5	Centrice	Centrīce	PROPN	proper noun	Case=Dat|Number=Sing	3	obl:arg	_	SpaceAfter=No
 6	.	.	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
 									
-# sent_id = ASCA.YEAR0725.001.003									
+# sent_id = ASCA.YEAR0725.001.003
 # text = and Ine feaht wið Suð Seaxan, and ðær ofslog Aldbryht.									
 # text_en = And Ine fought against the South Saxons, and there killed Ealdberht.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -131,7 +131,7 @@
 11	Aldbryht	Aldberht	PROPN	proper noun	Case=Acc|Number=Sing	10	obj	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = ASCA.YEAR0728.001.001									
+# sent_id = ASCA.YEAR0728.001.001
 # text = 728. Her Ine ferde to Rome. and ðær his feorh gesealde and feng Æðelheard to Wesseaxna rice and heold xiiii gear.									
 # text_en = 728. Here Ine travelled to Rome and there gave up his life and Æthelheard succeeded to the kingdom of Wessex and held it 14 years.									
 1	728	728	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -159,7 +159,7 @@
 23	gear	gēar 	NOUN	common noun	Case=Acc|Gender=Neut|Number=Plur	21	obl:tmod	_	SpaceAfter=No
 24	.	.	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
 									
-# sent_id = ASCA.YEAR0728.001.002									
+# sent_id = ASCA.YEAR0728.001.002
 # text = and ðy geare gefuhton Æðelheard and Oswald se æðeling;									
 # text_en = And that year Æthelheard and the ætheling Oswald fought;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
@@ -173,7 +173,7 @@
 9	æðeling	æðeling	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
 10	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0728.001.003									
+# sent_id = ASCA.YEAR0728.001.003
 # text = and se Oswald was Æðelbalding, Æðelbald Cynebalding, Cynebald Cuðwining, Cuðwine Ceaulining.									
 # text_en = and that Oswald was Æthelbald's offspring, Æthelbald Cynebald's offspring, Cynebald Cuthwine's oftspring, Cuthwine Ceawlin's offspring.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
@@ -192,7 +192,7 @@
 14	Ceaulining	Ceawlining	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
 15	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
 									
-# sent_id = ASCA.YEAR0729.001.001									
+# sent_id = ASCA.YEAR0729.001.001
 # text = 729. Her cometa se steorra hiene oðiewde, and Sanctus Ecgbryht forðferde;									
 # text_en = 729. Here the star comet showed itself; and St Egbert passed away.									
 1	729	729	NUM	numeral (cardinal)	Uninflected=Yes	8	dep	_	SpaceAfter=No
@@ -210,7 +210,7 @@
 13	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	SpaceAfter=No
 14	;	;	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
 									
-# sent_id = ASCA.YEAR0730.001.001									
+# sent_id = ASCA.YEAR0730.001.001
 # text = 730. Her Oswald se æðeling forðferde.									
 # text_en = 730. Here the ætheling Oswald passed away.									
 1	730	730	NUM	numeral (cardinal)	Uninflected=Yes	7	dep	_	SpaceAfter=No
@@ -222,7 +222,7 @@
 7	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = ASCA.YEAR0731.001.001									
+# sent_id = ASCA.YEAR0731.001.001
 # text = 731. Her was ofslægen Osric Norðanhymbra cyning, and feng Ceoluulf to ðam rice, and heold viii gear.									
 # text_en = 731. Here Osric, king of Northumbria, was killed, and Ceolwulf succeeded to the kingdom and held it 8 years.									
 1	731	731	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -247,7 +247,7 @@
 20	gear	gēar 	NOUN	common noun	Case=Acc|Gender=Neut|Number=Plur	18	obl:tmod	_	SpaceAfter=No
 21	.	.	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
 									
-# sent_id = ASCA.YEAR0731.002.001									
+# sent_id = ASCA.YEAR0731.002.001
 # text = and se Ceolwulf wæs Cuðaing, Cuða Cuðwining, Cuðwine Leodwalding. Leodwald Ecgwalding, Ecgwald Aldhelming, Aldhelm Ocging, Ocga Iding, Ida Eopping;									
 # text_en = And that Ceolwulf was Cutha's offspring, Cutha Cuthwine's offspring, Cuthwine Leodwald's offspring, Leodwald Ecgwald's offspring, Ecgwald Aldhelm's offspring, Aldhelm Ocga's offspring, Ocga Ida's offspring, Ida Eoppa's offspring.'									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
@@ -278,7 +278,7 @@
 26	Eopping	Eopping	ADJ	adjective	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
 27	,	,	PUNCT	punctuation	Uninflected=Yes	26	punct	_	_
 									
-# sent_id = ASCA.YEAR0731.002.002									
+# sent_id = ASCA.YEAR0731.002.002
 # text = and Beorhtwald ærcebiscep gefor;									
 # text_en =  And Archbishop Berhtwald departed,									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
@@ -287,7 +287,7 @@
 4	gefor	faran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0731.002.003									
+# sent_id = ASCA.YEAR0731.002.003
 # text = and ðy ilcan geare Tatwine wæs gehalgod to ærcebiscep.									
 # text_en = and the same year Tatwine was consecrated as archbishop.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
@@ -301,7 +301,7 @@
 9	ærcebiscep	arcebiscop	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = ASCA.YEAR0733.001.001									
+# sent_id = ASCA.YEAR0733.001.001
 # text = 733. Her Æðelbald geeode Sumurtun; and sunne aðiestrode.									
 # text_en = 733. Here Æthelbald captured Somerton; and the sun grew dark.									
 1	733	733	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -316,7 +316,7 @@
 10	aðiestrode	āðēostrian	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = ASCA.YEAR0734.001.001									
+# sent_id = ASCA.YEAR0734.001.001
 # text = 734. Her wæs se mona swelce he wære mid blode begoten;									
 # text_en = 734. Here the moon was as if it were suffused with blood;									
 1	734	734	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
@@ -333,7 +333,7 @@
 12	begoten	begēotan	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	4	advcl	_	SpaceAfter=No
 13	;	;	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
-# sent_id = ASCA.YEAR0734.001.002									
+# sent_id = ASCA.YEAR0734.001.002
 # text = and ferdon forð Tatwine and Bieda.									
 # text_en = and Tatwine and Bede passed away.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	2	cc	_	_
@@ -344,7 +344,7 @@
 6	Bieda	Bieda	PROPN	proper noun	Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No
 7	.	.	PUNCT	punctuation	Uninflected=Yes	2	punct	_	_
 									
-# sent_id = ASCA.YEAR0736.001.001									
+# sent_id = ASCA.YEAR0736.001.001
 # text = 736. Her Noðhelm ærcebiscep onfeng pallium from Romana biscep.									
 # text_en = 736. Here Archbishop Nothhelm obtained the pallium from the bishop of the Romans.									
 1	736	736	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
@@ -359,7 +359,7 @@
 10	biscep	bisceop 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
-# sent_id = ASCA.YEAR0737.001.001									
+# sent_id = ASCA.YEAR0737.001.001
 # text = 737. Her Forðhere biscep and Friðogið cuen ferdun to Rome.									
 # text_en = 737. Here Bishop Forthhere and Queen Frithugyth travelled to Rome.									
 1	737	737	NUM	numeral (cardinal)	Uninflected=Yes	9	dep	_	SpaceAfter=No
@@ -375,7 +375,7 @@
 11	Rome	Rōm	PROPN	proper noun	Case=Dat|Number=Sing	9	obl:lmod	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = ASCA.YEAR0738.001.001									
+# sent_id = ASCA.YEAR0738.001.001
 # text = 738. Her Eadbryht Eating, Eata Leodwalding, feng to Norðanhymbra rice. and heold xxi wintra.									
 # text_en = 738. Here Eadberht Eata's offspring - Eata Leodwald's offspring - succeeded to the Northumbrian kingdom, and held it 21 years.									
 1	738	738	NUM	numeral (cardinal)	Uninflected=Yes	10	dep	_	SpaceAfter=No
@@ -398,7 +398,7 @@
 18	wintra	winter	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	16	obl:tmod	_	SpaceAfter=No
 19	.	.	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
-# sent_id = ASCA.YEAR0738.001.002									
+# sent_id = ASCA.YEAR0738.001.002
 # text = and his broðor wæs Ecgbryht Eating ærcebiscep,									
 # text_en = And his brother was Archbishop Egbert, Eata's offspring;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
@@ -410,7 +410,7 @@
 7	ærcebiscep	arcebiscop	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = ASCA.YEAR0738.001.003									
+# sent_id = ASCA.YEAR0738.001.003
 # text = and hie restað begen on Eoforwicceastre on anum portice.									
 # text_en = and they both rest in York city in the one side-chapel.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -424,7 +424,7 @@
 9	portice	portic	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	3	obl:lmod	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
 									
-# sent_id = ASCA.YEAR0741.001.001									
+# sent_id = ASCA.YEAR0741.001.001
 # text = 741. Her Æðelheard cyning forðferde, and feng Cuðræd to Wesseaxna rice, and heold xvi wintra, and heardlice gewon wið Æðelbald cyning;									
 # text_en = 741. Here King Æthelheard passed away; and Cuthred succeeded to the kingdom of Wessex and held it 16 years, and boldly made war against King Æthelbald.									
 1	741	741	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
@@ -454,7 +454,7 @@
 25	cyning	cyning 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
 26	;	;	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
 									
-# sent_id = ASCA.YEAR0741.001.002									
+# sent_id = ASCA.YEAR0741.001.002
 # text = and Cuðbryht wæs to ærcebiscep gehalgod, and Dun biscep to Hrofesceastre.									
 # text_en = And Cuthbert was consecrated as archbishop, and Dunn bishop for Rochester.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
@@ -471,7 +471,7 @@
 12	Hrofesceastre	Hrofesceaster	PROPN	proper noun	Case=Dat|Number=Sing	10	orphan	_	SpaceAfter=No
 13	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = ASCA.YEAR0743.001.001									
+# sent_id = ASCA.YEAR0743.001.001
 # text = 743. Her Æðelbald and Cuðræd fuhton wið Walas.									
 # text_en = 743. Here Æthelbald and Cuthred fought against the Welsh.									
 1	743	743	NUM	numeral (cardinal)	Uninflected=Yes	7	dep	_	SpaceAfter=No
@@ -485,7 +485,7 @@
 9	Walas	Wēalas	ADJ	proper adjective	Case=Acc|Number=Plur	7	obl	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = ASCA.YEAR0744.001.001									
+# sent_id = ASCA.YEAR0744.001.001
 # text = 744. Her Danihel gesæt on Wintanceastre, and Hunferð feng to biscepdome.									
 # text_en = 744. Here Daniel retired in Winchester, and Hunferth succeeded to the bishopric.									
 1	744	744	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -503,7 +503,7 @@
 13	biscepdome	bisceopdōm 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	11	obl:arg	_	SpaceAfter=No
 14	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = ASCA.YEAR0745.001.001									
+# sent_id = ASCA.YEAR0745.001.001
 # text = 745. Her Danihel forðferde,									
 # text_en = 745. Here Daniel passed away;									
 1	745	745	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -513,7 +513,7 @@
 5	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = ASCA.YEAR0745.001.002									
+# sent_id = ASCA.YEAR0745.001.002
 # text = ða was xliii wintra agan siððan he onfeng biscepdome.									
 # text_en = 43 years had then passed since he succeeded to the bishopric.									
 1	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	5	advmod	_	_
@@ -527,7 +527,7 @@
 9	biscepdome	bisceopdōm 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = ASCA.YEAR0746.001.001									
+# sent_id = ASCA.YEAR0746.001.001
 # text = 746. Her mon slog Selred cyning.									
 # text_en = 746. Here they killed King Selred.									
 1	746	746	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -539,7 +539,7 @@
 7	cyning	cyning 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = ASCA.YEAR0748.001.001									
+# sent_id = ASCA.YEAR0748.001.001
 # text = 748. Her wæs ofslægen Cynric Wesseaxna æðeling, and Eadbryht Cantwara cyning forðferde. and Æthelbyrht Wihtredes sunu cinges feng to ðam rice.									
 # text_en = 748. Here Cynric, ætheling of Wessex, was killed, and Eadberht, king of the inhabitants of Kent, passed away, and Æthelberht, son of King Wihtred, succeeded to the kingdom.									
 1	748	748	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -568,7 +568,7 @@
 24	rice	rīce	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	21	obl:arg	_	SpaceAfter=No
 25	.	.	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
 									
-# sent_id = ASCA.YEAR0750.001.001									
+# sent_id = ASCA.YEAR0750.001.001
 # text = 750. Her Cuðred cyning gefeaht uuið Æðelhun ðone ofermedan aldormonn.									
 # text_en = 750. Here King Cuthred fought against Æthelhun, the arrogant ealdorman.									
 1	750	750	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
@@ -584,7 +584,7 @@
 11	aldormonn	ealdormann	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
-# sent_id = ASCA.YEAR0752.001.001									
+# sent_id = ASCA.YEAR0752.001.001
 # text = 752. Her Cuðred gefeaht ðy xii geare his rices æt Beorgfeorda wið Æðelbald.									
 # text_en = 752. Here, in the 12th year of his rule, Cuthred fought against Æthelbald at Beorgford.									
 1	752	752	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -603,7 +603,7 @@
 14	Æðelbald	Æðelbald	PROPN	proper noun	Case=Acc|Number=Sing	5	obl	_	SpaceAfter=No
 15	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = ASCA.YEAR0753.001.001									
+# sent_id = ASCA.YEAR0753.001.001
 # text = 753. Her Cuðred feaht wið Walas.									
 # text_en = 753. Here Cuthred fought against the Welsh.									
 1	753	753	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -615,7 +615,7 @@
 7	Walas	Wēalas	ADJ	proper adjective	Case=Acc|Number=Plur	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = ASCA.YEAR0754.001.001									
+# sent_id = ASCA.YEAR0754.001.001
 # text = 754. Her Cuðred forðferde, and Cyneheard onfeng biscepdome æfter Hunferðe on Wintanceastre;									
 # text_en = 754. Here Cuthred passed away; and Cyneheard succeeded to the bishopric in Winchester after Hunferth;									
 1	754	754	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -634,7 +634,7 @@
 14	Wintanceastre	Wintanceaster	PROPN	proper noun	Case=Dat|Number=Sing	9	obl:lmod	_	SpaceAfter=No
 15	;	;	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = ASCA.YEAR0754.001.002									
+# sent_id = ASCA.YEAR0754.001.002
 # text = and Cantwara burg forbærn ðy geare, and Sigebryht feng to Wesseaxna rice, and heold an gear.									
 # text_en = and that year Canterbury burned down, and Sigeberht succeeded to the kingdom of Wessex and held it one year.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
@@ -657,7 +657,7 @@
 18	gear	gēar 	NOUN	common noun	Case=Acc|Gender=Neut|Number=Sing	16	obl:tmod	_	SpaceAfter=No
 19	.	.	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.001.001									
+# sent_id = ASCA.YEAR0755.001.001
 # text = 755. Her Cynewulf benam Sigebryht his rices and West Seaxna wiotan for unryhtum dædum, buton Hamtunscire;									
 # text_en = 755. Here Cynewulf and the councillors of Wessex deprived Sigeberht of his kingdom because of unlawful actions- except for Hampshire;									
 1	755	755	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -680,7 +680,7 @@
 18	Hamtunscire	Hāmtūnscir	NOUN	common noun	Case=Dat|Number=Sing	5	obl	_	SpaceAfter=No
 19	;	;	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.001.002									
+# sent_id = ASCA.YEAR0755.001.002
 # text = and he hæfde ða oð he ofslog ðone aldormon ðe him lengest wunode;									
 # text_en = and he had that until he killed the ealdorman who stayed with him longest.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -698,7 +698,7 @@
 13	wunode	wunian ‘to dwell; to inhabit; to abide; to remain’	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
 14	;	;	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.010.001									
+# sent_id = ASCA.YEAR0755.010.001
 # text = and hie cuædon ðæt tæt ilce hiera geferum geboden wære, ðe ær mid ðam cyninge wærun;									
 # text_en = And they said that the same had been offered to their companions who were with the king earlier;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -720,7 +720,7 @@
 17	wærun	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	16	cop	_	SpaceAfter=No
 18	;	;	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.010.002									
+# sent_id = ASCA.YEAR0755.010.002
 # text = ða cuædon hie ðæt hie hie ðæs ne onmunden ðon ma ðe eowre geferan ðe mid ðam cyninge ofslægene wærun.									
 # text_en = then they said they themselves did not pay attention to this 'any more than your companions who were killed with the king'.									
 1	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	2	advmod	_	_
@@ -745,7 +745,7 @@
 20	wærun	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	19	aux:pass	_	SpaceAfter=No
 21	.	.	PUNCT	punctuation	Uninflected=Yes	19	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.011.001									
+# sent_id = ASCA.YEAR0755.011.001
 # text = and hie ða ymb ða gatu feohtende wæron oððæt hie ðærinne fulgon, and ðone æðeling ofslogon, and ða men ðe him mid wærun alle butan anum, se wæs ðæs aldormonnes godsunu,									
 # text_en = And they were fighting around the gates until they forced their way in and killed the ætheling and the men who were with him, all except for one who was the ealdorman's godson,									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
@@ -784,7 +784,7 @@
 34	godsunu	godsunu 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	28	acl:relcl	_	SpaceAfter=No
 35	,	,	PUNCT	punctuation	Uninflected=Yes	34	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.011.002									
+# sent_id = ASCA.YEAR0755.011.002
 # text = and he his feorh generede and ðeah he wæs oft gewundad.									
 # text_en = and he saved his life, although he was often wounded.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
@@ -800,7 +800,7 @@
 11	gewundad	wundian(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	5	conj	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.012.001									
+# sent_id = ASCA.YEAR0755.012.001
 # text = and se Cynewulf ricsode xxxi wintra. and his lic lið æt Wintanceastre, and ðæs æðelinges æt Ascanmynster,									
 # text_en = And that Cynewulf ruled 31 years, and his body lies at Winchester, and the ætheling's at Axminster;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
@@ -824,7 +824,7 @@
 19	Ascanmynster	Acsanmynster	PROPN	proper noun	Case=Acc|Number=Sing	17	orphan	_	SpaceAfter=No
 20	,	,	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.012.002									
+# sent_id = ASCA.YEAR0755.012.002
 # text = and hiera ryhtfæderencyn gæð to Cerdice;									
 # text_en = and their direct paternal ancestry goes back to Cerdic.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
@@ -835,7 +835,7 @@
 6	Cerdice	Cerdic	PROPN	proper noun	Case=Dat|Number=Sing	4	obl	_	SpaceAfter=No
 7	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.012.003									
+# sent_id = ASCA.YEAR0755.012.003
 # text = and ðy ilcan geare mon ofslog Æðelbald Miercna cyning on Seccandune, and his lic lið on Hreopadune;									
 # text_en = And the same year Æthelbald, king of Mercia, was killed at Seckington, and his body lies in Repton.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
@@ -858,7 +858,7 @@
 18	Hreopadune	Hreopadūn	PROPN	proper noun	Case=Dat|Number=Sing	16	obl:lmod	_	SpaceAfter=No
 19	;	;	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.013.001									
+# sent_id = ASCA.YEAR0755.013.001
 # text = and Beornræd feng to rice, and lytle hwile heold and ungefealice;									
 # text_en = And Beornred succeeded to the kingdom, and held it a little while and unhappily;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -875,7 +875,7 @@
 12	ungefealice	ungefēalīce	ADV	adverb	Uninflected=Yes	10	conj	_	SpaceAfter=No
 13	;	;	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.013.002									
+# sent_id = ASCA.YEAR0755.013.002
 # text = and ðy ilcan geare Offa feng to rice, and heold xxxviiii wintra.									
 # text_en = and the same year Offa succeeded to the kingdom and held it 39 years;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
@@ -893,7 +893,7 @@
 13	wintra	winter	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	11	obl:tmod	_	SpaceAfter=No
 14	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.014.001									
+# sent_id = ASCA.YEAR0755.014.001
 # text = and his sunu Egfer heold xli daga and c daga.									
 # text_en = and his son Ecgfrith held it 14r days.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
@@ -908,7 +908,7 @@
 10	daga	dæg 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.014.002									
+# sent_id = ASCA.YEAR0755.014.002
 # text = Se Offa wæs Đincgferðing, Đincgferð Eanwulfing, Eanwulf Osmoding, Osmod Eawing, Eawa Pybing, Pybba Creoding, Creoda Cynewalding, Cynewald Cnebing, Cnebba Iceling, Icel Eomæring, Eomær Angelðowing, Angelðeow Offing, Offa Wærmunding, Wærmund Wyhtlæging, Wihtlæg Wodening.									
 # text_en = That Offa was Thingfrith's, offspring, Thingfrith Eanwulf's offspring, Eanwulf Osmod's offspring, Osmod Eawa's offspring, Eawa Pybba's offspring, Pybba Creoda's offspring, Creoda Cynewald's offspring, Cynewald Cnebba's offspring, Cnebba lcel's offspring, Icel Earner's offspring, Earner Angeltheow's offspring, Angeltheow Offa's offspring, Offa Wermund's offspring, Wermund Wihtlæg's offspring, Wihtlæg Woden's offspring.									
 1	Se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	2	det	_	_
@@ -960,7 +960,7 @@
 47	Wodening	Wōdening	ADJ	adjective	Case=Nom|Number=Sing	4	list	_	SpaceAfter=No
 48	.	.	PUNCT	punctuation	Uninflected=Yes	47	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.002.001									
+# sent_id = ASCA.YEAR0755.002.001
 # text = and hiene ða Cynewulf on Andred adræfde, and he ðær wunade oð ðæt hiene an swan ofstang æt Pryfetes flodan;									
 # text_en = And Cynewulf then drove him away into The Weald, and he stayed there until a herdsman stabbed him by the stream at Privett -									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
@@ -986,7 +986,7 @@
 21	flodan	flōd 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
 22	;	;	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.002.002									
+# sent_id = ASCA.YEAR0755.002.002
 # text = and he wræc ðone aldor mon Cumbran;									
 # text_en = and he avenged the ealdorman Cumbra.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -998,7 +998,7 @@
 7	Cumbran	Cumbra	PROPN	proper noun	Case=Acc|Number=Sing	6	flat	_	SpaceAfter=No
 8	;	;	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.003.001									
+# sent_id = ASCA.YEAR0755.003.001
 # text = and se Cynewulf oft miclum gefeohtum feaht uuið Bretwalum;									
 # text_en = And that Cynewulf often fought great battles against the Britons;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
@@ -1012,7 +1012,7 @@
 9	Bretwalum	Bryttas	ADJ	proper adjective	Case=Dat|Number=Plur	7	obl	_	SpaceAfter=No
 10	;	;	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.003.002									
+# sent_id = ASCA.YEAR0755.003.002
 # text = and ymb xxxi wintra ðæs ðe he rice hæfde, he wolde adræfan anne æðeling se was Cyneheard haten,									
 # text_en = and 31 years after he took the kingdom, he wanted to drive out a certain ætheling who was called Cyneheard;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	12	cc	_	_
@@ -1036,7 +1036,7 @@
 19	haten	hātan(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	15	acl:relcl	_	SpaceAfter=No
 20	,	,	PUNCT	punctuation	Uninflected=Yes	19	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.003.003									
+# sent_id = ASCA.YEAR0755.003.003
 # text = and se Cyneheard wæs ðæs Sigebryhtes broður;									
 # text_en = and that Cyneheard was that Sigeberht's brother.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
@@ -1048,7 +1048,7 @@
 7	broður	brōðor(ge) 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 8	;	;	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.004.001									
+# sent_id = ASCA.YEAR0755.004.001
 # text = and ða geascode he ðone cyning lytle werode on wifcyððe on Merantune, and hine ðær berad, and ðone bur utan beeode ær hine ða men onfunden ðe mid ðam kyninge wærun;									
 # text_en = And then he learned that the king, with a small troop, was in the company of a woman at Merton; and he rode after him there, and surrounded the chamber before the men who were with the king became aware of him.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -1086,7 +1086,7 @@
 33	wærun	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	32	cop	_	SpaceAfter=No
 34	;	;	PUNCT	punctuation	Uninflected=Yes	32	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.005.001									
+# sent_id = ASCA.YEAR0755.005.001
 # text = and ða ongeat se cyning ðæt, and he on ða duru eode, and ða unheanlice hine werede, oð he on ðone æðeling locude, and ða utræsde on hine, and hine miclum gewundode.									
 # text_en = And then the king perceived this, and he went to the door and then defended himself in no disgraceful way until he caught sight of the ætheling, and then, rushed out on him and greatly wounded him;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -1128,7 +1128,7 @@
 37	gewundode	wundian(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	SpaceAfter=No
 38	.	.	PUNCT	punctuation	Uninflected=Yes	37	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.005.002									
+# sent_id = ASCA.YEAR0755.005.002
 # text = and hie alle on ðone Cyning wærun feohtende oð ðæt hie hine ofslægenne hæfdon;									
 # text_en = and they were all fighting against the king until they had killed him.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	8	cc	_	_
@@ -1147,7 +1147,7 @@
 14	hæfdon	habban(ge)	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	13	aux	_	SpaceAfter=No
 15	;	;	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.006.001									
+# sent_id = ASCA.YEAR0755.006.001
 # text = and ða on ðæs wifes gebærum onfundon ðæs cyninges ðegnas ða unstilnesse, and ða ðider urnon swa hwelc swa ðonne gearo wearð and radost;									
 # text_en = And then from the woman's cries the king's thegns became aware of the disturbance, and whoever then was ready and quickest ran there;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
@@ -1177,7 +1177,7 @@
 25	radost	hraðe	ADJ	adjective	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	22	conj	_	SpaceAfter=No
 26	;	;	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.007.001									
+# sent_id = ASCA.YEAR0755.007.001
 # text = Ac hie simle feohtende wæran oð hie alle lægon butan anum Bryttiscum gisle,									
 # text_en = but they were fighting continuously until they all lay dead except for one British hostage,									
 1	Ac	ac (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
@@ -1195,7 +1195,7 @@
 13	gisle	gīsl 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 14	,	,	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.007.002									
+# sent_id = ASCA.YEAR0755.007.002
 # text = and se swiðe gewundad wæs.									
 # text_en = and he was very wounded.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
@@ -1205,7 +1205,7 @@
 5	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	SpaceAfter=No
 6	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.008.001									
+# sent_id = ASCA.YEAR0755.008.001
 # text = Đa on morgenne gehierdun ðæt ðæs cyninges ðegnas ðe him beæftan wærun ðæt se cyning ofslægen wæs, ða ridon hie ðider, and his aldormon Osric, and Wiferð his ðegn, and ða men ðe he beæftan him læfde ær, and ðone æðeling on ðære byrig metton ðær se cyning ofslægen læg, and ða gatu him to belocen hæfdon and ða ðær to eodon;									
 # text_en = When in the morning the king's thegns whom he had left behind heard that the king was killed, they rode there - and his ealdorman Osric and Wigfrith his thegn and the men whom he left behind earlier- and found the ætheling in the stronghold where the king lay killed, and they had locked the gates against them; and then they went there.									
 1	Đa	ðā ‘then’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -1278,7 +1278,7 @@
 68	eodon	gān(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	20	conj	_	SpaceAfter=No
 69	;	;	PUNCT	punctuation	Uninflected=Yes	68	punct	_	_
 									
-# sent_id = ASCA.YEAR0755.009.003									
+# sent_id = ASCA.YEAR0755.009.003
 # text = and ða budon hie hiera mægum ðæt hie gesunde from eodon;									
 # text_en = and then they offered their relatives that they might go away unharmed.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -1294,7 +1294,7 @@
 11	eodon	gān(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	3	advcl	_	SpaceAfter=No
 12	;	;	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = ASCA.YEAR0758.001.001									
+# sent_id = ASCA.YEAR0758.001.001
 # text = 758. Her Cuðbryht arcebiscep forðferde.									
 # text_en = 758. Here Archbishop Cuthbert passed away.									
 1	758	758	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
@@ -1305,7 +1305,7 @@
 6	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
-# sent_id = ASCA.YEAR0759.001.001									
+# sent_id = ASCA.YEAR0759.001.001
 # text = 759. Her Bregowine wæs to ercebiscep gehadod to Sancte Michaeles tide.									
 # text_en = 759. Here Bregowine was ordained as archbishop at Michaelmas.									
 1	759	759	NUM	numeral (cardinal)	Uninflected=Yes	8	dep	_	SpaceAfter=No
@@ -1322,7 +1322,7 @@
 12	tide	tīd	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	8	obl:lmod	_	SpaceAfter=No
 13	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = ASCA.YEAR0760.001.001									
+# sent_id = ASCA.YEAR0760.001.001
 # text = 760. Her Æðelbryht Cantwara cyning forðferde.									
 # text_en = 760. Here Æthelberht, king of the inhabitants of Kent, passed away;									
 1	760	760	NUM	numeral (cardinal)	Uninflected=Yes	7	dep	_	SpaceAfter=No
@@ -1334,7 +1334,7 @@
 7	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = ASCA.YEAR0761.001.001									
+# sent_id = ASCA.YEAR0761.001.001
 # text = 761. Her wæs se mycla winter.									
 # text_en = 761. Here was the big winter.									
 1	761	761	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
@@ -1346,7 +1346,7 @@
 7	winter	winter	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0763.001.001									
+# sent_id = ASCA.YEAR0763.001.001
 # text = 763. Her Ianbryht wæs gehadod to ærcebiscep on ðone feowertegan dæg ofer midne winter.									
 # text_en = 763. Here Jænberht was ordained as archbishop on the fortieth day after midwinter.									
 1	763	763	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
@@ -1366,7 +1366,7 @@
 15	winter	winter	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	6	obl:tmod	_	SpaceAfter=No
 16	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
-# sent_id = ASCA.YEAR0764.001.001									
+# sent_id = ASCA.YEAR0764.001.001
 # text = 764. Her Iaenbryht ærcebiscep onfeng pallium.									
 # text_en = 764. Here Archbishop Jænberht obtained the pallium.									
 1	764	764	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
@@ -1378,7 +1378,7 @@
 7	pallium	pallium	X	foreign word	Case=Acc|Foreign=Yes|Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
-# sent_id = ASCA.YEAR0768.001.001									
+# sent_id = ASCA.YEAR0768.001.001
 # text = 768. Her forðferde Eadberht Eating cing.									
 # text_en = 768. Here Eadberht, Eata's offspring, passed away.									
 1	768	768	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
@@ -1390,7 +1390,7 @@
 7	cing	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0772.001.001									
+# sent_id = ASCA.YEAR0772.001.001
 # text = 772. Her Milred biscep forðferde.									
 # text_en = 772. Here Bishop Milred passed away.									
 1	772	772	NUM	numeral (cardinal)	Uninflected=Yes	6	dep	_	SpaceAfter=No
@@ -1401,7 +1401,7 @@
 6	forðferde	forðfēran(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
-# sent_id = ASCA.YEAR0773.001.001									
+# sent_id = ASCA.YEAR0773.001.001
 # text = 773. Her oðiewde read Cristes mæl on hefenum æfter sunnan setlgonge;									
 # text_en = 773. Here a red sign of Christ appeared in the heavens after the sun's setting.									
 1	773	773	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
@@ -1418,7 +1418,7 @@
 12	setlgonge	setlgang	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	4	obl:tmod	_	SpaceAfter=No
 13	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0773.001.002									
+# sent_id = ASCA.YEAR0773.001.002
 # text = and ðy geare gefuhton Mierce and Cantware æt Ottanforda;									
 # text_en = And that year the Mercians and the inhabitants of Kent fought at Otford;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
@@ -1432,7 +1432,7 @@
 9	Ottanforda	Ottanford	PROPN	proper noun	Case=Dat|Number=Sing	4	obl:lmod	_	SpaceAfter=No
 10	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0773.001.003									
+# sent_id = ASCA.YEAR0773.001.003
 # text = and wunderleca nædran wæron gesewene on Suð Seaxna londe.									
 # text_en = and snakes were seen extraordinarily in the land of the South Saxons.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
@@ -1446,7 +1446,7 @@
 9	londe	land	NOUN	common noun	Case=Dat|Gender=Neut|Number=Sing	5	obl:lmod	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = ASCA.YEAR0777.001.001									
+# sent_id = ASCA.YEAR0777.001.001
 # text = 777. Her Cynewulf and Offa gefuhton ymb Benesingtun and Offa nam ðone tuun.									
 # text_en = 777. Here Cynewulf and Offa fought around Benson, and Offa took the settlement.									
 1	777	777	NUM	numeral (cardinal)	Uninflected=Yes	7	dep	_	SpaceAfter=No
@@ -1465,7 +1465,7 @@
 14	tuun	tūn	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
 15	.	.	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
-# sent_id = ASCA.YEAR0780.001.001									
+# sent_id = ASCA.YEAR0780.001.001
 # text = 780. Her Ald Seaxe and Francan gefuhtun.									
 # text_en = 780. Here the Old Saxons and the Franks fought.									
 1	780	780	NUM	numeral (cardinal)	Uninflected=Yes	8	dep	_	SpaceAfter=No
@@ -1478,7 +1478,7 @@
 8	gefuhtun	feohtan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = ASCA.YEAR0784.001.001									
+# sent_id = ASCA.YEAR0784.001.001
 # text = 784. Her Cyneheard ofslog Cynewulf cyning, and he ðær wearð ofslægen,									
 # text_en = 784. Here Cyneheard killed King Cynewulf, and he was killed there and 84 men with him;									
 1	784	784	NUM	numeral (cardinal)	Uninflected=Yes	5	dep	_	SpaceAfter=No
@@ -1502,7 +1502,7 @@
 19	him	he (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	orphan	_	SpaceAfter=No
 20	;	;	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
 									
-# sent_id = ASCA.YEAR0784.001.002									
+# sent_id = ASCA.YEAR0784.001.002
 # text = and ða onfeng Beorhtric Wesseaxna rices, and he ricsode xvi gear, and his lic lið æt Werham, and his ryhtfædrencyn gæð to Cerdice.									
 # text_en = and then Beorhtric succeeded to the kingdom of Wessex, and he ruled 16 years,and his body lies at Wareham; and his direct paternal ancestry goes back to Cerdic.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -1533,7 +1533,7 @@
 26	Cerdice	Cerdic	PROPN	proper noun	Case=Dat|Number=Sing	24	obl:tmod	_	SpaceAfter=No
 27	.	.	PUNCT	punctuation	Uninflected=Yes	24	punct	_	_
 									
-# sent_id = ASCA.YEAR0784.001.003									
+# sent_id = ASCA.YEAR0784.001.003
 # text = To ðysan timan rixode Ealhmund cing innon Cent.									
 # text_en = At this time King Ealhmund ruled in Kent.									
 1	To	tō ‘to, into’ (PREP)	ADP	adposition	Uninflected=Yes	3	case	_	_
@@ -1546,7 +1546,7 @@
 8	Cent	Cent	PROPN	proper noun	Case=Acc|Number=Sing	4	obl:lmod	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0785.001.001									
+# sent_id = ASCA.YEAR0785.001.001
 # text = 785. Her wæs geflitfullic senoð æt Cealchyðe, and Iaenbryht ærcebiscep forlet sumne dæl his biscepdomes, and from Offan kyninge Hygebryht wæs gecoren, and Ecgferð to cyninge gehalgod.									
 # text_en = 785. Here there was a contentious synod at Chelsea, and Archbishop Jænberht relinquished some part of his bishopric, and Hygeberht was chosen by King Offa and Ecgfrith consecrated as king.									
 1	785	785	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
@@ -1582,7 +1582,7 @@
 31	gehalgod	hālgian(ge)	VERB	main-verb	Tense=Past|Uninflected=Yes|VerbForm=Part	4	conj	_	SpaceAfter=No
 32	.	.	PUNCT	punctuation	Uninflected=Yes	31	punct	_	_
 									
-# sent_id = ASCA.YEAR0787.001.001									
+# sent_id = ASCA.YEAR0787.001.001
 # text = 787. Her nom Beorhtric cyning Offan dohtor Eadburge;									
 # text_en = 787. Here Beorhtnc took King Offa's daughter Eadburh.									
 1	787	787	NUM	numeral (cardinal)	Uninflected=Yes	4	dep	_	SpaceAfter=No
@@ -1596,7 +1596,7 @@
 9	Eadburge	Eadburge	PROPN	proper noun	Case=Acc|Number=Sing	8	flat	_	SpaceAfter=No
 10	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0787.001.002									
+# sent_id = ASCA.YEAR0787.001.002
 # text = and on his dagum cuomon ærest iii scipu,									
 # text_en = And in his days there came for the first time 3 ships;									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
@@ -1609,7 +1609,7 @@
 8	scipu	scip	NOUN	common noun	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	SpaceAfter=No
 9	,	,	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = ASCA.YEAR0787.001.004									
+# sent_id = ASCA.YEAR0787.001.004
 # text = and hiene mon ofslog; Đæt wæron ða ærestan scipu Deniscra monna ðe Angelcynnes lond gesohton.									
 # text_en = and they killed him.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
@@ -1618,7 +1618,7 @@
 4	ofslog	ofslēan	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	;	;	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
-# sent_id = ASCA.YEAR0787.001.005									
+# sent_id = ASCA.YEAR0787.001.005
 # text = Đæt wæron ða ærestan scipu Deniscra monna ðe Angelcynnes lond gesohton.									
 # text_en = Those were the first ships of the Danish men which sought out the land of the English race.									
 1	Đæt	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing|PronType=DemArt	5	nsubj	_	_
@@ -1634,7 +1634,7 @@
 11	gesohton	sēcan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = LAWSABT.00.001.001.									
+# sent_id = LAWSABT.00.001.001.
 # text = Ðis syndon ða domas, ðe Æðelbirht cyning asette on Agustinus dæge.									
 # text_en = These are the decrees which King Æthelberht established in the lifetime of Augustine.									
 1	Ðis	ðes-ðēos-ðis (DEM)	DET	demonstrative	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
@@ -1651,7 +1651,7 @@
 12	dæge	dæg 	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	9	obl:tmod	_	SpaceAfter=No
 13	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.001.001.									
+# sent_id = LAWSABT.001.001.001.
 # text = Godes feoh and ciricean XIIgylde. Biscopes feoh XIgylde. Preostes feoh IXgylde. Diacones feoh VIgylde. Cleroces feoh IIIgylde. Ciricfrið IIgylde. Mæthlfrið IIgylde.									
 # text_en = Theft of God's property and the Church's shall be compensated twelve fold; a bishop's property eleven fold; a priest's property nine fold; a deacon's property six fold; a clerk's property three fold. Breach of the peace shall be compensated doubly when it affects a church or a meeting place.									
 1	Godes	God	PROPN	proper noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -1683,7 +1683,7 @@
 27	IIgylde	_	X	foreign word	Foreign=Yes	2	list	_	SpaceAfter=No
 28	.	.	PUNCT	punctuation	Uninflected=Yes	27	punct	_	_
 									
-# sent_id = LAWSABT.001.002.001.									
+# sent_id = LAWSABT.001.002.001.
 # text = Gif cyning his leode to him gehateð, and heom mon ðær yfel gedo, IIbote and cyninge L scillinga.									
 # text_en = If the king calls his lieges to him, and anyone molests them there, he shall pay double compensation, and 50 shillings to the king.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
@@ -1708,7 +1708,7 @@
 20	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	16	conj	_	SpaceAfter=No
 21	.	.	PUNCT	punctuation	Uninflected=Yes	20	punct	_	_
 									
-# sent_id = LAWSABT.001.003.001.									
+# sent_id = LAWSABT.001.003.001.
 # text = Gif cyning æt mannes ham drincæð, and ðær man lyswæs hwæt gedo, twibote gebete.									
 # text_en = If the king is feasting at anyone's house, and any sort of offence is committed there, twofold compensation shall be paid.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
@@ -1729,7 +1729,7 @@
 16	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 17	.	.	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
-# sent_id = LAWSABT.001.004.001.									
+# sent_id = LAWSABT.001.004.001.
 # text = Gif frigman cyninge stele, IXgylde forgylde.									
 # text_en = If a freeman robs the king, he shall pay back a nine fold amount.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -1741,7 +1741,7 @@
 7	forgylde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = LAWSABT.001.005.001.									
+# sent_id = LAWSABT.001.005.001.
 # text = Gif in cyninges tune man mannan ofslea, L scillinga gebete.									
 # text_en = If one man slays another on the king's premises, he shall pay 50 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
@@ -1757,7 +1757,7 @@
 11	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = LAWSABT.001.006.001.									
+# sent_id = LAWSABT.001.006.001.
 # text = Gif man frigne mannan ofsleahð, cyninge L scillinga to drihtinbeage.									
 # text_en = If a man slays a free man, he shall pay 50 shillings to the king for infraction of his seignorial rights.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -1773,7 +1773,7 @@
 11	drihtinbeage	dryhtenbēag	NOUN	common noun	Case=Dat|Gender=Masc|Number=Sing	9	orphan	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.007.001.									
+# sent_id = LAWSABT.001.007.001.
 # text = Gif cyninges ambihtsmið oððe laadrincmannan ofslehð, meduman leodgelde forgelde.									
 # text_en = If he slays a smith in the king's service, or a Messenger belonging to the king, he shall pay an ordinary wergeld.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
@@ -1788,7 +1788,7 @@
 10	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = LAWSABT.001.008.001.									
+# sent_id = LAWSABT.001.008.001.
 # text = Cyninges mundbyrd: L scillinga.									
 # text_en = The king's mundbyrd shall be 50 shillings.									
 1	Cyninges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -1798,7 +1798,7 @@
 5	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = LAWSABT.001.009.001.									
+# sent_id = LAWSABT.001.009.001.
 # text = Gif frigman freum stelð, III gebete, and cyning age ðæt wite and ealle ða æhtan.									
 # text_en = If a freeman robs a freeman, he shall pay a threefold compensation, and the king shall take the fine, or all the man's goods.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -1820,7 +1820,7 @@
 17	æhtan	ǣht	NOUN	common noun	Case=Acc|Gender=Fem|Number=Plur	13	conj	_	SpaceAfter=No
 18	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = LAWSABT.001.010.001.									
+# sent_id = LAWSABT.001.010.001.
 # text = Gif man wið cyninges mægdenman geligeð, L scillinga gebete.									
 # text_en = If a man lies with a maiden belonging to the king, he shall pay 50 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
@@ -1835,7 +1835,7 @@
 10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = LAWSABT.001.011.001.									
+# sent_id = LAWSABT.001.011.001.
 # text = Gif hio grindende ðeowa sio, XXV scillinga gebete.									
 # text_en = If she is a grinding slave, he shall pay 25 shillings compensation. Third class: 12 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -1849,7 +1849,7 @@
 9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.012.001.									
+# sent_id = LAWSABT.001.012.001.
 # text = Cyninges fedesl XX scillinga forgelde.									
 # text_en = 20 shillings shall be paid for killing a fedesl belonging to the king.									
 1	Cyninges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -1859,7 +1859,7 @@
 5	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = LAWSABT.001.013.001.									
+# sent_id = LAWSABT.001.013.001.
 # text = Gif on eorles tune man mannan ofslæhð, XII scillinga gebete.									
 # text_en = If one man slays another on the premises of a nobleman, he shall pay 12 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
@@ -1875,7 +1875,7 @@
 11	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = LAWSABT.001.014.001.									
+# sent_id = LAWSABT.001.014.001.
 # text = Gif wið eorles birele man geligeð, XII scillinga gebete.									
 # text_en = If a man lies with a nobleman's serving maid, he shall pay 12 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
@@ -1890,7 +1890,7 @@
 10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = LAWSABT.001.015.001.									
+# sent_id = LAWSABT.001.015.001.
 # text = Ceorles mundbyrd: VI scillingas.									
 # text_en = A commoner's mundbyrd shall be 6 shillings.									
 1	Ceorles	ceorl 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -1900,7 +1900,7 @@
 5	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = LAWSABT.001.016.001.									
+# sent_id = LAWSABT.001.016.001.
 # text = Gif wið ceorles birelan man geligeð, VI scillingum gebete; aet ðære oðere ðeowan L scætta; aet ðare ðriddan XXX scætta.									
 # text_en = If a man lies with a commoner's serving maid, he shall pay 6 shillings compensation; with a slave of the second class, 50 sceattas; if with one of the third class, 30 sceattas.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
@@ -1928,7 +1928,7 @@
 23	scætta	sceatt	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	10	list	_	SpaceAfter=No
 24	.	.	PUNCT	punctuation	Uninflected=Yes	23	punct	_	_
 									
-# sent_id = LAWSABT.001.017.001.									
+# sent_id = LAWSABT.001.017.001.
 # text = Gif man in mannes tun ærest geirneð, VI scillingum gebete;									
 # text_en = If a man is the first to make entry into another man's premises, he shall pay 6 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	case	_	_
@@ -1944,7 +1944,7 @@
 11	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	;	;	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = LAWSABT.001.017.002.									
+# sent_id = LAWSABT.001.017.002.
 # text = se ðe æfter irneð: III scillingas, siððan gehwylc scilling									
 # text_en = He who comes next shall pay 3 shillings compensation; and afterwards each one hall pay a shilling.									
 1	se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	7	orphan	_	_
@@ -1959,7 +1959,7 @@
 10	gehwylc	gehwilc (PRON)	PRON	pronoun	Case=Nom|Number=Sing|PronType=Ind	11	orphan	_	_
 11	scilling	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	7	parataxis	_	_
 									
-# sent_id = LAWSABT.001.019.001.									
+# sent_id = LAWSABT.001.019.001.
 # text = Gif wegreaf sy gedon, VI scillingum gebete.									
 # text_en = If highway robbery is perpetrated with the aid of those weapons, the lender shall pay 6 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -1972,7 +1972,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.020.001.									
+# sent_id = LAWSABT.001.020.001.
 # text = Gif man ðone man ofslæhð, XX scillingum gebete.									
 # text_en = If the man is slain, the lender of the weapons shall pay 20 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -1986,7 +1986,7 @@
 9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.021.001.									
+# sent_id = LAWSABT.001.021.001.
 # text = Gif man mannan ofslæhð, medume leodgeld C scillinga gebete.									
 # text_en = If one man slays another, the ordinary wergeld to be paid as compensation shall be 100 shillings.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2001,7 +2001,7 @@
 10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = LAWSABT.001.022.001.									
+# sent_id = LAWSABT.001.022.001.
 # text = Gif man mannan ofslæhð, æt openum græfe XX scillinga forgelde and in XL nihta ealne leod forgelde.									
 # text_en = If one man slays another, he shall pay 20 shillings before the grave is closed, and the whole of the wergeld within 40 days.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2024,7 +2024,7 @@
 18	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	11	conj	_	SpaceAfter=No
 19	.	.	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
 									
-# sent_id = LAWSABT.001.023.001.									
+# sent_id = LAWSABT.001.023.001.
 # text = Gif bana of lande gewiteð, ða magas healfne leod forgelden.									
 # text_en = If a homicide departs from the country, his relatives shall pay half the wergeld.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -2040,7 +2040,7 @@
 11	forgelden	forgieldan	VERB	main-verb	Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = LAWSABT.001.024.001.									
+# sent_id = LAWSABT.001.024.001.
 # text = Gif man frigne man gebindeð, XX scillinga gebete.									
 # text_en = If a man lays bonds on a freeman, he shall pay 20 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -2054,7 +2054,7 @@
 9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.025.001.									
+# sent_id = LAWSABT.001.025.001.
 # text = Gif man ceorlæs hlafætan ofslæhð, VI scillingum gebete.									
 # text_en = If a man slays the dependant of a commoner, he shall pay the commoner 6 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -2068,7 +2068,7 @@
 9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.026.001.									
+# sent_id = LAWSABT.001.026.001.
 # text = Gif læt ofslæhð, ðone selestan LXXX scillingum forgelde;									
 # text_en = If he slays a læt of the best class, he shall pay 80 shillings;									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2082,7 +2082,7 @@
 9	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	;	;	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.026.002.									
+# sent_id = LAWSABT.001.026.002.
 # text = gif ðane oðerne ofslæhð, LX scillingum forgelde;									
 # text_en = if he slays one of the second class, he shall pay 60 shillings;									
 1	gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2095,7 +2095,7 @@
 8	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	;	;	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.026.003.									
+# sent_id = LAWSABT.001.026.003.
 # text = ðane ðriddan XL scilling forgelden.									
 # text_en = the third class, he shall pay 40 shillings.									
 1	ðane	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Acc|Gender=Masc|Number=Sing|PronType=DemArt	2	det	_	_
@@ -2105,7 +2105,7 @@
 5	forgelden	forgieldan	VERB	main-verb	Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = LAWSABT.001.027.001.									
+# sent_id = LAWSABT.001.027.001.
 # text = Gif friman edorbrecðe gedeð, VI scillingum gebete.									
 # text_en = If a freeman breaks the fence round another man's enclosure, he shall pay 6 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2118,7 +2118,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.028.001.									
+# sent_id = LAWSABT.001.028.001.
 # text = Gif man inne feoh genimeð, se man IIIgelde gebete.									
 # text_en = If any property be seized therein, the man shall pay a three fold compensation									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -2133,7 +2133,7 @@
 10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = LAWSABT.001.029.001.									
+# sent_id = LAWSABT.001.029.001.
 # text = Gif friman edor gegangeð, IIII scillingum gebete.									
 # text_en = If a freeman makes his way into a fenced enclosure, he shall pay 4 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2146,7 +2146,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.030.001.									
+# sent_id = LAWSABT.001.030.001.
 # text = Gif man mannan ofslea, agene scætte and unfacne feo gehwilce gelde.									
 # text_en = If one man slays another, he shall pay the wergeld with his own money and property (i.e. livestock or other goods) which whatever its nature must be free from blemish.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2163,7 +2163,7 @@
 12	gelde	gyldan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
-# sent_id = LAWSABT.001.031.001.									
+# sent_id = LAWSABT.001.031.001.
 # text = Gif friman wið fries mannes wif geligeð, his wergelde abicge and oðer wif his agenum scætte begete and ðæm oðrum æt ðam gebrenge.									
 # text_en = If one freeman lies with the wife of another freeman, he shall pay the husband his or her wergeld, and procure a second wife with his own money, and bring her to the other man's home.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
@@ -2192,7 +2192,7 @@
 24	gebrenge	bringan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	11	conj	_	SpaceAfter=No
 25	.	.	PUNCT	punctuation	Uninflected=Yes	24	punct	_	_
 									
-# sent_id = LAWSABT.001.032.001.									
+# sent_id = LAWSABT.001.032.001.
 # text = Gif man rihthamscyld ðurhstinð, mid weorðe forgelde.									
 # text_en = If anyone damages the enclosure of a dwelling, he shall pay according to its value.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2205,7 +2205,7 @@
 8	forgelde	forgieldan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.033.001.									
+# sent_id = LAWSABT.001.033.001.
 # text = Gif feaxfang geweorð, L sceatta to bote.									
 # text_en = For seizing a man by the hair, 50 sceattas shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2218,7 +2218,7 @@
 8	bote	bōt 	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	6	orphan	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
-# sent_id = LAWSABT.001.034.001.									
+# sent_id = LAWSABT.001.034.001.
 # text = Gif banes blice weorðeð, III scillingum gebete									
 # text_en = If a bone is laid bare, 3 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2231,7 +2231,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.035.001.									
+# sent_id = LAWSABT.001.035.001.
 # text = Gif banes bite weorð, IIII scillingum gebete.									
 # text_en = If a bone is damaged, 4 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2244,7 +2244,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.037.001.									
+# sent_id = LAWSABT.001.037.001.
 # text = Gif butu sien, XX scillingum gebete.									
 # text_en = If both are broken, 20 shillings shall be paid as compensation									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2256,7 +2256,7 @@
 7	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = LAWSABT.001.038.001.									
+# sent_id = LAWSABT.001.038.001.
 # text = Gif eaxle gelæmed weorðeð, XXX scillinga gebete.									
 # text_en = If a shoulder is disabled, 30 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2269,7 +2269,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.040.001.									
+# sent_id = LAWSABT.001.040.001.
 # text = Gif eare of weorð aslagen, XII scillinga gebete.									
 # text_en = If an ear is struck off, 12 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -2283,7 +2283,7 @@
 9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.041.001.									
+# sent_id = LAWSABT.001.041.001.
 # text = Gif eare ðirel weorðeð, III scillinga gebete.									
 # text_en = If an ear is pierced, 3 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2296,7 +2296,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.042.001.									
+# sent_id = LAWSABT.001.042.001.
 # text = Gif eare sceard weorðeð, VI scillinga gebete.									
 # text_en = If an ear is lacerated,6 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2309,7 +2309,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.043.001.									
+# sent_id = LAWSABT.001.043.001.
 # text = Gif eage of weorð, L scillinga gebete.									
 # text_en = If an eye is knocked out, 50 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2322,7 +2322,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.044.001.									
+# sent_id = LAWSABT.001.044.001.
 # text = Gif muð oððe eage woh weorðeð, XII scillinga gebete.									
 # text_en = If the mouth or an eye is disfigured, 12 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	case	_	_
@@ -2337,7 +2337,7 @@
 10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = LAWSABT.001.045.001.									
+# sent_id = LAWSABT.001.045.001.
 # text = Gif nasu ðyrel weorð, VIIII scillingum gebete.									
 # text_en = If the nose is pierced, 9 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2350,7 +2350,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.046.001.									
+# sent_id = LAWSABT.001.046.001.
 # text = Gif hit sio an hleore, III scillinga gebete.									
 # text_en = If it is one cheek 1, 3 shillings shall he paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -2364,7 +2364,7 @@
 9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.047.001.									
+# sent_id = LAWSABT.001.047.001.
 # text = Gif butu ðyrele sien, VI scillinga gebete.									
 # text_en = If both are pierced, 6 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2377,7 +2377,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.048.001.									
+# sent_id = LAWSABT.001.048.001.
 # text = Gif nasu ælcor sceard weorð, gehwylc VI scillinga gebete.									
 # text_en = If the nose is lacerated otherwise than by piercing, 6 shillings shall be paid as compensation, for each laceration.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2392,7 +2392,7 @@
 10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = LAWSABT.001.049.001.									
+# sent_id = LAWSABT.001.049.001.
 # text = Gif ðirel weorð, VI scillinga gebete.									
 # text_en = If it is pierced, 6 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	2	mark	_	_
@@ -2404,7 +2404,7 @@
 7	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = LAWSABT.001.051.001.									
+# sent_id = LAWSABT.001.051.001.
 # text = Æt ðam feower toðum fyrestum, æt gehwylcum VI scillingas;									
 # text_en = For each of the 4 front teeth, 6 shillings;									
 1	Æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
@@ -2419,7 +2419,7 @@
 10	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 11	;	;	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = LAWSABT.001.051.002.									
+# sent_id = LAWSABT.001.051.002.
 # text = se toð se ðanne bistandeð: IIII scillingas;									
 # text_en = for each of the teeth which stand next to these, 4 shillings;									
 1	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	2	det	_	_
@@ -2432,7 +2432,7 @@
 8	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.051.003.									
+# sent_id = LAWSABT.001.051.003.
 # text = se ðe ðonne bi ðam standeð: III scillingas;									
 # text_en = then for each tooth which stands next to them, 3 shillings;									
 1	se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	9	nsubj	_	_
@@ -2446,7 +2446,7 @@
 9	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 10	;	;	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.051.004.									
+# sent_id = LAWSABT.001.051.004.
 # text = ond ðonne siððan gehwylc: scilling.									
 # text_en = and beyond that 1 shilling for each tooth.									
 1	ond	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
@@ -2457,7 +2457,7 @@
 6	scilling	scilling	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
-# sent_id = LAWSABT.001.052.001.									
+# sent_id = LAWSABT.001.052.001.
 # text = Gif spræc awyrd weorð, XII scillingas.									
 # text_en = If the power of speech is injured, 12 shillings.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2469,7 +2469,7 @@
 7	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = LAWSABT.001.52(1).001.									
+# sent_id = LAWSABT.001.52(1).001.
 # text = Gif widobane gebroced weorðeð, VI scillinga gebete.									
 # text_en = If a collar bone is injured, 6 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2482,7 +2482,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.053.001.									
+# sent_id = LAWSABT.001.053.001.
 # text = Se ðe earm ðurhstinð, VI scillingum gebete.									
 # text_en = He who pierces an arm shall pay 6 shillings compensation.									
 1	Se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	8	nsubj	_	_
@@ -2495,7 +2495,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.53(1).001.									
+# sent_id = LAWSABT.001.53(1).001.
 # text = Gif earm forbrocen weorð, VI scillinga gebete.									
 # text_en = If an arm is broken, 6 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2508,7 +2508,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.054.001.									
+# sent_id = LAWSABT.001.054.001.
 # text = Gif ðuman ofaslæhð, XX scillingas.									
 # text_en = If a thumb is struck off, 20 shillings.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
@@ -2519,7 +2519,7 @@
 6	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
-# sent_id = LAWSABT.001.54(1).001.									
+# sent_id = LAWSABT.001.54(1).001.
 # text = Gif ðuman nægl of weorðeð, III scillinga gebete									
 # text_en = If a thumb nail is knocked off, 3 shillings shall he paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -2533,7 +2533,7 @@
 9	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
-# sent_id = LAWSABT.001.54(2).001.									
+# sent_id = LAWSABT.001.54(2).001.
 # text = Gif man scytefinger ofslæhð, VIIII scillinga gebete.									
 # text_en = If a man strikes off a forefinger, he shall pay 9 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2546,7 +2546,7 @@
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
-# sent_id = LAWSABT.001.54(3).001.									
+# sent_id = LAWSABT.001.54(3).001.
 # text = Gif man middelfinger ofaslæhð IIII scillinga gebete.									
 # text_en = If a man strikes off a middle finger, he shall pay 4 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2558,7 +2558,7 @@
 7	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
-# sent_id = LAWSABT.001.54(4).001.									
+# sent_id = LAWSABT.001.54(4).001.
 # text = Gif man goldfinger ofaslæhð, VI scillingum gebete									
 # text_en = If a man strikes off a 'ring finger,' he shall pay 6 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2570,7 +2570,7 @@
 7	scillingum	scilling	NOUN	common noun	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
 8	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 									
-# sent_id = LAWSABT.001.54(5).001.									
+# sent_id = LAWSABT.001.54(5).001.
 # text = Gif man ðone lytlan finger ofslæhð, XI scillinga gebete.									
 # text_en = If a man strikes off a little finger, he shall pay 11 shillings compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
@@ -2585,7 +2585,7 @@
 10	gebete	bētan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
-# sent_id = LAWSABT.001.055.001.									
+# sent_id = LAWSABT.001.055.001.
 # text = Æt ðam neglum gehwylcum scilling.									
 # text_en = For the nails of each of the above-mentioned fingers, 1 shilling.									
 1	Æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	3	case	_	_
@@ -2595,7 +2595,7 @@
 5	scilling	scilling	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = LAWSABT.001.056.001.									
+# sent_id = LAWSABT.001.056.001.
 # text = Æt ðam lærestan wlitewamme III scillingas ond æt ðam maran VI scillinga.									
 # text_en = For the slightest disfigurement, 3 shillings, and for a greater 6 shillings.									
 1	Æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
@@ -2612,7 +2612,7 @@
 12	scillinga	scilling	NOUN	common noun	Case=Gen|Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
 13	.	.	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
-# sent_id = LAWSABT.001.057.001.									
+# sent_id = LAWSABT.001.057.001.
 # text = Gif man oðerne mid fyste in naso slæhð, III scillingas.									
 # text_en = If one man strikes another on the nose with his fist, 3 shillings.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	8	mark	_	_
@@ -2628,7 +2628,7 @@
 11	scillingas	scilling	NOUN	common noun	Case=Acc|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
-# sent_id = LAWSABT.001.058.001.									
+# sent_id = LAWSABT.001.058.001.
 # text = Gif dynt sie, scilling.									
 # text_en = If it leaves a bruise, 1 shilling.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	2	mark	_	_
@@ -2638,7 +2638,7 @@
 5	scilling	scilling	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
-# sent_id = LAWSABT.001.58(1).001.									
+# sent_id = LAWSABT.001.58(1).001.
 # text = Gif he heahre handa dyntes onfehð, scillingum forgelde.									
 # text_en = If the blow is received with uplifted hand, a shilling shall be paid.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
