@@ -1,5 +1,5 @@
 # sent_id = LAWSABT.001.059.001.
-# text = Gif dynt sweart sie buton wædum, XXX scætta gebete.									
+# text = Gif dynt sweart sie buton wædum, XXX scætta gebete.
 # text_en = If it leaves a black bruise outside the clothes, 30 sceattas shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
 2	dynt	dynt	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -14,7 +14,7 @@
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
 # sent_id = LAWSABT.001.060.001.
-# text = Gif hit sie binnan wædum, gehwylc XX scætta gebete.									
+# text = Gif hit sie binnan wædum, gehwylc XX scætta gebete.
 # text_en = If it is under the clothes, 20 sceattas shall be paid as compensation for each.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	hit	hit (PRON)	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -29,7 +29,7 @@
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
 # sent_id = LAWSABT.001.061.001.
-# text = Gif hrifwund weorðeð, XII scillinga gebete.									
+# text = Gif hrifwund weorðeð, XII scillinga gebete.
 # text_en = If the belly is wounded, 12 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	2	mark	_	_
 2	hrifwund	hrifwund	VERB	main-verb	Case=Nom|Number=Sing	7	advcl	_	_
@@ -41,7 +41,7 @@
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
 # sent_id = LAWSABT.001.61(1).001.
-# text = Gif he ðurhðirel weorðeð, XX scillinga gebete.									
+# text = Gif he ðurhðirel weorðeð, XX scillinga gebete.
 # text_en = If it be pierced through, 20 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_
@@ -54,7 +54,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSABT.001.062.001.
-# text = Gif man gegemed weorðeð, XXX scillinga gebete.									
+# text = Gif man gegemed weorðeð, XXX scillinga gebete.
 # text_en = If a man receives medical treatment, 30 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -67,7 +67,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSABT.001.063.001.
-# text = Gif man cearwund sie, XXX scillinga gebete.									
+# text = Gif man cearwund sie, XXX scillinga gebete.
 # text_en = If a man is severely wounded, 30 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -80,7 +80,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSABT.001.064.001.
-# text = Gif man gekyndelice lim awyrdeð, ðrym leudgeldum hine man forgelde.									
+# text = Gif man gekyndelice lim awyrdeð, ðrym leudgeldum hine man forgelde.
 # text_en = If anyone destroys the generative organ, he shall pay for it with three times the wergeld.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -96,7 +96,7 @@
 12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
 # sent_id = LAWSABT.001.64(1).001.
-# text = Gif he ðurhstinð, VI scillinga gebete.									
+# text = Gif he ðurhstinð, VI scillinga gebete.
 # text_en = If he pierces it right through, he shall pay 6 shillings compensation									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -108,7 +108,7 @@
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
 # sent_id = LAWSABT.001.64(2).001.
-# text = Gif man inbestinð, VI scillinga gebete.									
+# text = Gif man inbestinð, VI scillinga gebete.
 # text_en = If he pierces it partially, he shall pay 6 shillings compensation									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -120,7 +120,7 @@
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
 # sent_id = LAWSABT.001.065.001.
-# text = Gif ðeoh gebrocen weorðeð, XII scillingum gebete.									
+# text = Gif ðeoh gebrocen weorðeð, XII scillingum gebete.
 # text_en = If a thigh is broken, 12 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	ðeoh	ðēoh	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
@@ -133,7 +133,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSABT.001.65(1).001.
-# text = Gif he healt weorð, ðær motan freond seman.									
+# text = Gif he healt weorð, ðær motan freond seman.
 # text_en = If he becomes lame, the settlement of the matter may be left to friends.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -147,7 +147,7 @@
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSABT.001.066.001.
-# text = Gif rib forbrocen weorð, III scillinga gebete.									
+# text = Gif rib forbrocen weorð, III scillinga gebete.
 # text_en = If a rib is broken, 3 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	rib	rib	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
@@ -160,7 +160,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSABT.001.067.001.
-# text = Gif man ðeoh ðurhstingð, stice gehwilce VI scillingas									
+# text = Gif man ðeoh ðurhstingð, stice gehwilce VI scillingas
 # text_en = If a thigh is pierced right through, 6 shillings compensation shall be paid for each stab.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -174,7 +174,7 @@
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSABT.001.67(1).001.
-# text = Gyfe ofer ynce scilling, æt twam yncum twegen, ofer ðry III scillingas.									
+# text = Gyfe ofer ynce scilling, æt twam yncum twegen, ofer ðry III scillingas.
 # text_en = For a stab over an inch, 1 shilling; for a stab between 2 and 3 inches, 2 shillings; for a stab over 3 inches, 3 shillings									
 1	Gyfe	giefan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	ofer	ofer ‘over’ (PREP)	ADP	adposition	Uninflected=Yes	3	case	_	_
@@ -193,7 +193,7 @@
 15	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
 									
 # sent_id = LAWSABT.001.068.001.
-# text = Gif wælt wund weorðeð, III scillingas gebete.									
+# text = Gif wælt wund weorðeð, III scillingas gebete.
 # text_en = If a sinew is wounded, 3 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	wælt	wælt	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
@@ -206,7 +206,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSABT.001.069.001.
-# text = Gif fot of weorðeð, L scillingum forgelden.									
+# text = Gif fot of weorðeð, L scillingum forgelden.
 # text_en = If a foot is struck off, 50 shillings shall be paid for it.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	fot	fōt 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -219,7 +219,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSABT.001.070.001.
-# text = Gif seo micle ta of weorðeð, X scillinga forgelden.									
+# text = Gif seo micle ta of weorðeð, X scillinga forgelden.
 # text_en = If the big toe is struck off, 10 shillings shall be paid for it.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
 2	seo	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Fem|Number=Sing|PronType=DemArt	4	det	_	_
@@ -234,7 +234,7 @@
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
 # sent_id = LAWSABT.001.071.001.
-# text = Æt ðam oðrum taum gehwilcum healf gelde, ealswa æt ðam fingrum ys cwiden.									
+# text = Æt ðam oðrum taum gehwilcum healf gelde, ealswa æt ðam fingrum ys cwiden.
 # text_en = For each of the other toes, a sum equal to half that laid down for the corresponding fingers shall be paid									
 1	Æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
 2	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Fem|Number=Plur|PronType=DemArt	4	det	_	_
@@ -253,7 +253,7 @@
 15	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
 									
 # sent_id = LAWSABT.001.72(1).001.
-# text = Æt ðam oðrum gehwilcum X scættas gebete									
+# text = Æt ðam oðrum gehwilcum X scættas gebete
 # text_en = 10 sceattas shall be paid as compensation for the loss of each of the other toenails									
 1	Æt	æt ‘at, near’ (PREP)	ADP	adposition	Uninflected=Yes	3	case	_	_
 2	ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Masc|Number=Plur|PronType=DemArt	3	det	_	_
@@ -265,7 +265,7 @@
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
 # sent_id = LAWSABT.001.073.001.
-# text = Gif friwif locbore leswæs hwæt gedeð, XXX scillinga gebete.									
+# text = Gif friwif locbore leswæs hwæt gedeð, XXX scillinga gebete.
 # text_en = If a freeborn woman, with long hair, misconducts herself, she' shall pay 30 shillings as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
 2	friwif	frēowīf 	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
@@ -280,7 +280,7 @@
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
 # sent_id = LAWSABT.001.074.001.
-# text = Mægðbot sy swa friges mannes.									
+# text = Mægðbot sy swa friges mannes.
 # text_en = Compensation for injury to be paid to an unmarried woman, shall be on the same scale as that paid to a freeman.									
 1	Mægðbot	mægðbōt	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 2	sy	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -290,7 +290,7 @@
 6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
 # sent_id = LAWSABT.001.075.001.
-# text = Mund ðare betstan widuwan eorlcundre L scillinga gebete.									
+# text = Mund ðare betstan widuwan eorlcundre L scillinga gebete.
 # text_en = The compensation to be paid for violation of the mund of a widow of the best class, of the nobility, shall be 50 shillings.									
 1	Mund	mund ‘money paid by bridegroom to bride’s father (dowry)’	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
 2	ðare	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Gender=Fem|Number=Sing|PronType=DemArt	4	det	_	_
@@ -303,7 +303,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSABT.001.75(1).001.
-# text = Ðare oðre XX scillingas, ðare ðriddan XII scillingas, ðare feorðan VI scillingas.									
+# text = Ðare oðre XX scillingas, ðare ðriddan XII scillingas, ðare feorðan VI scillingas.
 # text_en = For violation of the mund of a widow of the second class, 20 shillings; of the third class, 12 shillings; of the fourth class, 6 shillings.									
 1	Ðare	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Gender=Fem|Number=Sing|PronType=DemArt	2	det	_	_
 2	oðre	ōðer	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	4	orphan	_	_
@@ -322,7 +322,7 @@
 15	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
 									
 # sent_id = LAWSABT.001.076.001.
-# text = Gif man widuwan unagne genimeð, II gelde seo mund sy.									
+# text = Gif man widuwan unagne genimeð, II gelde seo mund sy.
 # text_en = If a man takes a widow who does not belong to him, double the value of the mund shall be paid.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -338,7 +338,7 @@
 12	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSABT.001.077.001.
-# text = Gif mon mægð gebigeð, ceapi geceapod sy, gif hit unfacne is.									
+# text = Gif mon mægð gebigeð, ceapi geceapod sy, gif hit unfacne is.
 # text_en = If a man buys a maiden, the bargain shall stand, if there is no dishonesty.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	mon	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -356,7 +356,7 @@
 14	.	.	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
 # sent_id = LAWSABT.001.77(1).001.
-# text = Gif hit ðonne facne is, ef ðær æt ham gebrenge, and him man his scæt agefe.									
+# text = Gif hit ðonne facne is, ef ðær æt ham gebrenge, and him man his scæt agefe.
 # text_en = If however there is dishonesty, she shall be taken back to her home, and the money shall be returned to him.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	hit	hit (PRON)	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -379,7 +379,7 @@
 19	.	.	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
 									
 # sent_id = LAWSABT.001.078.001.
-# text = Gif hio cwic bearn gebyreð, healfne scæt age, gif ceorl ær swylteð.									
+# text = Gif hio cwic bearn gebyreð, healfne scæt age, gif ceorl ær swylteð.
 # text_en = If she bears a living child, she shall have half the goods left by her husband, if he dies first.									
 1	Gif	gif (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	mark	_	_
 2	hio	hēo (PRON)	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -398,7 +398,7 @@
 15	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
 									
 # sent_id = LAWSABT.001.079.001.
-# text = Gif mid bearnum bugan wille, healfne scæt age.									
+# text = Gif mid bearnum bugan wille, healfne scæt age.
 # text_en = If she wishes to depart with her children, she shall have half the goods.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	mid	mid ‘with’ (PREP)	ADP	adposition	Uninflected=Yes	3	case	_	_
@@ -412,7 +412,7 @@
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSABT.001.080.001.
-# text = Gif ceorl agan wile: swa an bearn.									
+# text = Gif ceorl agan wile: swa an bearn.
 # text_en = If the husband wishes to keep the children, she shall have a share of the goods equal to a child's.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	ceorl	ceorl 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -425,7 +425,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSABT.001.081.001.
-# text = Gif hio bearn ne gebyreð, fæderingmagas fioh agan and morgengyfe.									
+# text = Gif hio bearn ne gebyreð, fæderingmagas fioh agan and morgengyfe.
 # text_en = If she does not bear a child, her father's relatives shall have her goods, and the "morning gift."									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	hio	hēo (PRON)	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -441,7 +441,7 @@
 12	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSABT.001.082.001.
-# text = Gif man mægðmon nede genimeð: ðam agende L scillinga and eft æt ðam agende sinne willan ætgebicge.									
+# text = Gif man mægðmon nede genimeð: ðam agende L scillinga and eft æt ðam agende sinne willan ætgebicge.
 # text_en = If a man forcibly carries off a maiden, 50 shillings to her owner, and afterwards buy from the owner his consent.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -464,7 +464,7 @@
 19	.	.	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
 									
 # sent_id = LAWSABT.001.083.001.
-# text = Gif hio oðrum mæn in sceat bewyddod sy, XX scillinga gebete.									
+# text = Gif hio oðrum mæn in sceat bewyddod sy, XX scillinga gebete.
 # text_en = If she is betrothed, at a price, to another man, 20 shillings shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
 2	hio	hēo (PRON)	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj:pass	_	_
@@ -481,7 +481,7 @@
 13	.	.	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
 # sent_id = LAWSABT.001.084.001.
-# text = Gif gængang geweorðeð, XXXV scillingas and cyninge XV scillingas.									
+# text = Gif gængang geweorðeð, XXXV scillingas and cyninge XV scillingas.
 # text_en = If she is brought back, 35 shillings shall be paid, and 15 shillings to the king.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	gængang	gēangang 	NOUN	common noun	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
@@ -496,7 +496,7 @@
 11	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
 # sent_id = LAWSABT.001.085.001.
-# text = Gif man mid esnes cwynan geligeð be cwicum ceorle, II gebete.									
+# text = Gif man mid esnes cwynan geligeð be cwicum ceorle, II gebete.
 # text_en = If a man lies with the woman of a servant, during the lifetime of the husband, he shall pay a twofold compensation									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -513,7 +513,7 @@
 13	.	.	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
 # sent_id = LAWSABT.001.086.001.
-# text = Gif esne oðerne ofslea unsynnigne, ealne weorðe forgelde.									
+# text = Gif esne oðerne ofslea unsynnigne, ealne weorðe forgelde.
 # text_en = If one servant slays another, who has committed no offence, he shall pay his full value.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	esne	esne 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -527,7 +527,7 @@
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSABT.001.087.001.
-# text = Gif esnes eage and foot of weorðeð aslagen, ealne weorðe hine forgelde									
+# text = Gif esnes eage and foot of weorðeð aslagen, ealne weorðe hine forgelde
 # text_en = If the eye and foot of a servant are destroyed by blows, his full value shall be paid.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	8	mark	_	_
 2	esnes	esne 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
@@ -545,7 +545,7 @@
 14	.	.	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
 									
 # sent_id = LAWSABT.001.088.001.
-# text = Gif man mannes esne gebindeð, VI scillingas gebete.									
+# text = Gif man mannes esne gebindeð, VI scillingas gebete.
 # text_en = If a man lays bonds on another man's servant, he shall pay 6 shillings compensation									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -559,7 +559,7 @@
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSABT.001.089.001.
-# text = Ðeowæs wegreaf se III scillingas.									
+# text = Ðeowæs wegreaf se III scillingas.
 # text_en = The sum to he paid for robbing a slave on the highway shall be 3 shillings.									
 1	Ðeowæs	ðēow	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 2	wegreaf	wegrēaf	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	5	orphan	_	_
@@ -569,7 +569,7 @@
 6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
 # sent_id = LAWSABT.001.090.001.
-# text = Gif ðeo steleð, II gelde gebete.									
+# text = Gif ðeo steleð, II gelde gebete.
 # text_en = If a slave steals, he shall pay twice the value of the stolen goods, as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	ðeo	ðēow	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -581,7 +581,7 @@
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
 # sent_id = LAWSHL.00.001.001.
-# text = Ðis syndon ða domas ðe Hloðhære and Eadric, Cantwara cyningas, asetton.									
+# text = Ðis syndon ða domas ðe Hloðhære and Eadric, Cantwara cyningas, asetton.
 # text_en = These are the decrees which Hlothhere and Eadric, Kings of Kent, established.									
 1	Ðis	ðes-ðēos-ðis (DEM)	DET	demonstrative	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
 2	syndon	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -599,7 +599,7 @@
 14	.	.	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
 									
 # sent_id = LAWSHL.00.002.001.
-# text = Hloðhære and Eadric Cantwara cyningas ecton ða æ, ða ðe heora aldoras ær geworhton, ðyssum domum ðe hyr efter sægeð.									
+# text = Hloðhære and Eadric Cantwara cyningas ecton ða æ, ða ðe heora aldoras ær geworhton, ðyssum domum ðe hyr efter sægeð.
 # text_en = Hlothhere and Eadric, Kings of Kent, extended the laws which their predecessors had made,by the decrees which are stated below.									
 1	Hloðhære	Hlothere	PROPN	proper noun	Case=Nom|Number=Sing	5	flat	_	_
 2	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
@@ -626,7 +626,7 @@
 23	.	.	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
 									
 # sent_id = LAWSHL.001.001.001.
-# text = Gif mannes esne eorlcundne mannan ofslæhð, ðane ðe sio ðreom hundum scillinga gylde, se agend ðone banan agefe and do ðær ðrio manwyrð to.									
+# text = Gif mannes esne eorlcundne mannan ofslæhð, ðane ðe sio ðreom hundum scillinga gylde, se agend ðone banan agefe and do ðær ðrio manwyrð to.
 # text_en = If a man's servant slays a nobleman, whose wergeld is 300 shillings, his owner shall surrender the homicide and pay the value of three men in addition.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
 2	mannes	mann	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
@@ -657,7 +657,7 @@
 27	.	.	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
 									
 # sent_id = LAWSHL.001.002.001.
-# text = Gif se bane oðbyrste, feorðe manwyrð he togedo and hine gecænne mid godum æwdum, ðæt he ðane banan begeten ne mihte.									
+# text = Gif se bane oðbyrste, feorðe manwyrð he togedo and hine gecænne mid godum æwdum, ðæt he ðane banan begeten ne mihte.
 # text_en = If the homicide escapes, he shall add thereto the value of a fourth man and prove by good witnesses that he has not been able to lay hands on the homicide.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
@@ -685,7 +685,7 @@
 24	.	.	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
 									
 # sent_id = LAWSHL.001.003.001.
-# text = Gif mannes esne frigne mannan ofslæhð, ðane ðe sie hund scillinga gelde, se agend ðone banan agefe and oðer manwyrð ðær to.									
+# text = Gif mannes esne frigne mannan ofslæhð, ðane ðe sie hund scillinga gelde, se agend ðone banan agefe and oðer manwyrð ðær to.
 # text_en = If a man's servant slays a freeman whose wergeld is 100 shillings, his owner shall surrender the homicide and pay the value of another man in addition.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
 2	mannes	mann	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
@@ -714,7 +714,7 @@
 25	.	.	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
 									
 # sent_id = LAWSHL.001.004.001.
-# text = Gif bana oðbyrste, twam manwyrðum hine man forgelde and hine gecænne mid godum æwdum, ðæt he ðane banan begeten ne mihte.									
+# text = Gif bana oðbyrste, twam manwyrðum hine man forgelde and hine gecænne mid godum æwdum, ðæt he ðane banan begeten ne mihte.
 # text_en = If the homicide escapes, his owner shall pay for him with two wergelds and prove by good witnesses that he has not been able to lay hands on the homicide.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	bana	bana ‘killer, slayer, murderer; the devil’	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -742,7 +742,7 @@
 24	.	.	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
 									
 # sent_id = LAWSHL.001.005.001.
-# text = Gif frigman mannan forstele, gif he eft cuma stermelda, secge an andweardne;									
+# text = Gif frigman mannan forstele, gif he eft cuma stermelda, secge an andweardne;
 # text_en = If a freeman steals a man, and if he, who has been stolen returns as informer, he shall accuse him to his face;									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	frigman	frēomann 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -761,7 +761,7 @@
 15	;	;	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
 # sent_id = LAWSHL.001.005.002.
-# text = gecænne hine, gif he mæge:									
+# text = gecænne hine, gif he mæge:
 # text_en = and he, the thief, shall clear himself if he can.									
 1	gecænne	cennan(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	obj	_	SpaceAfter=No
@@ -772,7 +772,7 @@
 7	:	:	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
 # sent_id = LAWSHL.001.005.003.
-# text = hæbbe ðare freora rim æwdamanna and ænne mid in aðe, æghwilc man æt ðam tune ðe he tohyre;									
+# text = hæbbe ðare freora rim æwdamanna and ænne mid in aðe, æghwilc man æt ðam tune ðe he tohyre;
 # text_en = And every man involved in such a charge shall have a number of free witnesses, and one of his witnesses from the village to which he himself belongs.									
 1	hæbbe	habban(ge)	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	ðare	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Gender=Masc|Number=Plur|PronType=DemArt	5	det	_	_
@@ -796,7 +796,7 @@
 20	;	;	PUNCT	punctuation	Uninflected=Yes	19	punct	_	_
 									
 # sent_id = LAWSHL.001.005.004.
-# text = gif he ðæt ne mæge, gelde swa he gono hage.									
+# text = gif he ðæt ne mæge, gelde swa he gono hage.
 # text_en = If he cannot do this, he must pay to the best of his ability.									
 1	gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -812,7 +812,7 @@
 12	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
 # sent_id = LAWSHL.001.006.001.
-# text = Gif ceorl acwyle be libbendum wife and bearne, riht is ðæt hit, ðæt bearn, medder folgige, and him mon an his fæderingmagum wilsumne berigean gefelle his feoh to healdenne, oð ðæt he X wintra sie.									
+# text = Gif ceorl acwyle be libbendum wife and bearne, riht is ðæt hit, ðæt bearn, medder folgige, and him mon an his fæderingmagum wilsumne berigean gefelle his feoh to healdenne, oð ðæt he X wintra sie.
 # text_en = If a man dies leaving a wife and child, it is right, that the child should accompany the mother; and one of his father's relatives who is willing to act, shall be given him as his guardian to take care of his property, until he is ten years old.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	ceorl	ceorl 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -857,7 +857,7 @@
 41	.	.	PUNCT	punctuation	Uninflected=Yes	39	punct	_	_
 									
 # sent_id = LAWSHL.001.007.001.
-# text = Gif man oðrum mæn feoh forstele, and se agend hit eft ætfo, geteme to cynges sele, gif he mæge, and ðone ætgebrenge ðe him sealde;									
+# text = Gif man oðrum mæn feoh forstele, and se agend hit eft ætfo, geteme to cynges sele, gif he mæge, and ðone ætgebrenge ðe him sealde;
 # text_en = If one man steals property from another, and the owner afterwards reclaims it, he shall bring it to the king's residence, if he can, and produce the man who sold it him.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -891,7 +891,7 @@
 30	;	;	PUNCT	punctuation	Uninflected=Yes	29	punct	_	_
 									
 # sent_id = LAWSHL.001.007.002.
-# text = gif he ðæt ne mæge, læte an, and fo se agend to.									
+# text = gif he ðæt ne mæge, læte an, and fo se agend to.
 # text_en = If he cannot do that, he shall surrender it, and the owner shall take possession of it.									
 1	gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -910,7 +910,7 @@
 15	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
 # sent_id = LAWSHL.001.008.001.
-# text = Gif man oðerne sace tihte and he ðane mannan mote an medle oððe an ðinge, symble se man ðam oðrum byrigean geselle and ðam riht awyrce ðe to hiom Cantwara deman gescrifen.									
+# text = Gif man oðerne sace tihte and he ðane mannan mote an medle oððe an ðinge, symble se man ðam oðrum byrigean geselle and ðam riht awyrce ðe to hiom Cantwara deman gescrifen.
 # text_en = If one man brings a charge against another, and if he meets the man, at an assembly or meeting, the latter shall always provide the former with a surety, and render him such satisfaction as the judges of Kent shall prescribe for them.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -948,7 +948,7 @@
 34	.	.	PUNCT	punctuation	Uninflected=Yes	33	punct	_	_
 									
 # sent_id = LAWSHL.001.009.001.
-# text = Gif he ðonne byrigan forwærne, XII scillingas agylde ðam cyninge, and sio se sacy swa open swa hio ær wes.									
+# text = Gif he ðonne byrigan forwærne, XII scillingas agylde ðam cyninge, and sio se sacy swa open swa hio ær wes.
 # text_en = If, however, he refuses to provide a surety, he shall pay 12 shillings to the king, and the suit 1 shall be considered as open as it was before.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -975,7 +975,7 @@
 23	.	.	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
 									
 # sent_id = LAWSHL.001.010.001.
-# text = Gif man oðerne tihte, siððan he him byrigan gesealdne hæbbe, and ðonne ymb III niht gesecæn hiom sæmend (buton ðam ufor leofre sio ðe ða tihtlan age);									
+# text = Gif man oðerne tihte, siððan he him byrigan gesealdne hæbbe, and ðonne ymb III niht gesecæn hiom sæmend (buton ðam ufor leofre sio ðe ða tihtlan age);
 # text_en = If one man charges another, after the other has provided him with a surety, then three days later they shall attempt to find an arbitrator, unless the accuser prefers a longer delay.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -1011,7 +1011,7 @@
 32	;	;	PUNCT	punctuation	Uninflected=Yes	25	punct	_	_
 									
 # sent_id = LAWSHL.001.010.002.
-# text = siððan sio sace gesemed sio, an seofan nihtum se man ðam oðrum riht gedo, gecwime an feo oððe an aðe, swa hwæder swa him leofre sio.									
+# text = siððan sio sace gesemed sio, an seofan nihtum se man ðam oðrum riht gedo, gecwime an feo oððe an aðe, swa hwæder swa him leofre sio.
 # text_en = Within a week after the suit has been decided by arbitration, the accused shall render justice to the other and satisfy him with money, or with an oath, whichever he prefers.									
 1	siððan	siððan ‘as soon as’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	sio	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Fem|Number=Sing|PronType=DemArt	3	det	_	_
@@ -1045,7 +1045,7 @@
 30	.	.	PUNCT	punctuation	Uninflected=Yes	28	punct	_	_
 									
 # sent_id = LAWSHL.001.011.001.
-# text = Gif man mannan an oðres flette manswara hateð oððe hine mid bismærwordum scandlice grete, scilling agelde ðam ðe ðæt flet age, and VI scillinga ðam ðe he ðæt word togecwæde, and cyninge XII scillinga forgelde.									
+# text = Gif man mannan an oðres flette manswara hateð oððe hine mid bismærwordum scandlice grete, scilling agelde ðam ðe ðæt flet age, and VI scillinga ðam ðe he ðæt word togecwæde, and cyninge XII scillinga forgelde.
 # text_en = If one man calls another a perjurer in a third man's house, or accosts him abusively with insulting words, he shall pay one shilling to him who owns the house, 6 shillings to him he has accosted, and 12 shillings to the king.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	8	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -1088,7 +1088,7 @@
 39	.	.	PUNCT	punctuation	Uninflected=Yes	38	punct	_	_
 									
 # sent_id = LAWSHL.001.012.001.
-# text = Gif man oðrum steop asette ðær mæn drincen, buton scylde, an eald riht scilling agelde ðam ðe ðæt flet age, and VI scillinga ðam ðe man ðone steap aset, and cynge XII scillinga.									
+# text = Gif man oðrum steop asette ðær mæn drincen, buton scylde, an eald riht scilling agelde ðam ðe ðæt flet age, and VI scillinga ðam ðe man ðone steap aset, and cynge XII scillinga.
 # text_en = If, where men are drinking, one man takes away the stoup of another, who has committed no offence, he shall pay, in accordance with established custom 1, a shilling to him who owns the house, 6 shillings to him whose stoup has been taken away, and 12 shillings to the king.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -1130,7 +1130,7 @@
 38	.	.	PUNCT	punctuation	Uninflected=Yes	37	punct	_	_
 									
 # sent_id = LAWSHL.001.013.001.
-# text = Gif man wæpn abregde ðær mæn drincen and ðær man nan yfel ne deð, scilling ðan ðe ðæt flet age, and cyninge XII scillinga.									
+# text = Gif man wæpn abregde ðær mæn drincen and ðær man nan yfel ne deð, scilling ðan ðe ðæt flet age, and cyninge XII scillinga.
 # text_en = If, where men are drinking, a man draws his weapon, but no harm is done there, he shall pay a shilling to him who owns the house, and 12 shillings to the king.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -1160,7 +1160,7 @@
 26	.	.	PUNCT	punctuation	Uninflected=Yes	25	punct	_	_
 									
 # sent_id = LAWSHL.001.014.001.
-# text = Gif ðæt flet geblodgad wyrðe, forgylde ðem mæn his mundbyrd and cyninge L scillinga.									
+# text = Gif ðæt flet geblodgad wyrðe, forgylde ðem mæn his mundbyrd and cyninge L scillinga.
 # text_en = If the house is stained with blood, the owner shall have his mundbyrd paid to him, and 50 shillings shall be paid to the king.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	ðæt	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Neut|Number=Sing|PronType=DemArt	3	det	_	_
@@ -1180,7 +1180,7 @@
 16	.	.	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
 									
 # sent_id = LAWSHL.001.015.001.
-# text = Gif man cuman feormæð III niht an his agenum hame(cepeman oððe oðerne ðe sio ofer mearce cuman) and hine ðonne his mete fede, and he ðonne ænigum mæn yfel gedo, se man ðane oðerne æt rihte gebrenge oððe riht forewyrce.									
+# text = Gif man cuman feormæð III niht an his agenum hame(cepeman oððe oðerne ðe sio ofer mearce cuman) and hine ðonne his mete fede, and he ðonne ænigum mæn yfel gedo, se man ðane oðerne æt rihte gebrenge oððe riht forewyrce.
 # text_en = If a man entertains a stranger(a trader or anyone else who has come over the border) for three days in his own home, and then supplies him with food from his own store, and he then does harm to anyone, the man shall bring the other to justice, or make amends on his behalf.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -1230,7 +1230,7 @@
 46	.	.	PUNCT	punctuation	Uninflected=Yes	45	punct	_	_
 									
 # sent_id = LAWSHL.001.016.001.
-# text = Gif Cantwara ænig in Lundenwic feoh gebycge, hæbbe him ðonne twegen oððe ðreo unfacne ceorlas to gewitnesse oððe cyninges wicgerefan.									
+# text = Gif Cantwara ænig in Lundenwic feoh gebycge, hæbbe him ðonne twegen oððe ðreo unfacne ceorlas to gewitnesse oððe cyninges wicgerefan.
 # text_en = If a man of Kent buys property in London, he shall have two or three trustworthy men, or the reeve of the king's estate, as witness.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
 2	Cantwara	Cantware	ADJ	proper adjective	Case=Gen|Number=Plur	3	nmod	_	_
@@ -1256,7 +1256,7 @@
 22	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSHL.001.16(2).001.
-# text = Gif he ðæt ne mæge, gekyðe ðanne in wiofode mid his gewitena anum oððe mid cyninges wicgerefan, ðæt he ðæt feoh undeornunga his cuðan ceape in wic gebohte;									
+# text = Gif he ðæt ne mæge, gekyðe ðanne in wiofode mid his gewitena anum oððe mid cyninges wicgerefan, ðæt he ðæt feoh undeornunga his cuðan ceape in wic gebohte;
 # text_en = If he cannot do so, he shall declare on the altar, with one of his witnesses or with the reeve of the King’s estate, that he bought the property openly in London, and with goods known to be his,									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -1291,7 +1291,7 @@
 31	;	;	PUNCT	punctuation	Uninflected=Yes	30	punct	_	_
 									
 # sent_id = LAWSHL.001.16(2).002.
-# text = and him man ðanne his weorð agefe.									
+# text = and him man ðanne his weorð agefe.
 # text_en = and the value shall be returned to him.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
 2	him	he (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
@@ -1303,7 +1303,7 @@
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
 # sent_id = LAWSHL1.16(1).001.
-# text = Gif hit man eft æt ðam mæn in Cænt ætfo, ðonne tæme he to wic to cyngæs sele to ðam mæn ðe him sealde, gif he ðane wite and æt ðam teame gebrengen mæge.									
+# text = Gif hit man eft æt ðam mæn in Cænt ætfo, ðonne tæme he to wic to cyngæs sele to ðam mæn ðe him sealde, gif he ðane wite and æt ðam teame gebrengen mæge.
 # text_en = If afterwards it is claimed from the man in Kent, he shall summon as witness, to the king's residence in London, the man who sold it him, if he knows him and can produce him as warrant for the transaction.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	10	mark	_	_
 2	hit	hit (PRON)	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
@@ -1344,7 +1344,7 @@
 37	.	.	PUNCT	punctuation	Uninflected=Yes	35	punct	_	_
 									
 # sent_id = LAWSHL.001.16(3).001.
-# text = Gif he ðanne ðæt ne mæge gecyðan mid rihtre canne, læte ðanne an, and se agend tofo.									
+# text = Gif he ðanne ðæt ne mæge gecyðan mid rihtre canne, læte ðanne an, and se agend tofo.
 # text_en = If, however, he cannot prove that by lawful declaration, he shall give it up, and the owner shall take possession of it.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
@@ -1368,7 +1368,7 @@
 20	.	.	PUNCT	punctuation	Uninflected=Yes	19	punct	_	_
 									
 # sent_id = LAWSWI.00.001.001.
-# text = Ðis synd Wihtrædes domas Cantwara cyninges.									
+# text = Ðis synd Wihtrædes domas Cantwara cyninges.
 # text_en = These are the decrees of Wihtred, King of Kent.									
 1	Ðis	ðes-ðēos-ðis (PRON)	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
 2	synd	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -1379,7 +1379,7 @@
 7	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
 # sent_id = LAWSWI.00.002.001.
-# text = Ðam mildestan cyninge Cantwara Wihtræde rixigendum ðe fiftan wintra his rices, ðy niguðan gebanne, sextan dæge Rugernes, in ðære stowe ðy hatte Berghamstyde, ðær wæs gesamnad eadigra geheahtendlic ymcyme:									
+# text = Ðam mildestan cyninge Cantwara Wihtræde rixigendum ðe fiftan wintra his rices, ðy niguðan gebanne, sextan dæge Rugernes, in ðære stowe ðy hatte Berghamstyde, ðær wæs gesamnad eadigra geheahtendlic ymcyme:
 # text_en = During the sovereignty of Wihtred, the most gracious king of Kent, in the fifth year of his reign, the ninth Indiction, the sixth day of Rugern, in a place which is called Barham, there was assembled a deliberative council of the notables.									
 1	Ðam	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Dat|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
 2	mildestan	milde ‘mild’	ADJ	adjective	Case=Dat|Degree=Sup|Gender=Masc|Number=Sing	3	amod	_	_
@@ -1417,7 +1417,7 @@
 34	:	:	PUNCT	punctuation	Uninflected=Yes	30	punct	_	_
 									
 # sent_id = LAWSWI.00.003.001.
-# text = ðær wæs Birhtwald, Bretone heahbiscop, and se ær næmda cyning;									
+# text = ðær wæs Birhtwald, Bretone heahbiscop, and se ær næmda cyning;
 # text_en = There were present there Berhtwald, the chief bishop of Britain, and the above-mentioned king;									
 1	ðær	ðǣr ‘there’	ADV	adverb	Uninflected=Yes	2	expl	_	_
 2	wæs	bēon/wesan/sēon ‘to be’	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -1434,7 +1434,7 @@
 13	;	;	PUNCT	punctuation	Uninflected=Yes	2	punct	_	_
 									
 # sent_id = LAWSWI.00.004.001.
-# text = and cwæð ælc had ciricean ðære mægðe anmodlice mid ðy hersuman folcy.									
+# text = and cwæð ælc had ciricean ðære mægðe anmodlice mid ðy hersuman folcy.
 # text_en = and every order of the Church of the province expressed itself in unanimity with the loyal laity.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	2	cc	_	_
 2	cwæð	cweðan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -1451,7 +1451,7 @@
 13	.	.	PUNCT	punctuation	Uninflected=Yes	2	punct	_	_
 									
 # sent_id = LAWSWI.00.005.001.
-# text = Ðær ða eadigan fundon mid ealra gemedum ðas domas and Cantwara rihtum ðeawum æcton, swa hit hyr efter segeð and cwyð:									
+# text = Ðær ða eadigan fundon mid ealra gemedum ðas domas and Cantwara rihtum ðeawum æcton, swa hit hyr efter segeð and cwyð:
 # text_en = There the notables, with the consent of all, drew up these decrees, and added them to the legal usages of the people of Kent, as is hereafter stated and declared:									
 1	Ðær	ðǣr ‘there’	ADV	adverb	Uninflected=Yes	4	advmod	_	_
 2	ða	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Number=Plur|PronType=DemArt	3	det	_	_
@@ -1478,7 +1478,7 @@
 23	;	;	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
 									
 # sent_id = LAWSWI1.001.001.
-# text = Cirice an freolsdome gafola;									
+# text = Cirice an freolsdome gafola;
 # text_en = The Church shall enjoy immunity from taxation.									
 1	Cirice	cirice 	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	an	ān ‘alone’	ADV	adverb	Uninflected=Yes	1	advmod	_	_
@@ -1487,7 +1487,7 @@
 5	;	;	PUNCT	punctuation	Uninflected=Yes	1	punct	_	_
 									
 # sent_id = LAWSWI1.01(1).001.
-# text = and man for cyning gebidde, and hine buton neadhæse heora willum weorðigen.									
+# text = and man for cyning gebidde, and hine buton neadhæse heora willum weorðigen.
 # text_en = The king shall be prayed for, and they shall honour him freely and without compulsion									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	5	cc	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -1505,7 +1505,7 @@
 14	.	.	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
 									
 # sent_id = LAWSWI1.003.001.
-# text = Unrihthæmde mæn to rihtum life mid synna hreowe tofon oððe of ciricean genaman ascadene sien.									
+# text = Unrihthæmde mæn to rihtum life mid synna hreowe tofon oððe of ciricean genaman ascadene sien.
 # text_en = Men living in illicit unions shall turn to a righteous life repenting of their sins, or they shall be excluded from the communion of the Church.									
 1	Unrihthæmde	unrihthǣmed ‘adulterous’	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
 2	mæn	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
@@ -1525,7 +1525,7 @@
 16	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
 									
 # sent_id = LAWSWI1.04(1).001.
-# text = swæse mæn in leodum ciriclicæs gemanan ungestrodyne ðoligen									
+# text = swæse mæn in leodum ciriclicæs gemanan ungestrodyne ðoligen
 # text_en = Men of our own country also shall be excluded from the communion of the Church, without being subject to forfeiture of their goods.									
 1	swæse	swǣs(ge)	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
 2	mæn	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
@@ -1537,7 +1537,7 @@
 8	ðoligen	ðolian(ge)	VERB	main-verb	Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 									
 # sent_id = LAWSWI1.005.001.
-# text = Gif ðæs geweorðe gesiðcundne mannan ofer ðis gemot, ðæt he unrihthæmed genime ofer cyngæs bebod and biscopes and boca dom, se ðæt gebete his dryhtne C scillinga an ald reht.									
+# text = Gif ðæs geweorðe gesiðcundne mannan ofer ðis gemot, ðæt he unrihthæmed genime ofer cyngæs bebod and biscopes and boca dom, se ðæt gebete his dryhtne C scillinga an ald reht.
 # text_en = If after this meeting, a nobleman presumes to enter into an illicit union, despite the command of the king and the bishop, and the written law, he shall pay 100 shillings compensation to his lord, in accordance with established custom									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	ðæs	ðæs	ADV	adverb	Uninflected=Yes	3	advmod	_	_
@@ -1574,7 +1574,7 @@
 33	.	.	PUNCT	punctuation	Uninflected=Yes	25	punct	_	_
 									
 # sent_id = LAWSWI1.05(1).001.
-# text = Gif hit ceorlisc man sie, gebete L scillinga; and gehwæder ðæt hæmed mid hreowe forlæte.									
+# text = Gif hit ceorlisc man sie, gebete L scillinga; and gehwæder ðæt hæmed mid hreowe forlæte.
 # text_en = If a commoner does so, he shall pay 50 shillings compensation; and either shall desist from the union, with repentance.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	hit	hit (PRON)	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -1596,7 +1596,7 @@
 18	.	.	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
 									
 # sent_id = LAWSWI1.006.001.
-# text = Gif priost læfe unrihthæmed oððe fulwihðe untrumes forsitte oððe to ðon druncen sie, ðæt he ne mæge, sio he stille his ðegnungæ oð biscopes dom.									
+# text = Gif priost læfe unrihthæmed oððe fulwihðe untrumes forsitte oððe to ðon druncen sie, ðæt he ne mæge, sio he stille his ðegnungæ oð biscopes dom.
 # text_en = If a priest consents to an illicit union, or if he neglects the baptism of a sick man, or is too drunk to discharge this duty, he shall abstain from his ministrations, pending a decision from the bishop.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	priost	prēost	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -1628,7 +1628,7 @@
 28	.	.	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
 									
 # sent_id = LAWSWI1.007.001.
-# text = Gif bescoren man steorleas gange him an gestliðnesse, gefe him man ænes;									
+# text = Gif bescoren man steorleas gange him an gestliðnesse, gefe him man ænes;
 # text_en = If a tonsured man, [who is] not under ecclesiastical discipline, wanders about looking for hospitality, once [only] shall it be granted to him,									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	bescoren	bescieran	ADJ	adjective	Tense=Past|Uninflected=Yes|VerbForm=Part|Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
@@ -1646,7 +1646,7 @@
 14	;	;	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
 # sent_id = LAWSWI1.008.001.
-# text = Gif man his mæn an wiofode freols gefe, se sie folcfry;									
+# text = Gif man his mæn an wiofode freols gefe, se sie folcfry;
 # text_en = If anyone grants one of his men freedom on the altar, his freedom shall be publicly recognised;									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	8	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -1663,7 +1663,7 @@
 13	;	;	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
 # sent_id = LAWSWI1.008.002.
-# text = freolsgefa age his erfe ænde wergeld and munde ðare hina, sie ofer mearce ðær he wille.									
+# text = freolsgefa age his erfe ænde wergeld and munde ðare hina, sie ofer mearce ðær he wille.
 # text_en = the emancipator shall have his heritage and his wergeld, and the guardianship of his household, wherever he, the freed man, may be, even if it be beyond the border.									
 1	freolsgefa	frēolsgefa 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	age	āgan	VERB	main-verb	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1685,7 +1685,7 @@
 18	.	.	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
 									
 # sent_id = LAWSWI1.009.001.
-# text = Gif esne ofer dryhtnes hæse ðeowweorc wyrce an sunnan æfen efter hire setlgange oð monan æfenes setlgang, LXXX scillinga se dryhtne gebete.									
+# text = Gif esne ofer dryhtnes hæse ðeowweorc wyrce an sunnan æfen efter hire setlgange oð monan æfenes setlgang, LXXX scillinga se dryhtne gebete.
 # text_en = If a servant, contrary to his lord's command, does servile work between sunset on Saturday evening and sunset on Sunday evening, he shall pay 80 sceattas to his lord.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
 2	esne	esne 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -1713,7 +1713,7 @@
 24	.	.	PUNCT	punctuation	Uninflected=Yes	23	punct	_	_
 									
 # sent_id = LAWSWI1.010.001.
-# text = Gif esne deð his rade ðæs dæges, VI se wið dryhten gebete oððe sine hyd;									
+# text = Gif esne deð his rade ðæs dæges, VI se wið dryhten gebete oððe sine hyd;
 # text_en = If a servant makes a journey of his own [on horseback] on that day, he shall pay 6 shillings compensation to his lord or undergo the lash.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	esne	esne 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -1734,7 +1734,7 @@
 17	;	;	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
 # sent_id = LAWSWI1.011.001.
-# text = gif friman ðonne an ðane forbodenan timan, sio he healsfange scyldig;									
+# text = gif friman ðonne an ðane forbodenan timan, sio he healsfange scyldig;
 # text_en = If a freeman works during the forbidden time, he shall forfeit his healsfang,									
 1	gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	2	mark	_	_
 2	friman	frēomann 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	12	advcl	_	_
@@ -1751,7 +1751,7 @@
 13	;	;	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
 # sent_id = LAWSWI1.011.002.
-# text = and se man se ðæt arasie, he age healf ðæt wite and ðæt weorc.									
+# text = and se man se ðæt arasie, he age healf ðæt wite and ðæt weorc.
 # text_en = and the man who informs against him shall have half the fine, and the profits arising from the labour.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	9	cc	_	_
 2	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
@@ -1771,7 +1771,7 @@
 16	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSWI1.012.001.
-# text = Gif ceorl buton wifes wisdome deoflum gelde, he sie ealra his æhtan scyldig and healsfange.									
+# text = Gif ceorl buton wifes wisdome deoflum gelde, he sie ealra his æhtan scyldig and healsfange.
 # text_en = If a husband, without his wife's knowledge, makes offerings to devils, he shall forfeit all his goods or his healsfang.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
 2	ceorl	ceorl 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -1792,7 +1792,7 @@
 17	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
 									
 # sent_id = LAWSWI1.013.001.
-# text = Gif ðeuw deoflum geldað, VI scillinga gebete oððe his hyd.									
+# text = Gif ðeuw deoflum geldað, VI scillinga gebete oððe his hyd.
 # text_en = If a slave makes offerings to devils, he shall pay 6 shillings compensation or undergo the lash.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	ðeuw	ðēow	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -1808,7 +1808,7 @@
 12	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSWI1.014.001.
-# text = Gif mon his heowum in fæsten flæsc gefe, frigne ge ðeowne halsfange alyse.									
+# text = Gif mon his heowum in fæsten flæsc gefe, frigne ge ðeowne halsfange alyse.
 # text_en = If a man gives meat to his household during a fast, he shall redeem each of them, both bond and free, by payment of his healsfang									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	8	mark	_	_
 2	mon	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -1827,7 +1827,7 @@
 15	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
 									
 # sent_id = LAWSWI1.015.001.
-# text = Gif ðeow ete his sylfes ræde, VI scillinga oððe his hyd.									
+# text = Gif ðeow ete his sylfes ræde, VI scillinga oððe his hyd.
 # text_en = If a slave eats of his own free will, he shall pay 6 shillings compensation or undergo the lash.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	ðeow	ðēow	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -1844,7 +1844,7 @@
 13	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSWI1.016.001.
-# text = Biscopes word and cyninges sie unlægne buton aðe.									
+# text = Biscopes word and cyninges sie unlægne buton aðe.
 # text_en = A bishop's or a king's word, though unsupported by an oath, shall be incontrovertible.									
 1	Biscopes	bisceop 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 2	word	word ‘word, speech, sentence, statement; command, order; subject of talk, story, news, report; fame; promise;-verb, (incarnate) word’	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
@@ -1857,7 +1857,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
 # sent_id = LAWSWI1.017.001.
-# text = Mynstres aldor hine cænne in preostes canne.									
+# text = Mynstres aldor hine cænne in preostes canne.
 # text_en = The head of a monastery shall clear himself by the formula used by a priest.									
 1	Mynstres	mynster	NOUN	common noun	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
 2	aldor	ealdor ‘elder; ancestors; chief’	NOUN	common noun	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
@@ -1869,7 +1869,7 @@
 8	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
 # sent_id = LAWSWI1.018.001.
-# text = Preost hine clænsie sylfæs soðe in his halgum hrægle ætforan wiofode ðus cweðende: “Ueritatem dico in Christo, non metior”.									
+# text = Preost hine clænsie sylfæs soðe in his halgum hrægle ætforan wiofode ðus cweðende: “Ueritatem dico in Christo, non metior”.
 # text_en = A priest shall clear himself by his own asseveration, in his holy garments before the altar and declaring as follows "Veritatem dico in Christo, non mentior."									
 1	Preost	prēost	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 2	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	obj	_	_
@@ -1897,7 +1897,7 @@
 24	.	.	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
 # sent_id = LAWSWI1.018.002.
-# text = Swylce diacon hine clænsie.									
+# text = Swylce diacon hine clænsie.
 # text_en = A deacon shall clear himself in a similar way.									
 1	Swylce	swilce ‘just as’	ADV	adverb	Uninflected=Yes	4	advmod	_	_
 2	diacon	dīacon	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -1906,7 +1906,7 @@
 5	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
 # sent_id = LAWSWI1.019.001.
-# text = Cliroc feowra sum hine clænsie his heafodgemacene and ane his hand on wiofode;									
+# text = Cliroc feowra sum hine clænsie his heafodgemacene and ane his hand on wiofode;
 # text_en = A clerk shall clear himself with three of his own class, he alone having his hand on the altar.									
 1	Cliroc	cleric 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 2	feowra	fēower (NUM)	NUM	numeral (cardinal)	Case=Gen|Number=Plur	1	nmod	_	_
@@ -1924,7 +1924,7 @@
 14	;	;	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
 # sent_id = LAWSWI1.019.002.
-# text = oðre ætstanden, að abycgan.									
+# text = oðre ætstanden, að abycgan.
 # text_en = The others shall attend for the purpose of validating the oath.									
 1	oðre	ōðer (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
 2	ætstanden	ætstandan	VERB	main-verb	Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -1934,7 +1934,7 @@
 6	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
 # sent_id = LAWSWI1.020.001.
-# text = Gest hine clænsie sylfes aðe on wiofode;									
+# text = Gest hine clænsie sylfes aðe on wiofode;
 # text_en = A stranger shall clear himself by his own oath, at the altar.									
 1	Gest	giest 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 2	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	obj	_	_
@@ -1946,7 +1946,7 @@
 8	;	;	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
 									
 # sent_id = LAWSWI1.020.002.
-# text = swylce cyninges ðeng;									
+# text = swylce cyninges ðeng;
 # text_en =  A king's thegn in the same way.									
 1	swylce	swilce ‘just as’	ADV	adverb	Uninflected=Yes	3	advmod	_	_
 2	cyninges	cyning 	NOUN	common noun	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
@@ -1954,7 +1954,7 @@
 4	;	;	PUNCT	punctuation	Uninflected=Yes	3	punct	_	_
 									
 # sent_id = LAWSWI1.021.001.
-# text = ceorlisc man hine feowra sum his heafodgemacene on weofode; and ðissa ealra að sie unlegnæ;									
+# text = ceorlisc man hine feowra sum his heafodgemacene on weofode; and ðissa ealra að sie unlegnæ;
 # text_en = A commoner may clear himself at the altar, with three of his own class; and the oath of all these shall be incontrovertible.									
 1	ceorlisc	ceorlisc	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -1975,7 +1975,7 @@
 17	;	;	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
 # sent_id = LAWSWI1.21(1).001.
-# text = Ðanne is cirican canne riht:									
+# text = Ðanne is cirican canne riht:
 # text_en = The Church has further prerogatives with regard to expurgation, which are:									
 1	Ðanne	ðonne ‘then’	ADV	adverb	Uninflected=Yes	5	advmod	_	_
 2	is	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -1985,7 +1985,7 @@
 6	:	:	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
 # sent_id = LAWSWI1.022.001.
-# text = Gif man biscopes esne tihte oððe cyninges, cænne hine an gerefan hand,									
+# text = Gif man biscopes esne tihte oððe cyninges, cænne hine an gerefan hand,
 # text_en = If a servant of a bishop or of the king is accused, he shall clear himself by the hand of the reeve.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -2003,7 +2003,7 @@
 14	,	,	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSWI1.022.002.
-# text = oððe hine gerefa clensie, oððe selle to swinganne.									
+# text = oððe hine gerefa clensie, oððe selle to swinganne.
 # text_en = # text_en =									
 1	oððe	oððe (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc:preconj	_	_
 2	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
@@ -2017,7 +2017,7 @@
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSWI1.023.001.
-# text = Gif man Gedes ðeuwne esne in heora gemange tihte, his dryhten hine his ane aðe geclænsie, gif he huslgenga sie;									
+# text = Gif man Gedes ðeuwne esne in heora gemange tihte, his dryhten hine his ane aðe geclænsie, gif he huslgenga sie;
 # text_en = If anyone brings an accusation against a bond servant of a company in presence of the company, his lord shall clear him by his own oath if he (the lord) is a communicant.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -2044,7 +2044,7 @@
 23	;	;	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
 									
 # sent_id = LAWSWI1.024.001.
-# text = Gif folces mannes esne tihte cirican mannes esne, oððe cirican mannes esne tihte folces mannes esne, his dryhten hine ane his aðe geclensige.									
+# text = Gif folces mannes esne tihte cirican mannes esne, oððe cirican mannes esne tihte folces mannes esne, his dryhten hine ane his aðe geclensige.
 # text_en = If a layman's servant accuse the servant of an ecclesiastic, or if an ecclesiastic's servant accuse the servant of a layman, his lord shall clear him by his own oath									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	folces	folc 	NOUN	common noun	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
@@ -2074,7 +2074,7 @@
 26	.	.	PUNCT	punctuation	Uninflected=Yes	25	punct	_	_
 									
 # sent_id = LAWSWI1.025.001.
-# text = Gif man leud ofslea an ðeofðe, licge buton wyrgelde.									
+# text = Gif man leud ofslea an ðeofðe, licge buton wyrgelde.
 # text_en = If anyone slays a man in the act of thieving, no wergeld shall be paid for him.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -2089,7 +2089,7 @@
 11	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = LAWSWI1.026.001.
-# text = Gif man frigne man æt hæbbendre handa gefo, ðanne wealde se cyning ðreora anes:									
+# text = Gif man frigne man æt hæbbendre handa gefo, ðanne wealde se cyning ðreora anes:
 # text_en = If anyone catches a freeman in the act of stealing, the king shall decide which of the following three courses shall be adopted									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	8	mark	_	_
 2	man	mann	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -2109,7 +2109,7 @@
 16	:	:	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
 # sent_id = LAWSWI1.026.002.
-# text = oððe hine man cwelle oððe ofer sæ selle oððe hine his wergelde alese.									
+# text = oððe hine man cwelle oððe ofer sæ selle oððe hine his wergelde alese.
 # text_en = -whether he shall be put to death, or sold beyond the sea, or held to ransom for his wergeld.									
 1	oððe	oððe (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc:preconj	_	_
 2	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
@@ -2127,7 +2127,7 @@
 14	.	.	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
 									
 # sent_id = LAWSWI1.26(1).001.
-# text = Se ðe hine gefo and gegange, healfne hine age;									
+# text = Se ðe hine gefo and gegange, healfne hine age;
 # text_en = He who catches and secures him, shall have half his value.									
 1	Se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	10	nsubj	_	_
 2	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	4	nsubj	_	_
@@ -2142,7 +2142,7 @@
 11	;	;	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
 # sent_id = LAWSWI1.26(1).002.
-# text = gif hine man cwelle, geselle heom man LXX scillinga.									
+# text = gif hine man cwelle, geselle heom man LXX scillinga.
 # text_en = If he is put to death, 70 shillings shall be paid to him.									
 1	gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
@@ -2157,7 +2157,7 @@
 11	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
 # sent_id = LAWSWI1.027.001.
-# text = Gif ðeuw stele and hi man alese: LXX scillinga, swa hweder swa cyning wille;									
+# text = Gif ðeuw stele and hi man alese: LXX scillinga, swa hweder swa cyning wille;
 # text_en = If a slave steals, and is released, 70 shillings shall be paid -whichever the king wishes.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	3	mark	_	_
 2	ðeuw	ðēow	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -2178,7 +2178,7 @@
 17	;	;	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
 # sent_id = MARK.001.044.001.
-# text = and cwæð. warna ðæt ðu hit nanum men ne secge. ac ga and ætyw ðe ðara sacerda ealdre. And bring for ðinre clænsunga ðæt moyses bebead him on gewitnesse.									
+# text = and cwæð. warna ðæt ðu hit nanum men ne secge. ac ga and ætyw ðe ðara sacerda ealdre. And bring for ðinre clænsunga ðæt moyses bebead him on gewitnesse.
 # text_en = and saith, Beware that thou say it to no man, but go and show thee there to the elder priest, and bring for thy cleansing what Moyses bade, in witness to them.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	2	cc	_	_
 2	cwæð	cweðan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pret|VerbForm=Fin	0	root	_	_
@@ -2215,7 +2215,7 @@
 33	.	.	PUNCT	punctuation	Uninflected=Yes	29	punct	_	_
 									
 # sent_id = MARK.002.017.001.
-# text = Ða se hælend ðis gehyrde he sæde him. ne beðurfon na ða halan læces. ac ða ðe untrume synt;									
+# text = Ða se hælend ðis gehyrde he sæde him. ne beðurfon na ða halan læces. ac ða ðe untrume synt;
 # text_en = When the Saviour heard this he said to them, The whole do not want a leech but they that are un-sound.									
 1	Ða	ðā ‘then’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
 2	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
@@ -2242,7 +2242,7 @@
 23	;	;	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
 									
 # sent_id = MARK.002.017.002.
-# text = Ne com ic na ðæt ic clypode rihtwise ac synfulle.									
+# text = Ne com ic na ðæt ic clypode rihtwise ac synfulle.
 # text_en = I came not that I should call the right-wise but sinners.									
 1	Ne	ne ‘not’	PART	particle	Polarity=Neg|Uninflected=Yes	2	advmod	_	_
 2	com	cuman(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=1|Tense=Pret|VerbForm=Fin	0	root	_	_
@@ -2258,7 +2258,7 @@
 12	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = MARK.002.021.002.
-# text = nan man ne siwað niwne scyp to ealdum reafe elles he afyrð ðone niwan scyp. of ðam ealdan reafe. And bið mare slite.									
+# text = nan man ne siwað niwne scyp to ealdum reafe elles he afyrð ðone niwan scyp. of ðam ealdan reafe. And bið mare slite.
 # text_en = No man seweth a new patch on an old robe, else he taketh away the new patch from the old robe and there is more slitting;									
 1	ne	ne ‘not’	PART	particle	Uninflected=Yes	2	nmod	_	_
 2	an	ān	DET	determiner	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
@@ -2289,7 +2289,7 @@
 27	.	.	PUNCT	punctuation	Uninflected=Yes	24	punct	_	_
 									
 # sent_id = MARK.002.022.001.
-# text = And nan man ne deð niwe win on ealde bytta. elles ðæt win tobrycð ða bytta. And ðæt win bið agoten.									
+# text = And nan man ne deð niwe win on ealde bytta. elles ðæt win tobrycð ða bytta. And ðæt win bið agoten.
 # text_en = and no man makes new wine in old butts else the wine breaketh the butts and the wine is poured out and the butts become nothing,									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
 2	ne	ne ‘not’	PART	particle	Polarity=Neg|Uninflected=Yes	3	nmod	_	SpaceAfter=No
@@ -2323,7 +2323,7 @@
 30	;	;	PUNCT	punctuation	Uninflected=Yes	29	punct	_	_
 									
 # sent_id = MARK.002.025.001.
-# text = Ða sæde he him ne rædde ge næfre. hwæt dyde dauid ða hine hingrode. And ða ðe mid him wæron.									
+# text = Ða sæde he him ne rædde ge næfre. hwæt dyde dauid ða hine hingrode. And ða ðe mid him wæron.
 # text_en = Then said he to them, Read ye never what David did...when he hungred and they that were with him?									
 1	Ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	2	advmod	_	_
 2	sæde	secgan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pret|VerbForm=Fin	0	root	_	_
@@ -2351,7 +2351,7 @@
 24	.	.	PUNCT	punctuation	Uninflected=Yes	22	punct	_	_
 									
 # sent_id = MARK.004.005.001.
-# text = Sum feoll ofer stanscyligean ðar hit næfde mycele eorðan. And sona up eode. And forðam hit næfde eorðan ðiccnesse.									
+# text = Sum feoll ofer stanscyligean ðar hit næfde mycele eorðan. And sona up eode. And forðam hit næfde eorðan ðiccnesse.
 # text_en = Some fell upon stone-shelly ground, where it had not much earth, and soon it came up, for it had no thickness of earth.									
 1	Sum	sum ‘a certain one’ (PRON)	PRON	pronoun	Case=Nom|Number=Sing|PronType=Ind	2	nsubj	_	_
 2	feoll	feallan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pret|VerbForm=Fin	0	root	_	_
@@ -2379,7 +2379,7 @@
 24	.	.	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
 									
 # sent_id = MARK.004.012.001.
-# text = Ðæt hi geseonde geseon and na ne geseon and gehyrende gehyren and ne ongyten ðe læs hi hwænne syn gescyrede. And him sin hyra synna forgyfene;									
+# text = Ðæt hi geseonde geseon and na ne geseon and gehyrende gehyren and ne ongyten ðe læs hi hwænne syn gescyrede. And him sin hyra synna forgyfene;
 # text_en = that they seeing may see and not see, and hearing may hear and not understand, lest that they be turned and their sins be forgiven them.									
 1	Ðæt	ðæt ‘that, so that, in order that’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	hi	hīe (PRON)	PRON	pronoun	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
@@ -2412,7 +2412,7 @@
 29	;	;	PUNCT	punctuation	Uninflected=Yes	28	punct	_	_
 									
 # sent_id = ÆHOM1.001.083.001.
-# text = Ða cwædon hi betwux him ðæt hi woldon wyrcan ane burh, and ænne stypel binnon ðære byrig, swa heahne ðæt his hrof astige up to heofenum: and begunnon ða to wyrcenne.									
+# text = Ða cwædon hi betwux him ðæt hi woldon wyrcan ane burh, and ænne stypel binnon ðære byrig, swa heahne ðæt his hrof astige up to heofenum: and begunnon ða to wyrcenne.
 # text_en = Then said they among themselves that they would make a city, and a tower within that city, so high that its roof should mount up to heaven: and they begun to work.									
 1	Ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	2	advmod	_	_
 2	cwædon	cweðan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2451,7 +2451,7 @@
 35	.	.	PUNCT	punctuation	Uninflected=Yes	34	punct	_	_
 									
 # sent_id = ASCA.YEAR0760.001.002
-# text = se was Wihtredes sunu cinges.									
+# text = se was Wihtredes sunu cinges.
 # text_en = who was King Wihtred's son.									
 1	se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	4	nsubj	_	_
 2	was	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
@@ -2461,7 +2461,7 @@
 6	.	.	PUNCT	punctuation	Uninflected=Yes	4	punct	_	_
 									
 # sent_id = LAWSWI1.007.002.
-# text = and ðæt ne geweorðe buton he leafnesse habbe, ðæt hine man læng feormige.									
+# text = and ðæt ne geweorðe buton he leafnesse habbe, ðæt hine man læng feormige.
 # text_en = and unless he has permission, he shall not be entertained further.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
 2	ðæt	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing|PronType=DemArt	4	nsubj	_	_
@@ -2480,7 +2480,7 @@
 15	.	.	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
 									
 # sent_id = LAWSWI1.027.002.
-# text = gif hine man acwelle, ðam agende hi man healfne agelde.									
+# text = gif hine man acwelle, ðam agende hi man healfne agelde.
 # text_en = If he is put to death, half his value shall be paid to the man who has him his power.									
 1	gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	hine	he (PRON)	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
@@ -2496,7 +2496,7 @@
 12	.	.	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
 # sent_id = LAWSABT.001.050.001.
-# text = Se ðe cinban forslæhð, mid XX scillingum forgelde.									
+# text = Se ðe cinban forslæhð, mid XX scillingum forgelde.
 # text_en = He who smashes a chin bone, shall pay for it with 20 shillings.									
 1	Se	se-sēo-ðæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	9	nsubj	_	_
 2	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	4	nsubj	_	_
@@ -2510,7 +2510,7 @@
 10	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = LAWSABT.001.072.001.
-# text = Gif ðare mycclan taan nægl of weorðeð, XXX scætta to bote.									
+# text = Gif ðare mycclan taan nægl of weorðeð, XXX scætta to bote.
 # text_en = If the nail of the big toe is knocked off, 30 sceattas shall be paid as compensation.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	7	mark	_	_
 2	ðare	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Gen|Gender=Fem|Number=Sing|PronType=DemArt	4	det	_	_
@@ -2527,7 +2527,7 @@
 13	.	.	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
 # sent_id = LAWSWI.00.003.002.
-# text = eac ðan Hrofesceastre bisceop (se ilca Gybmund wæs haten) andward wæs;									
+# text = eac ðan Hrofesceastre bisceop (se ilca Gybmund wæs haten) andward wæs;
 # text_en = the bishop of Rochester, who was called Gefmund;									
 1	eac	ēac ‘also’	ADV	adverb	Uninflected=Yes	12	advmod	_	_
 2	ðan	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Ins|Number=Sing|PronType=DemArt	3	det	_	_
@@ -2545,7 +2545,7 @@
 14	;	;	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
 # sent_id = LAWSWI1.002.001.
-# text = Ciricean mundbyrd sie L scillinga swa cinges.									
+# text = Ciricean mundbyrd sie L scillinga swa cinges.
 # text_en = The mundbyrd of the Church shall be 50 shillings like the king's.									
 1	Ciricean	cirice 	NOUN	common noun	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 2	mundbyrd	mundbyrd	NOUN	common noun	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -2557,7 +2557,7 @@
 8	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
 # sent_id = LAWSWI1.012.002.
-# text = Gif butwu deoflum geldað, sion hio healsfange scyldigo and ealra æhtan.									
+# text = Gif butwu deoflum geldað, sion hio healsfange scyldigo and ealra æhtan.
 # text_en = If both make offerings to devils they shall forfeit their healsfangs or all their goods.									
 1	Gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	butwu	būtu (PRON)	PRON	pronoun	Case=Nom|Number=Plur	4	nsubj	_	_
@@ -2574,7 +2574,7 @@
 13	.	.	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = MARK.002.013.001.
-# text = eft he ut eode to ðære sæ. And eall seo menigeo him to com and he hi lærde.									
+# text = eft he ut eode to ðære sæ. And eall seo menigeo him to com and he hi lærde.
 # text_en = Again he went forth to the sea, and all the crowd came to him, and he taught them.									
 1	eft	eft	ADV	adverb	Uninflected=Yes	4	advmod	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -2598,7 +2598,7 @@
 20	.	.	PUNCT	punctuation	Uninflected=Yes	19	punct	_	_
 									
 # sent_id = MARK.004.004.001.
-# text = And ða he sew sum feoll wið ðone weg. And fugelas comon and hit fræton;									
+# text = And ða he sew sum feoll wið ðone weg. And fugelas comon and hit fræton;
 # text_en = And when he sowed some fell by the way, and the fowls came and ate it up.									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
 2	ða	ðā ‘then’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
@@ -2619,7 +2619,7 @@
 17	;	;	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
 # sent_id = MARK.004.019.001.
-# text = And ofyrmðe and swicdome woroldwelene. And oðra gewilnunga ðæt word ofðrymsað. And synt buton wæstme gewordene.									
+# text = And ofyrmðe and swicdome woroldwelene. And oðra gewilnunga ðæt word ofðrymsað. And synt buton wæstme gewordene.
 # text_en = and, out of want, and the deceit of world-wealth, and other wishes, the word choketh, and it is made without fruit.									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	12	cc	_	_
 2	ofyrmðe	iermð	NOUN	common noun	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	_
@@ -2642,7 +2642,7 @@
 19	.	.	PUNCT	punctuation	Uninflected=Yes	18	punct	_	_
 									
 # sent_id = MARK.004.029.001.
-# text = And ðonne se wæstm hine forðbringð. sona he sent his sicol forðam ðæt rip æt is.									
+# text = And ðonne se wæstm hine forðbringð. sona he sent his sicol forðam ðæt rip æt is.
 # text_en = And when fruit is brought forth to him, soon he sent his sickle, for that the reaping time is come.									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	10	cc	_	_
 2	ðonne	ðonne ‘then’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	6	mark	_	_
@@ -2664,7 +2664,7 @@
 18	.	.	PUNCT	punctuation	Uninflected=Yes	16	punct	_	_
 									
 # sent_id = MARK.003.030.001.
-# text = forðam ðe hi cwædon he hæfð unclænne gast.									
+# text = forðam ðe hi cwædon he hæfð unclænne gast.
 # text_en = For they said, He hath an unclean spirit!									
 1	forðam	forðǣm ‘for that cause’	ADV	adverb	Uninflected=Yes	4	advmod	_	_
 2	ðe	ðe ‘that, who’ (PRON)	PRON	pronoun	Invariable=Yes|PronType=Rel	1	fixed	_	_
@@ -2677,7 +2677,7 @@
 9	.	.	PUNCT	punctuation	Uninflected=Yes	6	punct	_	_
 									
 # sent_id = MARK.005.040.002.
-# text = He ða eallum ut adrifenum. nam petrum and ðæs mædenes modor. And ða ðe mid him wæron. And inneodon suwiende ðar ðæt mæden wæs.									
+# text = He ða eallum ut adrifenum. nam petrum and ðæs mædenes modor. And ða ðe mid him wæron. And inneodon suwiende ðar ðæt mæden wæs.
 # text_en = He then, all driven out except the maiden's father and mother, and they that were with him, went silently in where the maiden was,									
 1	He	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 2	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	7	advmod	_	_
@@ -2709,7 +2709,7 @@
 28	.	.	PUNCT	punctuation	Uninflected=Yes	24	punct	_	_
 									
 # sent_id = MARK.006.001.001.
-# text = And ða he ðanon eode he ferde on his eðel. And him folgodon his leorningcnihtas;									
+# text = And ða he ðanon eode he ferde on his eðel. And him folgodon his leorningcnihtas;
 # text_en = AND when he went out thence, he went forth into his own country and his learning-knights followed him.									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
 2	ða	ðā ‘then’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -2730,7 +2730,7 @@
 17	;	;	PUNCT	punctuation	Uninflected=Yes	14	punct	_	_
 									
 # sent_id = MARK.007.016.001.
-# text = gif hwa earan hæbbe gehlyste me;									
+# text = gif hwa earan hæbbe gehlyste me;
 # text_en = If any man have ears let him listen to me.									
 1	gif	gif (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	hwa	hwā-hwæt (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
@@ -2741,7 +2741,7 @@
 7	;	;	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
 # sent_id = MARK.002.014.001.
-# text = And ða he forð eode he geseah leuin alphei. sittende æt his cepsetle. And he cwæð to him folga me.									
+# text = And ða he forð eode he geseah leuin alphei. sittende æt his cepsetle. And he cwæð to him folga me.
 # text_en = And when he went forth he saw Alpheus's Leuin, sitting at his toll-settle, and he saith to him, Follow me!									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
 2	ða	ðā ‘then’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	5	mark	_	_
@@ -2768,7 +2768,7 @@
 23	.	.	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
 									
 # sent_id = MARK.004.007.002.
-# text = ða stigon ða ðornas and forðrysmodon ðæt. And hit wæstm ne bær.									
+# text = ða stigon ða ðornas and forðrysmodon ðæt. And hit wæstm ne bær.
 # text_en = then the thorns rose up and choked it, and it bare no fruit.									
 1	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	2	advmod	_	_
 2	stigon	stīgan(ge)	VERB	main-verb	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2786,7 +2786,7 @@
 14	.	.	PUNCT	punctuation	Uninflected=Yes	13	punct	_	_
 									
 # sent_id = MARK.006.007.001.
-# text = And him twelfe togeclypode. And agan hi sendan twam and twam. And him anweald sealde unclænra gasta.									
+# text = And him twelfe togeclypode. And agan hi sendan twam and twam. And him anweald sealde unclænra gasta.
 # text_en = And he called twelve to him, and began to send them two and two, and gave them power over unclean ghosts,									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
 2	him	he (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=YesSara	4	iobj	_	_
@@ -2810,7 +2810,7 @@
 20	.	.	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
 									
 # sent_id = OROS.0.006.002.
-# text = and hu hie siððan ealra hiora wæstma ðone fiftan dæl ælce geare heora cyninge to gafole gesellað æfter his gesetnesse.									
+# text = and hu hie siððan ealra hiora wæstma ðone fiftan dæl ælce geare heora cyninge to gafole gesellað æfter his gesetnesse.
 # text_en = and how they afterwards, according to his appointment, gave every year the fifth part of all their fruits to their king as tribute.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	17	cc	_	_
 2	hu	hū	ADV	adverb	Uninflected=Yes	17	advmod	_	_
@@ -2835,7 +2835,7 @@
 21	.	.	PUNCT	punctuation	Uninflected=Yes	17	punct	_	_
 									
 # sent_id = MARK.003.032.001.
-# text = And mycel menigu ymb hine sæt and to him cwædon. her is ðin modor and ðine gebroðra ute and secað ðe;									
+# text = And mycel menigu ymb hine sæt and to him cwædon. her is ðin modor and ðine gebroðra ute and secað ðe;
 # text_en = And a great crowd sat round him, and they said to him, Here is thy mother and thy brothers without, and they seek thee!									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
 2	mycel	micel ‘great’	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
@@ -2862,7 +2862,7 @@
 23	;	;	PUNCT	punctuation	Uninflected=Yes	21	punct	_	_
 									
 # sent_id = MARK.004.033.001.
-# text = And manegum swylcum bigspellum he spræc to him ðæt hi mihton gehyran;									
+# text = And manegum swylcum bigspellum he spræc to him ðæt hi mihton gehyran;
 # text_en = And in many such by-tales he spake to them that they might hear.									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	6	cc	_	_
 2	manegum	manig	DET	determiner	Case=Dat|Gender=Neut|Number=Plur	4	det	_	_
@@ -2879,7 +2879,7 @@
 13	;	;	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
 # sent_id = MARK.004.038.001.
-# text = and he wæs on scipe ofer bolster slapende. And hi awehton hine and cwædon. ne belimpð to ðe ðæt we forwurðað.									
+# text = and he wæs on scipe ofer bolster slapende. And hi awehton hine and cwædon. ne belimpð to ðe ðæt we forwurðað.
 # text_en = And he was in the ship, sleeping upon a bolster. And they awoke him and said, Pertaineth it not to thee that we die?									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	8	cc	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
@@ -2907,7 +2907,7 @@
 24	.	.	PUNCT	punctuation	Uninflected=Yes	23	punct	_	_
 									
 # sent_id = MARK.006.022.002.
-# text = Se cing cwæð ða to ðam mædene. bide me swa hwæt swa ðu wylle and ic ðe sylle;									
+# text = Se cing cwæð ða to ðam mædene. bide me swa hwæt swa ðu wylle and ic ðe sylle;
 # text_en = then the king saith to the maiden, Bid me whatever thou wilt and I give it thee!									
 1	Se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	2	det	_	_
 2	cing	cyning 	NOUN	common noun	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -2931,7 +2931,7 @@
 20	;	;	PUNCT	punctuation	Uninflected=Yes	19	punct	_	_
 									
 # sent_id = MARK.006.038.001.
-# text = Ða cwæð he hu fela hlafa hæbbe ge. gað and lociað.									
+# text = Ða cwæð he hu fela hlafa hæbbe ge. gað and lociað.
 # text_en = Then saith he, How many loaves have ye? Go and look.									
 1	Ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	2	advmod	_	_
 2	cwæð	cweðan(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pret|VerbForm=Fin	0	root	_	_
@@ -2948,7 +2948,7 @@
 13	.	.	PUNCT	punctuation	Uninflected=Yes	12	punct	_	_
 									
 # sent_id = MARK.007.024.001.
-# text = Ða ferde he ðanon on ða endas tiri and sidonis.									
+# text = Ða ferde he ðanon on ða endas tiri and sidonis.
 # text_en = Then went he forth thence into the ends of Tyrus and Sidon.									
 1	Ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	2	advmod	_	_
 2	ferde	fēran	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pret|VerbForm=Fin	0	root	_	_
@@ -2963,7 +2963,7 @@
 11	.	.	PUNCT	punctuation	Uninflected=Yes	2	punct	_	_
 									
 # sent_id = MARK.006.045.001.
-# text = Ða sona he nydde his leorningcnihtas on scyp stigan. Ðæt hi him beforan foron ofer ðæne muðan to bethsaida. oð he ðæt folc forlete;									
+# text = Ða sona he nydde his leorningcnihtas on scyp stigan. Ðæt hi him beforan foron ofer ðæne muðan to bethsaida. oð he ðæt folc forlete;
 # text_en = Then soon he urged his learning-knights to go up into the ship that they might go before him over the mouth to Bethsaida, while he let the folk go.									
 1	Ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	4	advmod	_	_
 2	sona	sōna	ADV	adverb	Uninflected=Yes	4	advmod	_	_
@@ -2994,7 +2994,7 @@
 27	;	;	PUNCT	punctuation	Uninflected=Yes	26	punct	_	_
 									
 # sent_id = MARK.006.014.002.
-# text = Soðlice his nama wæs swutol geworden and he cwæð; Witodlice Iohannes se fulluhtere of deaðe aras. And on him synd forðam mægenu geworht;									
+# text = Soðlice his nama wæs swutol geworden and he cwæð; Witodlice Iohannes se fulluhtere of deaðe aras. And on him synd forðam mægenu geworht;
 # text_en = truly his proper noun was made manifest, and he saith, Surely Johannes the Washer has risen from death, and therefore mighty things are wrought in him.									
 1	Soðlice	sōðlīce	ADV	adverb	Uninflected=Yes	6	advmod	_	_
 2	his	his (POSS)	PRON	pronoun	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	_
@@ -3024,7 +3024,7 @@
 26	;	;	PUNCT	punctuation	Uninflected=Yes	25	punct	_	_
 									
 # sent_id = MARK.006.045.001.
-# text = Ða sona he nydde his leorningcnihtas on scyp stigan. Ðæt hi him beforan foron ofer ðæne muðan to bethsaida. oð he ðæt folc forlete;									
+# text = Ða sona he nydde his leorningcnihtas on scyp stigan. Ðæt hi him beforan foron ofer ðæne muðan to bethsaida. oð he ðæt folc forlete;
 # text_en = Then soon he urged his learning-knights to go up into the ship that they might go before him over the mouth to Bethsaida, while he let the folk go.									
 1	Ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	4	advmod	_	_
 2	sona	sōna	ADV	adverb	Uninflected=Yes	4	advmod	_	_
@@ -3055,7 +3055,7 @@
 27	;	;	PUNCT	punctuation	Uninflected=Yes	26	punct	_	_
 									
 # sent_id = MARK.002.014.002.
-# text = ða aras he and folgode him.									
+# text = ða aras he and folgode him.
 # text_en =  Then arose he and followed him.									
 1	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	2	advmod	_	_
 2	aras	ārīsan ‘to arise; to rise; to spring from; to ascend’	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pret|VerbForm=Fin	0	root 	_	_
@@ -3066,7 +3066,7 @@
 7	.	.	PUNCT	punctuation	Uninflected=Yes	5	punct	_	_
 									
 # sent_id = MARK.004.011.001.
-# text = And he sæde him. eow is geseald to witanne godes rices gerynu;									
+# text = And he sæde him. eow is geseald to witanne godes rices gerynu;
 # text_en = And he said to them, To you is given to know God's realm's secret.									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -3084,7 +3084,7 @@
 14	;	;	PUNCT	punctuation	Uninflected=Yes	10	punct	_	_
 									
 # sent_id = MARK.006.027.002.
-# text = And he hine ða on cwerterne beheafdode.									
+# text = And he hine ða on cwerterne beheafdode.
 # text_en = And he then beheaded him in the prison,									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
@@ -3096,7 +3096,7 @@
 8	.	.	PUNCT	punctuation	Uninflected=Yes	7	punct	_	_
 									
 # sent_id = MARK.003.034.001.
-# text = And he cwæð ða behealdende ðe him abuton sæton. her is min modor and mine gebroðru;									
+# text = And he cwæð ða behealdende ðe him abuton sæton. her is min modor and mine gebroðru;
 # text_en = And he saith, beholding them that sat about him, Here is my mother and my brothers.									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	3	cc	_	_
 2	he	he (PRON)	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -3118,7 +3118,7 @@
 18	;	;	PUNCT	punctuation	Uninflected=Yes	11	punct	_	_
 									
 # sent_id = MARK.004.037.001.
-# text = And ða wæs mycel yst windes geworden. And yða he awearp on ðæt scyp ðæt hit gefylled wæs									
+# text = And ða wæs mycel yst windes geworden. And yða he awearp on ðæt scyp ðæt hit gefylled wæs
 # text_en = And then a great storm of wind was made, and it cast waves into the ship so that it was filled.									
 1	And	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	7	cc	_	_
 2	ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	7	advmod	_	_
@@ -3141,7 +3141,7 @@
 19	wæs	bēon/wesan/sēon ‘to be’	AUX	auxiliary-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
 									
 # sent_id = MARK.005.002.001.
-# text = and him of scipe gangendum him sona agen arn an man of ðam byrgenum on unclænum gaste;									
+# text = and him of scipe gangendum him sona agen arn an man of ðam byrgenum on unclænum gaste;
 # text_en = And to him going out of the ship, to him soon again ran a man out of the burying-places in an unclean ghost,									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	9	cc	_	_
 2	him	he (PRON)	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
@@ -3163,7 +3163,7 @@
 18	;	;	PUNCT	punctuation	Uninflected=Yes	9	punct	_	_
 									
 # sent_id = MARK.006.021.001.
-# text = Ða se dæg com herodes gebrydtide he gegearwode mycele feorme his ealdormannum. And ðam fyrmestum on galilea.									
+# text = Ða se dæg com herodes gebrydtide he gegearwode mycele feorme his ealdormannum. And ðam fyrmestum on galilea.
 # text_en = When the day came of Herodes' birth-tide, he made ready a great meal for his aldermen and for the foremost in Galilea.									
 1	Ða	ðā ‘then’ (CONJ)	SCONJ	SCONJ	Uninflected=Yes	4	mark	_	_
 2	se	se-sēo-ðæt (DEM)	DET	demonstrative-article	Case=Nom|Gender=Masc|Number=Sing|PronType=DemArt	3	det	_	_
@@ -3186,7 +3186,7 @@
 19	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = MARK.008.005.001.
-# text = Ða axode he hi hu fela hlafa hæbbe ge.									
+# text = Ða axode he hi hu fela hlafa hæbbe ge.
 # text_en = Then asked he them, How many loaves have ye?									
 1	Ða	ðā ‘then’	ADV	adverb	Uninflected=Yes	2	advmod	_	_
 2	axode	āscian(ge)	VERB	main-verb	Mood=Ind|Number=Sing|Person=3|Tense=Pret|VerbForm=Fin	0	root	_	_
@@ -3200,7 +3200,7 @@
 10	.	.	PUNCT	punctuation	Uninflected=Yes	8	punct	_	_
 									
 # sent_id = OROS.0.011.004.
-# text = and ymbe ða Gotan, ðe him fore andredan ge Pirrus se reða Creca cyning, ge se mæra Alexander, ge Iulius se casere.									
+# text = and ymbe ða Gotan, ðe him fore andredan ge Pirrus se reða Creca cyning, ge se mæra Alexander, ge Iulius se casere.
 # text_en = And about the Goths whom Pyrrhus, the cruel king of Greece, and Alexander the Great, as well as Julius, the emperor, dreaded.									
 1	and	and 'and' (CONJ)	CCONJ	CCONJ	Uninflected=Yes	4	cc	_	_
 2	ymbe	ymbe ‘around’ (PREP)	ADP	adposition	Uninflected=Yes	4	case	_	_
