@@ -72,6 +72,7 @@ You may also be interested in the new version of the Nerthus database, an interf
 Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction
 Lemmas: manual native
 UPOS: manual native
